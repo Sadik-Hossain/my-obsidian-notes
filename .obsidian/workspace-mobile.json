@@ -1,0 +1,189 @@
+{
+  "main": {
+    "id": "c5723b8f7ded4bfa",
+    "type": "split",
+    "children": [
+      {
+        "id": "3df28231ec9949c9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ef848b665bc2afda",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Audience building/Attention.md",
+                "mode": "source",
+                "source": false
+              }
+            },
+            "group": "706a05c7063feb7f"
+          }
+        ]
+      },
+      {
+        "id": "7bbaa1c6d0997302",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5fb9a9e1ba1223ed",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Audience building/Attention.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": true
+                }
+              }
+            },
+            "group": "706a05c7063feb7f"
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cf9e36a8bd399b50",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "804acb780e7898b7",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "aa1cad6ee8432b6b",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "cefacfc8742469fb",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "4bc514225972233a",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "57e528db26bfaf4d",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "6254533828ce69fe",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Audience building/Attention.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "e4d5dc4d72497768",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Audience building/Attention.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "ec25e0da2137ea0b",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Audience building/Attention.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "publish:Publish changes...": false
+    }
+  },
+  "active": "ef848b665bc2afda",
+  "lastOpenFiles": [
+    "Ideas/Business idea/Web business.md",
+    "Audience building/Attention.md",
+    "Audience building",
+    "Ideas/Business idea",
+    "Ideas",
+    "MyVault/Marko.md",
+    "MyVault/Learn This Skill If You Want To Thrive The Next 10 yr.md",
+    "MyVault/Test/My note.md"
+  ]
+}

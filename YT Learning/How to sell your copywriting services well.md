@@ -214,3 +214,17 @@ the ideas that he's presenting, anything that you can use to give yourself ammu
  then you're going to qualify.\
  So qualify here is depending on the service that you offer, any other questions that you need to clear up, in order to decide ==whether or not you're a good fit for Luke's business?==
 
+
+So in my case, let's say one of my offers at one point was the six-figure virtual event. So for the six-figure virtual event, I need to know things like existing audience, list size, and how much marketing they're running already. There's a lot of stuff that I need to get into to know whether or not my six-figure virtual event can help them make their business dreams come true.
+
+So this is where I would do that. Any other qualifying questions, but here, we're just talking about a simple landing page, so I don't need to get into it. Just yes, Luke, this would move into step number four, which is permission to pitch before you move into your sale. Ask the person you're selling to whether or not you can sell them. Easy as that.
+
+Because then Luke says, "Yes, I give you permission to sell me," and there's going to be no resistance whatsoever. So I would say something along the lines of, "Great. So based on whatever you just said, I think I've got the perfect thing for you. Do you mind if I share what I'm thinking?" So Luke, based on everything that you just told me about the way that your business is operating right now, I think I have the perfect thing for you. Do you mind if I share what I'm thinking? "Go ahead. I'm curious." Perfect. Awesome.
+
+So he just gave me permission now to sell to him. And this is step number five, where I move into my pitch. This is not the full pitch like you would do on the second sales call. This is just an ideas pitch. So this is where you say, "Based on everything you told me, this is the direction that we should move in. Here's why I believe this is the right direction. Here's what you can expect if we choose to move together in this direction." So that's my pitch. That's really it. And then we go into step number...
+
+
+
+try to get prospect to admit that they needs to deliver some kind of persuasion, some kind of value, some kind of desire, before they're able to sell to their customer.\
+And so the path was leading them down to that way of why.\
+you need to know, or your customer need to know a little bit of about you before they come and spend money at you.

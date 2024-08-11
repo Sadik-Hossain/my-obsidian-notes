@@ -19,21 +19,8 @@
               }
             },
             "group": "706a05c7063feb7f"
-          },
-          {
-            "id": "ac37872da25846eb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Android.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "7bbaa1c6d0997302",
@@ -153,7 +140,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Android.md",
+            "file": "Audience building/Attention.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -170,7 +157,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Android.md",
+            "file": "Audience building/Attention.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -182,12 +169,20 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Android.md"
+            "file": "Audience building/Attention.md"
           }
+        }
+      },
+      {
+        "id": "c4300e3f852410a1",
+        "type": "leaf",
+        "state": {
+          "type": "git-view",
+          "state": {}
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 3
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -200,10 +195,10 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "ac37872da25846eb",
+  "active": "ef848b665bc2afda",
   "lastOpenFiles": [
-    "Audience building/Attention.md",
     "Android.md",
+    "Audience building/Attention.md",
     "Ideas/Business idea/Web business.md",
     "Audience building",
     "Ideas/Business idea",

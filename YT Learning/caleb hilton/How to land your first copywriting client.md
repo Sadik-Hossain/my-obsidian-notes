@@ -43,3 +43,30 @@ caleb@gmail.com
 calebcopy.com
 ```
 
+another example:
+**sub**:\
+`Could I be of value?`
+**body:**\
+```
+salut florence, 
+Im caleb, a copywriter, specialising in financial copy.
+CurrencyTransfer came up for me on Linkedin and I think you have a great website.
+
+Are there any marketing plans you have, like creating some extra landing pages or email campaigns? I'd love to help with them.
+
+I'm sure you've thought about a blog too, which would be great for SEO.
+
+Let me know if you think I can be of use, and we can have a discussion over the phone or via email.
+
+Here is my Linkedin:
+link1
+
+And my portfolio:
+link2
+
+All the best,
+Caleb
+```
+
+
+

@@ -19,8 +19,21 @@
               }
             },
             "group": "706a05c7063feb7f"
+          },
+          {
+            "id": "ac37872da25846eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Android.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "7bbaa1c6d0997302",
@@ -114,6 +127,18 @@
           "type": "bookmarks",
           "state": {}
         }
+      },
+      {
+        "id": "9a08588b26840775",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          }
+        }
       }
     ],
     "currentTab": 0
@@ -128,7 +153,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Audience building/Attention.md",
+            "file": "Android.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -145,7 +170,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Audience building/Attention.md",
+            "file": "Android.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -157,7 +182,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Audience building/Attention.md"
+            "file": "Android.md"
           }
         }
       }
@@ -175,10 +200,11 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "ef848b665bc2afda",
+  "active": "ac37872da25846eb",
   "lastOpenFiles": [
-    "Ideas/Business idea/Web business.md",
     "Audience building/Attention.md",
+    "Android.md",
+    "Ideas/Business idea/Web business.md",
     "Audience building",
     "Ideas/Business idea",
     "Ideas",

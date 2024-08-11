@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "b55a02fc4480b8fb",
@@ -162,7 +163,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -175,7 +177,7 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "128adf6bfeba6bce",
+  "active": "1dc5350087381b8a",
   "lastOpenFiles": [
     "Courses/FEM/Find Client/define the market you wish to target.md",
     "Courses/FEM/Find Client/Index.md",

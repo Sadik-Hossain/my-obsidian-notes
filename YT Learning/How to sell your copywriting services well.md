@@ -158,6 +158,8 @@ So that's how you transition from your outreach. You try to get them onto a cal
 	the way that we want to do it, is just like we were doing in the upward inbound.\
 	We're going to get all of the information, that we need to discover prospect's motivations & why they wants to move towards the result that we are promising that we can get them.
 - **validate & qualify**\
+	 You always want to find reasons to compliment your prospect. You never want to tell them that they suck before you get to this point. And even when you tell 'em they suck, you're still complimenting them.\ 
+	 It's all a game of making Luke feel like I'm a normal, good, awesome human being. I'm not just some forceful marketing  idiot. Who's trying to control his business. So, I'm gonna validate him.
 - **permission to pitch**\
 - **pitch**\
 - **make sure they understand**\
@@ -209,3 +211,6 @@ during every sales call,\
 You wanna be taking notes of the specific words that he's using to describe his motivations, the things that he's tried that have worked and have not worked.\
 the ideas that he's presenting, anything that you can use to give yourself ammunition, when it comes to presenting your ideas.
  
+ then you're going to qualify.\
+ So qualify here is depending on the service that you offer, any other questions that you need to clear up, in order to decide ==whether or not you're a good fit for Luke's business?==
+

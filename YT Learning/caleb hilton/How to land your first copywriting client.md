@@ -70,3 +70,6 @@ Caleb
 
 
 
+> [!tip] Prospect -> Outreach -> Follow up
+
+

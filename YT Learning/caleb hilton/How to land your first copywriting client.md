@@ -23,8 +23,8 @@ You're pretty much scouting & knocking on the door and saying,\
 
 **email template**\
 **sub:**\
-`Need any help with your content {Name}?`
-**body:**\
+`Need any help with your content {Name}?`\
+**body:**
 ```
 Hi {NAME},
 Hope you're well.
@@ -43,10 +43,10 @@ caleb@gmail.com
 calebcopy.com
 ```
 
-another example:
+another example:\
 **sub**:\
-`Could I be of value?`
-**body:**\
+`Could I be of value?`\
+**body:**
 ```
 salut florence, 
 Im caleb, a copywriter, specialising in financial copy.
@@ -67,6 +67,45 @@ link2
 All the best,
 Caleb
 ```
+
+prospect replied,
+
+```
+Hi Caleb,
+
+I've just posted a job on Upwork:
+link
+
+I'm currently going through potential candidates on this platform so we can start working on paid-test projects for our blog.
+
+How much do you charge per hour/project?
+
+Cheers
+```
+
+caleb replied,
+
+```
+Hey Florence,
+
+Thanks for the extra information.
+
+I've just measured some of the blogs on Currency Transfer and they seem to be around 1,000-1,200 words, depending on the category.
+
+The price would depend on how much research I am required to do and whether it needs to be SEO optimised. I normally charge around £50-100 per blog (which equates to 5-10p a word or £25 p/h), depending on these factors. Does that work for you? We can negotiate a price within this range.
+
+If you send me a brief for a paid test, then I would love to give it a try. I can start straight away.
+
+FYI, when I was at Paysafe, I wrote several articles for Skrill News (one of their digital wallets).
+
+Here is one I wrote on FX: link
+
+Thanks!
+
+Caleb
+```
+
+
 
 
 

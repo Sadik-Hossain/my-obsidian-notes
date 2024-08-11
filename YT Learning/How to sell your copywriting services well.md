@@ -207,5 +207,5 @@ he wants, how he thinks he's going to get there and what he likes, what he doesn
 
 during every sales call,\
 You wanna be taking notes of the specific words that he's using to describe his motivations, the things that he's tried that have worked and have not worked.\
-the ideas that he's presenting, anything that you can use to give yourself ammunition when it comes to presenting your ideas.
+the ideas that he's presenting, anything that you can use to give yourself ammunition, when it comes to presenting your ideas.
  

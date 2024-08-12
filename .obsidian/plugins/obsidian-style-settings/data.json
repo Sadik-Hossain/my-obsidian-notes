@@ -1,5 +1,15 @@
 {
   "things-style@@active-line": true,
   "things-style@@fancy-highlight": true,
-  "things-style@@fancy-code": true
+  "things-style@@fancy-code": true,
+  "minimal-advanced@@styled-scrollbars": true,
+  "minimal-style@@callouts-style": "callouts-default",
+  "minimal-style@@callout-blend-mode": "normal",
+  "minimal-style@@sidebar-tabs-style": "sidebar-tabs-underline",
+  "minimal-style@@sidebar-tabs-names": "tab-names-off",
+  "minimal-style@@vault-profile-display": "vault-profile-default",
+  "minimal-style@@hide-settings": false,
+  "minimal-style@@ribbon-style": "ribbon-hidden",
+  "minimal-style@@tabs-style": "tabs-default",
+  "minimal-advanced@@cursor": "pointer"
 }

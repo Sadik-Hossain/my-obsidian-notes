@@ -12,6 +12,7 @@ who do we wanna work with?\
 who we wanna market to?
 
 ## Why you need to segment your market? / why its important to specialize
+
 **Less Competition**\
 The more specialized you are, the fewer others can offer what you offer. That means, less competition & less pitching for work.
 

@@ -47,8 +47,6 @@ so you're not really plagiarizing them, just repackaging them.
 
 ![[Pasted image 20240804211458.png]]![[Pasted image 20240804211521.png]]
 
-
-
 ---
 ##### How to find your unfair advantage
 ---

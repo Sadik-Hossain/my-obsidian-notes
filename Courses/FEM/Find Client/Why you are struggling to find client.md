@@ -157,7 +157,7 @@ Once on the mailing list, we will keep them engaged by providing regular and val
 The goal of keeping them engaged is that they remember you, when they need your services.
 
 ---
-#### 4. Encourage Contact
+### 4. Encourage Contact
 ---
 we use the mailings to encourage your subscribers to make personal contact with you and reach out to you if they need advice and support.
 

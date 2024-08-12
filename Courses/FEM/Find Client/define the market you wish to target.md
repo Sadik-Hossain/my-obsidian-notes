@@ -12,7 +12,6 @@ who do we wanna work with?\
 who we wanna market to?
 
 ## Why you need to segment your market? / why its important to specialize
----
 **Less Competition**\
 The more specialized you are, the fewer others can offer what you offer. That means, less competition & less pitching for work.
 
@@ -43,14 +42,13 @@ we will create a separate campaign with a landing page, **aimed at the type of a
 > Its because, you are not targeting the right audience and providing them with value regularly.
 
 
----
+
 ## How to find minimum viable audience
----
 This is the smallest group of people we can find, that is capable of generating of enough work to keep us busy for 2-3 yrs.
 
 This audience has to have to certain characteristics for this work well.\
 
----
+
 ### they Boost or amplify your voice
 ---
 There are some sectors/ groups of people has a strong sense of community.\
@@ -78,6 +76,6 @@ Are their figures within the community who are already well known and respected?
 
 become a big part of the community just by joining in and offering help/advice.
 
----
+
 ### Dont be afraid to go really nic
 ---

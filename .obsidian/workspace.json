@@ -167,12 +167,11 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 325.5,
-    "collapsed": true
+    "width": 473.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -186,7 +185,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7b36d44578badc51",
+  "active": "128adf6bfeba6bce",
   "lastOpenFiles": [
     "Courses/FEM/WebUx/Section 1 - The 4 Psychological Pillars of conversion.md",
     "hooked on hooks/Attention & Emotion.md",

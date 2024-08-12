@@ -11,11 +11,14 @@
             "id": "1dc5350087381b8a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "YT Learning/caleb hilton/How to land your first copywriting client.md",
-                "mode": "source",
-                "source": false
+                "file": "yt learning.canvas",
+                "viewState": {
+                  "x": -102.58166564538476,
+                  "y": 219.00703216910077,
+                  "zoom": -0.674258170391482
+                }
               }
             }
           }
@@ -69,8 +72,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "b55a02fc4480b8fb",
@@ -86,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "YT Learning/caleb hilton/How to land your first copywriting client.md",
+                "file": "yt learning.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "YT Learning/caleb hilton/How to land your first copywriting client.md",
+                "file": "yt learning.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "YT Learning/caleb hilton/How to land your first copywriting client.md"
+                "file": "yt learning.canvas"
               }
             }
           },
@@ -179,18 +181,21 @@
   },
   "active": "1dc5350087381b8a",
   "lastOpenFiles": [
+    "test canvas.canvas",
+    "yt learning.canvas",
+    "Untitled.md",
+    "test.md",
+    "Attention.pdf",
+    "01-What To Expect In Digital Economics.pdf",
     "YT Learning/How to sell your copywriting services well.md",
+    "YT Learning/35min Cold Calling masterclass.md",
+    "YT Learning/Company & jobs.md",
     "YT Learning/caleb hilton/How to land your first copywriting client.md",
     "Courses/FEM/Find Client/define the market you wish to target.md",
     "Courses/FEM/Find Client/Index.md",
     "Courses/FEM/Find Client/Why you are struggling to find client.md",
-    "YT Learning/Company & jobs.md",
-    "test.md",
-    "Untitled.md",
-    "Untitled.canvas",
     "Untitled 1.md",
     "Pasted image 20240811094635.png",
-    "YT Learning/35min Cold Calling masterclass.md",
     "YT Learning/caleb hilton/Land copywrite client start to finish.md",
     "YT Learning/caleb hilton",
     "YT Learning/nicolas cole/QnA.md",
@@ -204,8 +209,6 @@
     "YT Learning/Jeremy Miner/How Introverts Can Sell MORE Than Extroverts.md",
     "YT Learning/Jeremy Miner/The Psychology of selling with rene rodriguez.md",
     "YT Learning/ali abdal",
-    "Attention.pdf",
-    "01-What To Expect In Digital Economics.pdf",
     "Courses/FEM/WebUx/Section 1 - The 4 Psychological Pillars of conversion.md",
     "Pasted image 20240729110935.png",
     "Pasted image 20240729111437.png",
@@ -218,7 +221,6 @@
     "Derek Rake/Shogun/IRAE.md",
     "hooked on hooks/Attention & Emotion.md",
     "Ideas/Business idea/Web business.md",
-    "test canvas.canvas",
     "Derek Rake/Convo Seduction.md",
     "Derek Rake/Shogun/Intrigue.md",
     "Audience building/Attention.md",

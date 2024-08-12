@@ -107,6 +107,34 @@ Caleb
 ```
 
 
+## Upwork job filter
+---
+search -> copywriter in jobs
+go to sidepanel,\
+**select:** entry level and intermediate\
+tick fixed price\
+**client info:** payment verified\
+**client history:** 1 to 9 hires, 10+hires
+
+in order to land these client effectively,\
+you need to write cover letter. Apply to a job by clicking the job.\
+a popup will appear, click apply now.
+
+here's a cover letter example:\
+```
+hey {CLIENT}, im ready when you are.
+Send me a message, and lets hop on a call to discuss.
+
+P.S in the attachment, I have included some of my previous work as well, so that you know what to expect from me. 
+
+Have any more questions? Do not hesitate to contact me :)
+
+Wishing you a great day! 
+{YOUR NAME}
+```
+
+
+apply to 10 jobs per day, try this for 14 days.
 
 
 

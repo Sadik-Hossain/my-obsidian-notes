@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/FEM/Find Client/Why you are struggling to find client.md",
+                "file": "Courses/FEM/Find Client/define the market you wish to target.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Courses/FEM/Find Client/Why you are struggling to find client.md",
+                "file": "Courses/FEM/Find Client/define the market you wish to target.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Courses/FEM/Find Client/Why you are struggling to find client.md",
+                "file": "Courses/FEM/Find Client/define the market you wish to target.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Courses/FEM/Find Client/Why you are struggling to find client.md"
+                "file": "Courses/FEM/Find Client/define the market you wish to target.md"
               }
             }
           },
@@ -157,9 +157,17 @@
               "type": "git-view",
               "state": {}
             }
+          },
+          {
+            "id": "5d09eddbe6539354",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -180,9 +188,13 @@
   },
   "active": "7b36d44578badc51",
   "lastOpenFiles": [
+    "Courses/FEM/WebUx/Section 1 - The 4 Psychological Pillars of conversion.md",
+    "hooked on hooks/Attention & Emotion.md",
+    "YT Learning/caleb hilton/Land copywrite client start to finish.md",
+    "Courses/FEM/Find Client/Why you are struggling to find client.md",
+    "Courses/FEM/Find Client/Index.md",
     "Courses/FEM/Find Client/define the market you wish to target.md",
     "YT Learning/nicolas cole/QnA.md",
-    "Courses/FEM/Find Client/Index.md",
     "YT Learning/Jeremy Miner/46 Years of Sales Knowledge in 76 Minutes.md",
     "YT Learning/How to sell your copywriting services well.md",
     "YT Learning/35min Cold Calling masterclass.md",
@@ -195,10 +207,8 @@
     "Attention.pdf",
     "01-What To Expect In Digital Economics.pdf",
     "YT Learning/caleb hilton/How to land your first copywriting client.md",
-    "Courses/FEM/Find Client/Why you are struggling to find client.md",
     "Untitled 1.md",
     "Pasted image 20240811094635.png",
-    "YT Learning/caleb hilton/Land copywrite client start to finish.md",
     "YT Learning/caleb hilton",
     "YT Learning/nicolas cole",
     "YT Learning/ali abdal/How to Start Your First Business in 48 Hours.md",
@@ -209,7 +219,6 @@
     "YT Learning/Jeremy Miner/How Introverts Can Sell MORE Than Extroverts.md",
     "YT Learning/Jeremy Miner/The Psychology of selling with rene rodriguez.md",
     "YT Learning/ali abdal",
-    "Courses/FEM/WebUx/Section 1 - The 4 Psychological Pillars of conversion.md",
     "Pasted image 20240729110935.png",
     "Pasted image 20240729111437.png",
     "Pasted image 20240729112344.png",
@@ -219,7 +228,6 @@
     "Courses",
     "YT Learning/Jeremy Miner",
     "Derek Rake/Shogun/IRAE.md",
-    "hooked on hooks/Attention & Emotion.md",
     "Ideas/Business idea/Web business.md",
     "Derek Rake/Convo Seduction.md",
     "Derek Rake/Shogun/Intrigue.md",

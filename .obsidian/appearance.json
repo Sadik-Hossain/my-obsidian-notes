@@ -1,7 +1,10 @@
 {
   "accentColor": "",
   "theme": "obsidian",
-  "baseFontSize": 18,
-  "cssTheme": "LYT Mode",
-  "nativeMenus": false
+  "baseFontSize": 16,
+  "cssTheme": "",
+  "nativeMenus": false,
+  "interfaceFontFamily": "",
+  "textFontFamily": "",
+  "monospaceFontFamily": ""
 }

@@ -3,7 +3,6 @@
 https://www.youtube.com/watch?v=D5RHNgTIbNg
 
 ---
-
 ## How would you go about starting writing online with 0 audience?
 ---
 The platforms not broken, the market is not saturated, and you're not late to the party.

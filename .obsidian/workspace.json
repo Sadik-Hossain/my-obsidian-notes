@@ -4,25 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "422546b89262df7d",
+        "id": "20793b98b66b872a",
         "type": "tabs",
         "children": [
           {
-            "id": "1dc5350087381b8a",
+            "id": "7b36d44578badc51",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "yt learning.canvas",
-                "viewState": {
-                  "x": -102.58166564538476,
-                  "y": 219.00703216910077,
-                  "zoom": -0.674258170391482
-                }
+                "file": "YT Learning/How to sell your copywriting services well.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -88,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "yt learning.canvas",
+                "file": "YT Learning/How to sell your copywriting services well.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "yt learning.canvas",
+                "file": "YT Learning/How to sell your copywriting services well.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "yt learning.canvas"
+                "file": "YT Learning/How to sell your copywriting services well.md"
               }
             }
           },
@@ -179,17 +177,19 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "1dc5350087381b8a",
+  "active": "7b36d44578badc51",
   "lastOpenFiles": [
-    "test canvas.canvas",
+    "YT Learning/How to sell your copywriting services well.md",
+    "YT Learning/35min Cold Calling masterclass.md",
+    "YT Learning/nicolas cole/QnA.md",
     "yt learning.canvas",
+    "Audience building/Attention.md",
+    "YT Learning/Company & jobs.md",
+    "test canvas.canvas",
     "Untitled.md",
     "test.md",
     "Attention.pdf",
     "01-What To Expect In Digital Economics.pdf",
-    "YT Learning/How to sell your copywriting services well.md",
-    "YT Learning/35min Cold Calling masterclass.md",
-    "YT Learning/Company & jobs.md",
     "YT Learning/caleb hilton/How to land your first copywriting client.md",
     "Courses/FEM/Find Client/define the market you wish to target.md",
     "Courses/FEM/Find Client/Index.md",
@@ -198,7 +198,6 @@
     "Pasted image 20240811094635.png",
     "YT Learning/caleb hilton/Land copywrite client start to finish.md",
     "YT Learning/caleb hilton",
-    "YT Learning/nicolas cole/QnA.md",
     "YT Learning/nicolas cole",
     "YT Learning/ali abdal/How to Start Your First Business in 48 Hours.md",
     "Courses/FEM/Find Client",
@@ -223,7 +222,6 @@
     "Ideas/Business idea/Web business.md",
     "Derek Rake/Convo Seduction.md",
     "Derek Rake/Shogun/Intrigue.md",
-    "Audience building/Attention.md",
     "MyVault/Screenshot_20240331-010845.png"
   ]
 }

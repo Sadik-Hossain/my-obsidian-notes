@@ -82,7 +82,7 @@ here is the difference between what you're asking and what I'm talking about d
  
 And so acknowledge and validate what he just said to me,\
 ==present the opposition & then ask them whether or not that's valuable to them.==\
-That's how you can handle every single objection.
+That's *how* you can handle every single objection.
 
 
 > [!tip] Cold Outreach

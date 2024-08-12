@@ -14,7 +14,7 @@ The problem is:
 - who you are trying to reach
 - who you are trying to help
 
-And this is the hardest part when starting anything new, embrace to suck, embracing the fact that you dont know yet.\
+And this is the hardest part when starting anything new, embrace to suck, embracing the fact that you don't know yet.\
 And you have to go on the Journey of discovering and figuring that out.
 
 ==Just start & be consistent.==
@@ -155,7 +155,7 @@ if he/she don't know anything about mineral rocks, but the person who is obsesse
 ---
 how do you get that first?
 
-**==your Niche is your network==**
+==your Niche is your network==
 
 your Niche is not,\
 let me go pick some hyper specific category and position myself as an authority.
@@ -177,6 +177,6 @@ no! my first client is going to be and then you project this big fancy vision of
 
 your first client should just be someone in your life, that you know and you go help them and then you lead that work up to the next one and to the next one into the next one. *(referrals, word of mouth)*
 
-**==so in the very beginning, your Niche is your network.==**
+==so in the very beginning, your Niche is your network.==
 
 ---

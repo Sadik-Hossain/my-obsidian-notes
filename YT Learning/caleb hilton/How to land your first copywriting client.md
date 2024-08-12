@@ -5,6 +5,7 @@
 https://www.youtube.com/watch?v=JA3n8hviUUQ
 
 ---
+> [!tip] Prospect -> Outreach -> Follow up
 ## The process
 - **Get leads from fiverr (harlan)**\
 	you get a spreadsheet of peoples with:
@@ -109,6 +110,6 @@ Caleb
 
 
 
-> [!tip] Prospect -> Outreach -> Follow up
+
 
 

@@ -10,7 +10,7 @@ In this video things that will be covered,
 
 
 ## process of getting client
-
+---
 goes to fiverr,\
 and goes to a b2b lead generation sellers, and bought the a gold package of 500 leads.
 
@@ -35,7 +35,9 @@ country: USA
 }
 ```
 
+---
 ## Cold email process
+---
 
 caleb then use lemlist, which is an auto cold dming platform\
 he connect his linkedin & gmail account, and plug the lead list csv file. and write a cold dm templates that he wants to send to those leads.
@@ -84,9 +86,9 @@ every 20min (adjustable), lemlist will send new email, for 500 leads that caleb 
 
 caleb's sent schedule: (9am-6pm, mon-fri)
 
-
+---
 ## After getting reply
-
+---
 most people will ask for past works / samples.\
 and ask for a call.
 

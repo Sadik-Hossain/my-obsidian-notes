@@ -2,9 +2,9 @@
   "settings": {
     "migrated": 6,
     "iconPacksPath": ".obsidian/icons",
-    "fontSize": 17,
-    "emojiStyle": "twemoji",
-    "iconColor": "#00bfff",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
     "recentlyUsedIcons": [
       "💡",
       "LiBookOpen",
@@ -19,7 +19,7 @@
       "left": 0
     },
     "iconInTabsEnabled": false,
-    "iconInTitleEnabled": true,
+    "iconInTitleEnabled": false,
     "iconInTitlePosition": "above",
     "iconInFrontmatterEnabled": false,
     "iconInFrontmatterFieldName": "icon",

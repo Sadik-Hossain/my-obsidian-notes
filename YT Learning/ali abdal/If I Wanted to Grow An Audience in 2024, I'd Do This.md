@@ -4,7 +4,7 @@ https://www.youtube.com/watch?v=q9nYIa8b-6c
 
 ---
 
-### How to generate content ideas
+##### How to generate content ideas
 ---
 ideas stem from niche. Niche is the culmination of  2 things:
 - target
@@ -46,6 +46,8 @@ so you're not really plagiarizing them, just repackaging them.
 <br/>
 
 ![[Pasted image 20240804211458.png]]![[Pasted image 20240804211521.png]]
+
+
 
 ---
 ##### How to find your unfair advantage

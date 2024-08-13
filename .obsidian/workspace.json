@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9d20307a6f7b2c39",
+            "id": "a282e6c18733dc1c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "test.md",
+                "file": "Courses/FEM/Find Client/define the market you wish to target.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "test.md"
+                "file": "Courses/FEM/Find Client/define the market you wish to target.md"
               }
             }
           }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "test.md",
+                "file": "Courses/FEM/Find Client/define the market you wish to target.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "test.md",
+                "file": "Courses/FEM/Find Client/define the market you wish to target.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,8 +200,12 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "128adf6bfeba6bce",
+  "active": "a282e6c18733dc1c",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "test.md",
+    "hooked on hooks/Attention & Emotion.md",
+    "hooked on hooks",
     "Pasted image 20240811094635 2.png",
     "Pasted image 20240811094635 1.png",
     "Pasted image 20240729112344 1.png",
@@ -233,8 +237,6 @@
     "Courses/FEM/Find Client/define the market you wish to target.md",
     "MyVault/Marko.md",
     "Courses/FEM/Find Client/Index.md",
-    "Courses/FEM/Find Client/Why you are struggling to find client.md",
-    "Courses/FEM/Find Client/get the attention of your audience.md",
     "YT Learning/Tomstoic",
     "yt learning.canvas",
     "test canvas.canvas",
@@ -246,9 +248,7 @@
     "Courses/FEM/Find Client",
     "Pasted image 20240804211521.png",
     "Pasted image 20240804211458.png",
-    "YT Learning/ali abdal",
     "Pasted image 20240729110935.png",
-    "Pasted image 20240729111437.png",
-    "Pasted image 20240729112344.png"
+    "Pasted image 20240729111437.png"
   ]
 }

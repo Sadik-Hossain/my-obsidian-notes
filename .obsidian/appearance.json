@@ -6,5 +6,6 @@
   "nativeMenus": false,
   "interfaceFontFamily": "",
   "textFontFamily": "",
-  "monospaceFontFamily": ""
+  "monospaceFontFamily": "",
+  "showViewHeader": true
 }

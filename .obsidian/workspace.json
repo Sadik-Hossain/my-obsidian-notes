@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "d935a964d99e64fd",
+        "id": "58761602c4c71f5b",
         "type": "tabs",
         "children": [
           {
-            "id": "a3ca0ac9de0c4667",
+            "id": "81089b55bda7be74",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "YT Learning/ali abdal/If I Wanted to Grow An Audience in 2024, I'd Do This.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -96,7 +91,7 @@
       {
         "id": "88595026b0f94dc1",
         "type": "tabs",
-        "dimension": 57.24852071005916,
+        "dimension": 57.248520710059175,
         "children": [
           {
             "id": "823891417e197ad6",
@@ -104,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "YT Learning/ali abdal/If I Wanted to Grow An Audience in 2024, I'd Do This.md"
+                "file": "YT Learning/tada.md"
               }
             }
           }
@@ -113,7 +108,7 @@
       {
         "id": "c0e29ca39f2960da",
         "type": "tabs",
-        "dimension": 42.751479289940825,
+        "dimension": 42.75147928994083,
         "children": [
           {
             "id": "f837fc1ad0ac2ce9",
@@ -121,7 +116,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "YT Learning/ali abdal/If I Wanted to Grow An Audience in 2024, I'd Do This.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +132,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "YT Learning/ali abdal/If I Wanted to Grow An Audience in 2024, I'd Do This.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,8 +168,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -198,8 +190,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a3ca0ac9de0c4667",
+  "active": "9808f7f66cb415da",
   "lastOpenFiles": [
+    "YT Learning/tada.md",
+    "Templates/yt-learning.md",
+    "YT Learning/run this.md",
+    "YT Learning/ali abdal/If I Wanted to Grow An Audience in 2024, I'd Do This.md",
+    "Templates",
     "YT Learning/ali abdal/How to Start Your First Business in 48 Hours.md",
     "Untitled Kanban.md",
     "Untitled Kanban 5.md",
@@ -218,16 +215,12 @@
     "Courses/FEM/Find Client/Why you are struggling to find client.md",
     "Courses/FEM/Find Client/get the attention of your audience.md",
     "wikilinks.md",
-    "YT Learning/ali abdal/If I Wanted to Grow An Audience in 2024, I'd Do This.md",
     "YT Learning/Tomstoic/New way to make $1,000 a week as a copywriter.md",
     "YT Learning/Tomstoic",
     "MyVault/Test/My note.md",
     "nos.md",
     "Courses/hooked on hooks/Attention & Emotion.md",
     "YT Learning/caleb hilton/How to land your first copywriting client.md",
-    "Courses/FEM/WebUx/Section 1 - The 4 Psychological Pillars of conversion.md",
-    "YT Learning/caleb hilton/Land copywrite client start to finish.md",
-    "YT Learning/nicolas cole/QnA.md",
     "yt learning.canvas",
     "test canvas.canvas",
     "Attention.pdf",
@@ -244,7 +237,6 @@
     "Pasted image 20240729112344.png",
     "Pasted image 20240729195743.png",
     "Courses/FEM/WebUx",
-    "Courses/FEM",
     "MyVault/Screenshot_20240331-010845.png"
   ]
 }

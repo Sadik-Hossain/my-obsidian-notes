@@ -35,5 +35,6 @@
   "alwaysUpdateLinks": true,
   "showRibbon": true,
   "newFileLocation": "root",
-  "attachmentFolderPath": "./"
+  "attachmentFolderPath": "./",
+  "showInlineTitle": true
 }

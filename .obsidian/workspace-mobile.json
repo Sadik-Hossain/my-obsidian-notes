@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Audience building/Attention.md",
+                "file": "MyVault/Marko.md",
                 "mode": "preview",
                 "source": false
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Audience building/Attention.md",
+                "file": "MyVault/Marko.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -90,7 +90,7 @@
             "query": "",
             "matchingCase": false,
             "explainSearch": false,
-            "collapseAll": false,
+            "collapseAll": true,
             "extraContext": false,
             "sortOrder": "alphabetical"
           }
@@ -140,7 +140,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Audience building/Attention.md",
+            "file": "MyVault/Marko.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -157,7 +157,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Audience building/Attention.md",
+            "file": "MyVault/Marko.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -169,7 +169,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Audience building/Attention.md"
+            "file": "MyVault/Marko.md"
           }
         }
       },
@@ -192,11 +192,15 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "publish:Publish changes...": false
+      "publish:Publish changes...": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "dbfolder:Create a new database table": false
     }
   },
   "active": "ef848b665bc2afda",
   "lastOpenFiles": [
+    "YT Learning/35min Cold Calling masterclass.md",
+    "Audience building/Attention.md",
     "yt learning.canvas",
     "YT Learning/caleb hilton/How to land your first copywriting client.md",
     "/yt learning.canvas",
@@ -207,7 +211,6 @@
     "/Courses/FEM/Find Client/define the market you wish to target.md",
     "/Courses/FEM/Find Client/Why you are struggling to find client.md",
     "Android.md",
-    "Audience building/Attention.md",
     "Ideas/Business idea/Web business.md",
     "Audience building",
     "Ideas/Business idea",

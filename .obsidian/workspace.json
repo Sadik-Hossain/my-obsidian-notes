@@ -67,7 +67,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -188,14 +189,15 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "7b36d44578badc51",
+  "active": "dcf3e0c20befcff7",
   "lastOpenFiles": [
     "MyVault/Test/My note.md",
-    "nos.md",
     "YT Learning/ali abdal/If I Wanted to Grow An Audience in 2024, I'd Do This.md",
     "YT Learning/ali abdal/How to Start Your First Business in 48 Hours.md",
     "Courses/FEM/Find Client/Index.md",
     "Courses/FEM/Find Client/get the attention of your audience.md",
+    "MyVault/Marko.md",
+    "nos.md",
     "Courses/FEM/Find Client/define the market you wish to target.md",
     "hooked on hooks/Attention & Emotion.md",
     "YT Learning/caleb hilton/How to land your first copywriting client.md",
@@ -234,7 +236,6 @@
     "YT Learning/Jeremy Miner",
     "Derek Rake/Shogun/IRAE.md",
     "Ideas/Business idea/Web business.md",
-    "Derek Rake/Convo Seduction.md",
     "MyVault/Screenshot_20240331-010845.png"
   ]
 }

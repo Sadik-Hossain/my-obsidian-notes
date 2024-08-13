@@ -4,7 +4,7 @@ https://www.youtube.com/watch?v=q9nYIa8b-6c
 
 ---
 
-##### How to generate content ideas
+### How to generate content ideas
 ---
 ideas stem from niche. Niche is the culmination of  2 things:
 - target

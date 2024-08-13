@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "20793b98b66b872a",
+        "id": "a89075628389463f",
         "type": "tabs",
         "children": [
           {
-            "id": "7b36d44578badc51",
+            "id": "eb3e439743d61440",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "MyVault/Marko.md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -50,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#social-media",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -67,8 +67,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -169,11 +168,11 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 352.5,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -189,16 +188,18 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "dcf3e0c20befcff7",
+  "active": "eb3e439743d61440",
   "lastOpenFiles": [
-    "MyVault/Test/My note.md",
-    "YT Learning/ali abdal/If I Wanted to Grow An Audience in 2024, I'd Do This.md",
     "YT Learning/ali abdal/How to Start Your First Business in 48 Hours.md",
+    "YT Learning/ali abdal/If I Wanted to Grow An Audience in 2024, I'd Do This.md",
     "Courses/FEM/Find Client/Index.md",
-    "Courses/FEM/Find Client/get the attention of your audience.md",
-    "MyVault/Marko.md",
-    "nos.md",
     "Courses/FEM/Find Client/define the market you wish to target.md",
+    "YT Learning/Tomstoic/New way to make $1,000 a week as a copywriter.md",
+    "MyVault/Marko.md",
+    "YT Learning/Tomstoic",
+    "MyVault/Test/My note.md",
+    "Courses/FEM/Find Client/get the attention of your audience.md",
+    "nos.md",
     "hooked on hooks/Attention & Emotion.md",
     "YT Learning/caleb hilton/How to land your first copywriting client.md",
     "Courses/FEM/Find Client/Why you are struggling to find client.md",
@@ -233,9 +234,7 @@
     "Courses/FEM/WebUx",
     "Courses/FEM",
     "Courses",
-    "YT Learning/Jeremy Miner",
     "Derek Rake/Shogun/IRAE.md",
-    "Ideas/Business idea/Web business.md",
     "MyVault/Screenshot_20240331-010845.png"
   ]
 }

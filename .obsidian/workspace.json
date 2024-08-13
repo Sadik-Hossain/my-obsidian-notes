@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "58761602c4c71f5b",
+        "id": "ee9797eb28f35149",
         "type": "tabs",
         "children": [
           {
-            "id": "81089b55bda7be74",
+            "id": "9d20307a6f7b2c39",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "test.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ],
@@ -82,7 +87,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 253.5110321044922
+    "width": 253.5110321044922,
+    "collapsed": true
   },
   "right": {
     "id": "b55a02fc4480b8fb",
@@ -99,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "YT Learning/tada.md"
+                "file": "test.md"
               }
             }
           }
@@ -116,6 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,6 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +176,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -187,11 +196,24 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "workspaces:Manage workspace layouts": false,
       "obsidian-kanban:Create new board": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-projects:Open projects": false
     }
   },
-  "active": "9808f7f66cb415da",
+  "active": "9d20307a6f7b2c39",
   "lastOpenFiles": [
+    "Pasted image 20240811094635 2.png",
+    "Pasted image 20240811094635 1.png",
+    "Pasted image 20240729112344 1.png",
+    "Pasted image 20240804211521 1.png",
+    "Pasted image 20240804211458 1.png",
+    "result.md",
+    "test folder/note 3.md",
+    "test folder/note 2.md",
+    "2024-08-13.md",
+    "test folder/note 1.md",
+    "YT Learning/How to sell your copywriting services well.md",
+    "test folder",
     "YT Learning/tada.md",
     "Templates/yt-learning.md",
     "YT Learning/run this.md",
@@ -209,18 +231,11 @@
     "Excalidraw/Drawing 2024-08-13 11.33.39.excalidraw.md",
     "Excalidraw",
     "Courses/FEM/Find Client/define the market you wish to target.md",
-    "2024-08-13.md",
     "MyVault/Marko.md",
     "Courses/FEM/Find Client/Index.md",
     "Courses/FEM/Find Client/Why you are struggling to find client.md",
     "Courses/FEM/Find Client/get the attention of your audience.md",
-    "wikilinks.md",
-    "YT Learning/Tomstoic/New way to make $1,000 a week as a copywriter.md",
     "YT Learning/Tomstoic",
-    "MyVault/Test/My note.md",
-    "nos.md",
-    "Courses/hooked on hooks/Attention & Emotion.md",
-    "YT Learning/caleb hilton/How to land your first copywriting client.md",
     "yt learning.canvas",
     "test canvas.canvas",
     "Attention.pdf",
@@ -234,9 +249,6 @@
     "YT Learning/ali abdal",
     "Pasted image 20240729110935.png",
     "Pasted image 20240729111437.png",
-    "Pasted image 20240729112344.png",
-    "Pasted image 20240729195743.png",
-    "Courses/FEM/WebUx",
-    "MyVault/Screenshot_20240331-010845.png"
+    "Pasted image 20240729112344.png"
   ]
 }

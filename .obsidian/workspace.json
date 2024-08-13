@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "20793b98b66b872a",
+        "id": "d935a964d99e64fd",
         "type": "tabs",
         "children": [
           {
-            "id": "7b36d44578badc51",
+            "id": "a3ca0ac9de0c4667",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/FEM/Find Client/define the market you wish to target.md",
+                "file": "YT Learning/ali abdal/If I Wanted to Grow An Audience in 2024, I'd Do This.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -52,8 +52,8 @@
               "state": {
                 "query": "",
                 "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
+                "explainSearch": true,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
@@ -83,8 +83,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -95,9 +94,26 @@
     "type": "split",
     "children": [
       {
+        "id": "88595026b0f94dc1",
+        "type": "tabs",
+        "dimension": 57.24852071005916,
+        "children": [
+          {
+            "id": "823891417e197ad6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "YT Learning/ali abdal/If I Wanted to Grow An Audience in 2024, I'd Do This.md"
+              }
+            }
+          }
+        ]
+      },
+      {
         "id": "c0e29ca39f2960da",
         "type": "tabs",
-        "dimension": 50,
+        "dimension": 42.751479289940825,
         "children": [
           {
             "id": "f837fc1ad0ac2ce9",
@@ -105,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Courses/FEM/Find Client/define the market you wish to target.md",
+                "file": "YT Learning/ali abdal/If I Wanted to Grow An Audience in 2024, I'd Do This.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Courses/FEM/Find Client/define the market you wish to target.md",
+                "file": "YT Learning/ali abdal/If I Wanted to Grow An Audience in 2024, I'd Do This.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,28 +175,13 @@
               "state": {}
             }
           }
-        ]
-      },
-      {
-        "id": "bd58e0f5e46bb37e",
-        "type": "tabs",
-        "dimension": 50,
-        "children": [
-          {
-            "id": "823891417e197ad6",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Courses/FEM/Find Client/define the market you wish to target.md"
-              }
-            }
-          }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 376.5
+    "width": 340.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -192,19 +193,31 @@
       "command-palette:Open command palette": false,
       "publish:Publish changes...": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "workspaces:Manage workspace layouts": false
+      "workspaces:Manage workspace layouts": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f837fc1ad0ac2ce9",
+  "active": "a3ca0ac9de0c4667",
   "lastOpenFiles": [
-    "2024-08-13.md",
+    "YT Learning/ali abdal/How to Start Your First Business in 48 Hours.md",
+    "Untitled Kanban.md",
+    "Untitled Kanban 5.md",
+    "Untitled Kanban 4.md",
+    "Untitled Kanban 3.md",
+    "Untitled Kanban 2.md",
+    "Untitled Kanban 1.md",
+    "Excalidraw/Drawing 2024-08-13 11.41.04.excalidraw.md",
+    "YT Learning/Jeremy Miner/How Introverts Can Sell MORE Than Extroverts.md",
+    "Excalidraw/Drawing 2024-08-13 11.33.39.excalidraw.md",
+    "Excalidraw",
     "Courses/FEM/Find Client/define the market you wish to target.md",
+    "2024-08-13.md",
     "MyVault/Marko.md",
     "Courses/FEM/Find Client/Index.md",
     "Courses/FEM/Find Client/Why you are struggling to find client.md",
     "Courses/FEM/Find Client/get the attention of your audience.md",
     "wikilinks.md",
-    "YT Learning/ali abdal/How to Start Your First Business in 48 Hours.md",
     "YT Learning/ali abdal/If I Wanted to Grow An Audience in 2024, I'd Do This.md",
     "YT Learning/Tomstoic/New way to make $1,000 a week as a copywriter.md",
     "YT Learning/Tomstoic",
@@ -215,25 +228,16 @@
     "Courses/FEM/WebUx/Section 1 - The 4 Psychological Pillars of conversion.md",
     "YT Learning/caleb hilton/Land copywrite client start to finish.md",
     "YT Learning/nicolas cole/QnA.md",
-    "YT Learning/Jeremy Miner/46 Years of Sales Knowledge in 76 Minutes.md",
-    "YT Learning/How to sell your copywriting services well.md",
-    "YT Learning/35min Cold Calling masterclass.md",
     "yt learning.canvas",
-    "Audience building/Attention.md",
-    "YT Learning/Company & jobs.md",
     "test canvas.canvas",
-    "Untitled.md",
-    "test.md",
     "Attention.pdf",
     "01-What To Expect In Digital Economics.pdf",
-    "Untitled 1.md",
     "Pasted image 20240811094635.png",
     "YT Learning/caleb hilton",
     "YT Learning/nicolas cole",
     "Courses/FEM/Find Client",
     "Pasted image 20240804211521.png",
     "Pasted image 20240804211458.png",
-    "YT Learning/Jeremy Miner/How Introverts Can Sell MORE Than Extroverts.md",
     "YT Learning/ali abdal",
     "Pasted image 20240729110935.png",
     "Pasted image 20240729111437.png",
@@ -241,7 +245,6 @@
     "Pasted image 20240729195743.png",
     "Courses/FEM/WebUx",
     "Courses/FEM",
-    "Courses",
     "MyVault/Screenshot_20240331-010845.png"
   ]
 }

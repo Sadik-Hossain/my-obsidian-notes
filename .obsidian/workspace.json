@@ -4,17 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "ee9797eb28f35149",
+        "id": "7d84b921d1a9a48d",
         "type": "tabs",
         "children": [
           {
-            "id": "a282e6c18733dc1c",
+            "id": "b6846913f776b1e0",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "staged": false
+                "file": "YT Learning/Company & jobs.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -81,8 +83,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -102,7 +103,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "YT Learning/Company & jobs.md"
+              }
             }
           }
         ]
@@ -118,6 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "YT Learning/Company & jobs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,6 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "YT Learning/Company & jobs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,8 +199,9 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "a282e6c18733dc1c",
+  "active": "b6846913f776b1e0",
   "lastOpenFiles": [
+    "YT Learning/35min Cold Calling masterclass.md",
     "Courses/FEM/Find Client/define the market you wish to target.md",
     "conflict-files-obsidian-git.md",
     "test.md",
@@ -230,7 +236,6 @@
     "Excalidraw/Drawing 2024-08-13 11.33.39.excalidraw.md",
     "Excalidraw",
     "MyVault/Marko.md",
-    "Courses/FEM/Find Client/Index.md",
     "YT Learning/Tomstoic",
     "yt learning.canvas",
     "test canvas.canvas",

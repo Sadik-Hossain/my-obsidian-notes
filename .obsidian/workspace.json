@@ -11,12 +11,10 @@
             "id": "a282e6c18733dc1c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "Courses/FEM/Find Client/define the market you wish to target.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "conflict-files-obsidian-git.md",
+                "staged": false
               }
             }
           }
@@ -104,9 +102,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Courses/FEM/Find Client/define the market you wish to target.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -122,7 +118,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Courses/FEM/Find Client/define the market you wish to target.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +134,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Courses/FEM/Find Client/define the market you wish to target.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,6 +196,7 @@
   },
   "active": "a282e6c18733dc1c",
   "lastOpenFiles": [
+    "Courses/FEM/Find Client/define the market you wish to target.md",
     "conflict-files-obsidian-git.md",
     "test.md",
     "hooked on hooks/Attention & Emotion.md",
@@ -234,7 +229,6 @@
     "YT Learning/Jeremy Miner/How Introverts Can Sell MORE Than Extroverts.md",
     "Excalidraw/Drawing 2024-08-13 11.33.39.excalidraw.md",
     "Excalidraw",
-    "Courses/FEM/Find Client/define the market you wish to target.md",
     "MyVault/Marko.md",
     "Courses/FEM/Find Client/Index.md",
     "YT Learning/Tomstoic",

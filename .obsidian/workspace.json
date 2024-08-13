@@ -11,12 +11,10 @@
             "id": "b6846913f776b1e0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "YT Learning/Company & jobs.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": ".obsidian/workspace.json",
+                "staged": false
               }
             }
           }
@@ -83,7 +81,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -103,9 +102,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "YT Learning/Company & jobs.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -121,7 +118,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "YT Learning/Company & jobs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +134,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "YT Learning/Company & jobs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,6 +196,8 @@
   },
   "active": "b6846913f776b1e0",
   "lastOpenFiles": [
+    "MyVault/Marko.md",
+    "YT Learning/Company & jobs.md",
     "YT Learning/35min Cold Calling masterclass.md",
     "Courses/FEM/Find Client/define the market you wish to target.md",
     "conflict-files-obsidian-git.md",
@@ -233,9 +230,7 @@
     "Untitled Kanban 1.md",
     "Excalidraw/Drawing 2024-08-13 11.41.04.excalidraw.md",
     "YT Learning/Jeremy Miner/How Introverts Can Sell MORE Than Extroverts.md",
-    "Excalidraw/Drawing 2024-08-13 11.33.39.excalidraw.md",
     "Excalidraw",
-    "MyVault/Marko.md",
     "YT Learning/Tomstoic",
     "yt learning.canvas",
     "test canvas.canvas",

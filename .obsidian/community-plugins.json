@@ -1,5 +1,9 @@
 [
   "multi-column-markdown",
   "obsidian-git",
-  "obsidian-style-settings"
+  "obsidian-style-settings",
+  "table-editor-obsidian",
+  "dbfolder",
+  "obsidian-icon-folder",
+  "obsidian-reading-time"
 ]

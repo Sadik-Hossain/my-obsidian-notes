@@ -17,5 +17,7 @@
   "minimal-style@@h3-l": false,
   "minimal-style@@embed-underline": true,
   "minimal-style@@embed-background@@dark": "#70C6BB",
-  "minimal-style@@image-grid-background@@dark": "#C10051"
+  "minimal-style@@image-grid-background@@dark": "#C10051",
+  "things-style@@h1-color": "#4BD19E",
+  "things-style@@h6-color": "#868FDC"
 }

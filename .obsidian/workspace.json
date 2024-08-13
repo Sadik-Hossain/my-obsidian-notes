@@ -167,13 +167,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 347.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -188,7 +186,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "eb3e439743d61440",
+  "active": "f837fc1ad0ac2ce9",
   "lastOpenFiles": [
     "YT Learning/ali abdal/How to Start Your First Business in 48 Hours.md",
     "YT Learning/ali abdal/If I Wanted to Grow An Audience in 2024, I'd Do This.md",
@@ -200,7 +198,7 @@
     "MyVault/Test/My note.md",
     "Courses/FEM/Find Client/get the attention of your audience.md",
     "nos.md",
-    "hooked on hooks/Attention & Emotion.md",
+    "Courses/hooked on hooks/Attention & Emotion.md",
     "YT Learning/caleb hilton/How to land your first copywriting client.md",
     "Courses/FEM/Find Client/Why you are struggling to find client.md",
     "Courses/FEM/WebUx/Section 1 - The 4 Psychological Pillars of conversion.md",

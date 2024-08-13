@@ -1,8 +1,4 @@
 
----
-[[Index]]
-
----
 
 > [!quote] The internet is noisy, and your marketing will be lost unless targeted at a specific audience. In this section, we will explore how to do precisely that.
 

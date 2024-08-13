@@ -33,5 +33,7 @@
     "downscalePercent": 100
   },
   "alwaysUpdateLinks": true,
-  "showRibbon": true
+  "showRibbon": true,
+  "newFileLocation": "root",
+  "attachmentFolderPath": "./"
 }

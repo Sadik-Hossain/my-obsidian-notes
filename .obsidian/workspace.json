@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MyVault/Marko.md",
+                "file": "Courses/FEM/Find Client/define the market you wish to target.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,8 +87,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MyVault/Marko.md",
-                "collapseAll": false,
+                "file": "Courses/FEM/Find Client/define the market you wish to target.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MyVault/Marko.md",
+                "file": "Courses/FEM/Find Client/define the market you wish to target.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MyVault/Marko.md"
+                "file": "Courses/FEM/Find Client/define the market you wish to target.md"
               }
             }
           },
@@ -171,7 +171,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 347.5
+    "width": 252.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -188,19 +189,20 @@
   },
   "active": "f837fc1ad0ac2ce9",
   "lastOpenFiles": [
-    "YT Learning/ali abdal/How to Start Your First Business in 48 Hours.md",
-    "YT Learning/ali abdal/If I Wanted to Grow An Audience in 2024, I'd Do This.md",
     "Courses/FEM/Find Client/Index.md",
+    "Courses/FEM/Find Client/Why you are struggling to find client.md",
     "Courses/FEM/Find Client/define the market you wish to target.md",
-    "YT Learning/Tomstoic/New way to make $1,000 a week as a copywriter.md",
+    "Courses/FEM/Find Client/get the attention of your audience.md",
+    "wikilinks.md",
+    "YT Learning/ali abdal/How to Start Your First Business in 48 Hours.md",
     "MyVault/Marko.md",
+    "YT Learning/ali abdal/If I Wanted to Grow An Audience in 2024, I'd Do This.md",
+    "YT Learning/Tomstoic/New way to make $1,000 a week as a copywriter.md",
     "YT Learning/Tomstoic",
     "MyVault/Test/My note.md",
-    "Courses/FEM/Find Client/get the attention of your audience.md",
     "nos.md",
     "Courses/hooked on hooks/Attention & Emotion.md",
     "YT Learning/caleb hilton/How to land your first copywriting client.md",
-    "Courses/FEM/Find Client/Why you are struggling to find client.md",
     "Courses/FEM/WebUx/Section 1 - The 4 Psychological Pillars of conversion.md",
     "YT Learning/caleb hilton/Land copywrite client start to finish.md",
     "YT Learning/nicolas cole/QnA.md",
@@ -232,7 +234,6 @@
     "Courses/FEM/WebUx",
     "Courses/FEM",
     "Courses",
-    "Derek Rake/Shogun/IRAE.md",
     "MyVault/Screenshot_20240331-010845.png"
   ]
 }

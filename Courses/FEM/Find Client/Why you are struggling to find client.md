@@ -1,8 +1,5 @@
 
 ---
-[[Index]]
-
----
 
 Most agencies or freelancers are solely reliant on word-of-mouth recommendations.\
 This section addresses why this is a problem & why many of the alternatives aren't much better.

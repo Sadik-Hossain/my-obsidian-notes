@@ -83,12 +83,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 253.5110321044922,
-    "collapsed": true
+    "width": 253.5110321044922
   },
   "right": {
     "id": "b55a02fc4480b8fb",
@@ -200,7 +200,7 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "9d20307a6f7b2c39",
+  "active": "128adf6bfeba6bce",
   "lastOpenFiles": [
     "Pasted image 20240811094635 2.png",
     "Pasted image 20240811094635 1.png",

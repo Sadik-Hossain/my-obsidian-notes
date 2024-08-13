@@ -7,14 +7,6 @@
       "key": "C"
     }
   ],
-  "editor:fold-all": [
-    {
-      "modifiers": [
-        "Alt"
-      ],
-      "key": "Z"
-    }
-  ],
   "editor:swap-line-up": [
     {
       "modifiers": [
@@ -57,15 +49,6 @@
       "key": "Q"
     }
   ],
-  "editor:unfold-all": [
-    {
-      "modifiers": [
-        "Alt",
-        "Shift"
-      ],
-      "key": "Z"
-    }
-  ],
   "backlink:open": [
     {
       "modifiers": [
@@ -80,6 +63,46 @@
         "Alt"
       ],
       "key": "S"
+    }
+  ],
+  "file-explorer:open": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "E"
+    }
+  ],
+  "editor:fold-all": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "]"
+    }
+  ],
+  "editor:unfold-all": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "["
+    }
+  ],
+  "app:toggle-left-sidebar": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "Z"
+    }
+  ],
+  "app:toggle-right-sidebar": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "X"
     }
   ]
 }

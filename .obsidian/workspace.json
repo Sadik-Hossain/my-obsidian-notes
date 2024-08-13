@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a89075628389463f",
+        "id": "20793b98b66b872a",
         "type": "tabs",
         "children": [
           {
-            "id": "eb3e439743d61440",
+            "id": "7b36d44578badc51",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -66,12 +66,29 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "bbfd1a9d379527c0",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "128adf6bfeba6bce",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 209.5
+    "width": 253.5110321044922
   },
   "right": {
     "id": "b55a02fc4480b8fb",
@@ -80,6 +97,7 @@
       {
         "id": "c0e29ca39f2960da",
         "type": "tabs",
+        "dimension": 50,
         "children": [
           {
             "id": "f837fc1ad0ac2ce9",
@@ -88,7 +106,7 @@
               "type": "backlink",
               "state": {
                 "file": "Courses/FEM/Find Client/define the market you wish to target.md",
-                "collapseAll": true,
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -116,18 +134,8 @@
             "state": {
               "type": "tag",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "frequency",
                 "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "823891417e197ad6",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Courses/FEM/Find Client/define the market you wish to target.md"
               }
             }
           },
@@ -144,22 +152,6 @@
             }
           },
           {
-            "id": "bbfd1a9d379527c0",
-            "type": "leaf",
-            "state": {
-              "type": "git-history-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "128adf6bfeba6bce",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
-            }
-          },
-          {
             "id": "5d09eddbe6539354",
             "type": "leaf",
             "state": {
@@ -168,11 +160,27 @@
             }
           }
         ]
+      },
+      {
+        "id": "bd58e0f5e46bb37e",
+        "type": "tabs",
+        "dimension": 50,
+        "children": [
+          {
+            "id": "823891417e197ad6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Courses/FEM/Find Client/define the market you wish to target.md"
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 252.5,
-    "collapsed": true
+    "width": 376.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -189,13 +197,14 @@
   },
   "active": "f837fc1ad0ac2ce9",
   "lastOpenFiles": [
+    "2024-08-13.md",
+    "Courses/FEM/Find Client/define the market you wish to target.md",
+    "MyVault/Marko.md",
     "Courses/FEM/Find Client/Index.md",
     "Courses/FEM/Find Client/Why you are struggling to find client.md",
-    "Courses/FEM/Find Client/define the market you wish to target.md",
     "Courses/FEM/Find Client/get the attention of your audience.md",
     "wikilinks.md",
     "YT Learning/ali abdal/How to Start Your First Business in 48 Hours.md",
-    "MyVault/Marko.md",
     "YT Learning/ali abdal/If I Wanted to Grow An Audience in 2024, I'd Do This.md",
     "YT Learning/Tomstoic/New way to make $1,000 a week as a copywriter.md",
     "YT Learning/Tomstoic",
@@ -225,7 +234,6 @@
     "Pasted image 20240804211521.png",
     "Pasted image 20240804211458.png",
     "YT Learning/Jeremy Miner/How Introverts Can Sell MORE Than Extroverts.md",
-    "YT Learning/Jeremy Miner/The Psychology of selling with rene rodriguez.md",
     "YT Learning/ali abdal",
     "Pasted image 20240729110935.png",
     "Pasted image 20240729111437.png",

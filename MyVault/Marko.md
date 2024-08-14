@@ -32,18 +32,26 @@ console.log(a);
 ## callouts
 
 > [!NOTE] this is a callout
+> hello there!
+
 
 > [!tip] This is a tip
+> hello there!
 
 > [!quote] This is a quote
+> hello there!
 
 > [!todo] This is a todo
+> hello there!
 
 > [!warning] Title
+> hello there!
 
 >[!error] title
+>hello there!
 
-> [!success]  Contents
+> [!success]  title
+> hello there!
 
 
 

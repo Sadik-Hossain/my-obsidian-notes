@@ -11,16 +11,22 @@
             "id": "0f633fd7feffa2a2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "MyVault/Marko.md",
-                "mode": "source",
-                "source": false
+                "file": "YT Learning/ali abdal/If I Wanted to Grow An Audience in 2024, I'd Do This.md",
+                "staged": false
               }
             }
+          },
+          {
+            "id": "67f9835d24f5d024",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ],
-        "stacked": true
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,7 +88,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -102,9 +109,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "MyVault/Marko.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -120,7 +125,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MyVault/Marko.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +141,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MyVault/Marko.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,12 +177,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 340.5,
-    "collapsed": true
+    "width": 332.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,15 +199,16 @@
   },
   "active": "0f633fd7feffa2a2",
   "lastOpenFiles": [
-    "YT Learning/Patrick Spiegel/How to Land your FIRST Web Design Client as a beginner (no portfolio).md",
-    "Audience building/Attention.md",
-    "Audience building/Untitled database.md",
     "MyVault/Marko.md",
+    "MyVault/Test/My note.md",
     "Ideas/Business idea/Web business.md",
+    "Audience building/Attention.md",
+    "YT Learning/ali abdal/If I Wanted to Grow An Audience in 2024, I'd Do This.md",
+    "YT Learning/Patrick Spiegel/How to Land your FIRST Web Design Client as a beginner (no portfolio).md",
+    "Audience building/Untitled database.md",
     "YT Learning/35min Cold Calling masterclass.md",
     "obs.css",
     "New Text Document.txt",
-    "MyVault/Test/My note.md",
     "perf-driven.png",
     "YT Learning/caleb hilton/How to land your first copywriting client.md",
     "YT Learning/Patrick Spiegel",
@@ -229,7 +233,6 @@
     "YT Learning/tada.md",
     "Templates/yt-learning.md",
     "YT Learning/run this.md",
-    "YT Learning/ali abdal/If I Wanted to Grow An Audience in 2024, I'd Do This.md",
     "Templates",
     "YT Learning/ali abdal/How to Start Your First Business in 48 Hours.md",
     "Untitled Kanban.md",

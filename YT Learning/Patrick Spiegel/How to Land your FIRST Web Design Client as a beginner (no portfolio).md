@@ -11,7 +11,7 @@ video: https://www.youtube.com/watch?v=p_WwqC7BsTk
 
 
 people and businesses don't want to give you money or even get a free website from you.\
-not because your services are bad. But because, they don't trust you and why would they?😀
+not because your services ==are bad==. But because, they don't trust you and why would they?😀
 
 you're a stranger trying to sell them on the phone via email/DM.
 
@@ -22,3 +22,8 @@ or, if you're not giving any free value to them.
 
 ## First Method
 
+
+## Second Method
+
+
+## Third Method 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "YT Learning/Patrick Spiegel/How to Land your FIRST Web Design Client as a beginner (no portfolio).md",
+                "file": "MyVault/Marko.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 282.0110321044922
+    "width": 240.5110321044922
   },
   "right": {
     "id": "b55a02fc4480b8fb",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "YT Learning/Patrick Spiegel/How to Land your FIRST Web Design Client as a beginner (no portfolio).md"
+                "file": "MyVault/Marko.md"
               }
             }
           }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "YT Learning/Patrick Spiegel/How to Land your FIRST Web Design Client as a beginner (no portfolio).md",
+                "file": "MyVault/Marko.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "YT Learning/Patrick Spiegel/How to Land your FIRST Web Design Client as a beginner (no portfolio).md",
+                "file": "MyVault/Marko.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,18 +194,21 @@
       "dbfolder:Create a new database table": false
     }
   },
-  "active": "9808f7f66cb415da",
+  "active": "0f633fd7feffa2a2",
   "lastOpenFiles": [
+    "YT Learning/Patrick Spiegel/How to Land your FIRST Web Design Client as a beginner (no portfolio).md",
+    "Audience building/Attention.md",
+    "Audience building/Untitled database.md",
+    "MyVault/Marko.md",
+    "Ideas/Business idea/Web business.md",
+    "YT Learning/35min Cold Calling masterclass.md",
     "obs.css",
     "New Text Document.txt",
-    "MyVault/Marko.md",
     "MyVault/Test/My note.md",
-    "YT Learning/Patrick Spiegel/How to Land your FIRST Web Design Client as a beginner (no portfolio).md",
     "perf-driven.png",
     "YT Learning/caleb hilton/How to land your first copywriting client.md",
     "YT Learning/Patrick Spiegel",
     "YT Learning/Company & jobs.md",
-    "YT Learning/35min Cold Calling masterclass.md",
     "Courses/FEM/Find Client/define the market you wish to target.md",
     "conflict-files-obsidian-git.md",
     "test.md",
@@ -231,8 +234,6 @@
     "YT Learning/ali abdal/How to Start Your First Business in 48 Hours.md",
     "Untitled Kanban.md",
     "Untitled Kanban 5.md",
-    "Untitled Kanban 4.md",
-    "Untitled Kanban 3.md",
     "Excalidraw",
     "YT Learning/Tomstoic",
     "yt learning.canvas",
@@ -240,7 +241,6 @@
     "Attention.pdf",
     "01-What To Expect In Digital Economics.pdf",
     "Pasted image 20240811094635.png",
-    "YT Learning/caleb hilton",
     "Pasted image 20240804211521.png",
     "Pasted image 20240804211458.png",
     "Pasted image 20240729111437.png"

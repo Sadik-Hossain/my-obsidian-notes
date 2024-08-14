@@ -8,23 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "67f9835d24f5d024",
+            "id": "5d822e704beab0a0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MyVault/Marko.md",
+                "file": "YT Learning/Patrick Spiegel/How to Land your FIRST Web Design Client as a beginner (no portfolio).md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "5d822e704beab0a0",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
             }
           }
         ]
@@ -111,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MyVault/Marko.md"
+                "file": "YT Learning/Patrick Spiegel/How to Land your FIRST Web Design Client as a beginner (no portfolio).md"
               }
             }
           }
@@ -128,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MyVault/Marko.md",
+                "file": "YT Learning/Patrick Spiegel/How to Land your FIRST Web Design Client as a beginner (no portfolio).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MyVault/Marko.md",
+                "file": "YT Learning/Patrick Spiegel/How to Land your FIRST Web Design Client as a beginner (no portfolio).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,8 +174,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -203,13 +194,13 @@
       "dbfolder:Create a new database table": false
     }
   },
-  "active": "9808f7f66cb415da",
+  "active": "5d822e704beab0a0",
   "lastOpenFiles": [
     "YT Learning/Patrick Spiegel/How to Land your FIRST Web Design Client as a beginner (no portfolio).md",
+    "MyVault/Marko.md",
     "YT Learning/How to sell your copywriting services well.md",
     "YT Learning/Company & jobs.md",
     "YT Learning/35min Cold Calling masterclass.md",
-    "MyVault/Marko.md",
     "MyVault/Test/My note.md",
     "Ideas/Business idea/Web business.md",
     "Audience building/Attention.md",

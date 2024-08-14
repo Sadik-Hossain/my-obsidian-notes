@@ -191,10 +191,11 @@
       "command-palette:Open command palette": true,
       "publish:Publish changes...": true,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "dbfolder:Create a new database table": false
+      "dbfolder:Create a new database table": false,
+      "cloze:Toggle all clozes": false
     }
   },
-  "active": "5d822e704beab0a0",
+  "active": "9808f7f66cb415da",
   "lastOpenFiles": [
     "YT Learning/Patrick Spiegel/How to Land your FIRST Web Design Client as a beginner (no portfolio).md",
     "MyVault/Marko.md",

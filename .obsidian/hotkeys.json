@@ -116,12 +116,36 @@
       "key": "H"
     }
   ],
+  "highlightr-plugin:highlighter-plugin-menu": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "H"
+    }
+  ],
+  "editor:toggle-code": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "`"
+    }
+  ],
   "editor:toggle-highlight": [
     {
       "modifiers": [
         "Mod"
       ],
       "key": "H"
+    }
+  ],
+  "app:toggle-ribbon": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "V"
     }
   ]
 }

@@ -9,5 +9,7 @@
   "obsidian-emoji-toolbar",
   "obsidian-dynamic-background",
   "discordian-plugin",
-  "cmdr"
+  "cmdr",
+  "cloze",
+  "obsidian-html-tags-autocomplete"
 ]

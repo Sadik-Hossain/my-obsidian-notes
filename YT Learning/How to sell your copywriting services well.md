@@ -1,6 +1,8 @@
-#sales 
+---
+tags: [sales]
+video: https://www.youtube.com/watch?v=0aoR6cFM66M
+---
 
-https://www.youtube.com/watch?v=0aoR6cFM66M
 
 ---
 
@@ -15,7 +17,7 @@ topics to be covered:
 - how to make big promises without having it come back to bite us in the butt. so that you can go in, tell your client, Hey! we're going to achieve these really great results. And even if you fail, they will not ask for a refund.
 
 ## The Salesman mindset
----
+
 Most people hate selling for 3 reasons.
 - **don't believe in what they're selling. (lack of confidence)**\
 	 The only thing you can really do is keep trudging forward and work on those tiny projects until you get to a point where you feel like, you're good enough, keep working your way forward. And eventually you'll overcome this.
@@ -49,7 +51,7 @@ Most people hate selling for 3 reasons.
 
 
 ## Upwork Inbound: The easy sale
----
+
 **What is an inbound sale?**\
 An inbound sale is like,\
 when someone's coming to you and saying, *"hey! I kind of want what you're trying to selling me. Can you just sell me on it?"*
@@ -61,25 +63,25 @@ where an outbound sale is where the you cold call a bunch of people, and try to 
 
 
 ## The 3-step inbound sales process
----
-- **1. Tell me what you want**\
+
+- **1. Tell me what you want**
 	- Tell me what you had in mind for... (whatever you're trying to achieve)
 	- And how were you thinking of using...(whatever we offering as solution)
 	- Can I share a few thoughts based on my previous experience with...(whatever you're trying to achieve)
 	Basically, these questions are helping us to proper diagnose the prospects problems and needs and results they are looking for.
-- **2. I'll tell you why it sucks** \
+- **2. I'll tell you why it sucks** 
 	- so just to make sure I understood, you're trying to... ,right?
 	- Perfect! Now in my experience, when it comes to... you absolutely can do... but have you considered the risk/success percentage associated with it..., does that make sense?
-- **3. Here's what to do instead**\
+- **3. Here's what to do instead**
 	Awesome, so what Im thinking is ... and if we can ... then we'll easily be able to achieve... - what do you think?
 
 The prospect wants someone that can add onto their business that can expand their business and that can bring in new sources of revenue or better results.\
 And if someone does that, of course, they wanna work With you. 
- 
+
 I took what he said. And I say, yes! you're right.
- 
+
 here is the difference between what you're asking and what I'm talking about doing. Does this sound like something you want? whether or not that's valuable to you? Yes or no.
- 
+
 And so acknowledge and validate what he just said to me,\
 ==present the opposition & then ask them whether or not that's valuable to them.==\
 That's *how* you can handle every single objection.
@@ -92,7 +94,7 @@ That's *how* you can handle every single objection.
 For example, When you ask these questions,\
 "Hey, I was actually just about to buy this, or I was checking out and then I forgot to buy it, and I just realized you never hit me with an abandoned cart. Do you not have an abandoned cart sequence?"
 
-Like ==when you start asking, you're bringing value because, you've made them aware of a problem, they didn't know they had.== So you know what that one right there specifically, abandoned cart, just to get real specific for half a second here, specifically abandoned cart, that's something you can identify for free.
+Like ==*when you start asking, you're bringing value because, you've made them aware of a problem, they didn't know they had.*== So you know what that one right there specifically, abandoned cart, just to get real specific for half a second here, specifically abandoned cart, that's something you can identify for free.
 
 You can figure out if they have an abandoned cart or not or any problem they might have just by going through their product/ service and find lacking/areas they can improve. Put yourself in a customer's shoe.
 
@@ -100,14 +102,26 @@ for ex:\
 you can start the checkout process or you can go to the checkout page, and if you don't get an email somewhere saying, "Hey, did you want to buy this?" That's something right up front.\
 
 
-You could potentially even write that email sequence for free and say, ==*"Hey, I noticed you don't have an abandoned cart sequence in place. I wanted to go ahead and just see if I could help you right up front, add value in advance. Here's an abandoned cart sequence for this offer for you."*==
+You could potentially even write that email sequence for free and say, ```
+```
+Hey, I noticed you don't have an abandoned cart sequence in place.
+
+I wanted to go ahead and just see if I could help you right up front, add value in advance.
+
+Here's an abandoned cart sequence for this offer for you.
+```
 
 And you can further follow along with,
-*=="Hey, listen, I know this will add dollars to your sales every single month if you add this in place. And what I'd like to do is to figure out more ways I can add dollars into your business every single month. Would you be open to a conversation?"==*
 
+```
+Hey, listen, I know this will add dollars to your sales every single month if you add this in place.
 
+And what I'd like to do is to figure out more ways I can add dollars into your business every single month.
+
+Would you be open to a conversation
+```
 ### Why Call no.2
----
+
 The two-call close is a sales strategy that gives salespeople time to prepare presentations. It'll give you time to present a proper presentation.\
 build rapport with potential customers. Because, it allows you to also do a little bit of relationship-building between call number one and call number two.\
 It avoids pressuring customers into immediate decisions, it doesn't force the prospect to make a decision right then and there. Thus, can lead to higher closing rates.
@@ -115,10 +129,16 @@ It avoids pressuring customers into immediate decisions, it doesn't force the pr
 schedule second call for two days out, then after our first call, send an email saying, "Hey Luke! it was great talking to you. I'm gonna put some thought into this, really looking forward to our next call." And that might be all that it is, but it shows Luke that I'm a normal, decent human being.
 
 ### Setup the second call
----
-"Awesome, well I'd love to take a day or two to really think about this, draft a few ideas, and then we can get together and I'll be able to tell you what the cost would be for each of the options. Are you free...?"
 
-So here, in this sentence, we are doing a few things.\
+```
+Awesome, well I'd love to take a day or two to really think about this, draft a few ideas, and then we can get together 
+
+and I'll be able to tell you what the cost would be for each of the options. Are you free...?
+
+```
+
+So here, in this sentence, we are doing a few things.
+
 - One, we are saying, "Yes, you definitely do need more information before you make a decision." This is good because we are validating him.
 - Then saying, "I am going to draft a few ideas." So you are not just getting the template solution that I use for everyone else.\
 	I am going to come up with something specific for you.\
@@ -130,14 +150,13 @@ So here, in this sentence, we are doing a few things.\
 	I'm saying, Luke, tangibly right now, look at your calendar. Tell me which of these two days work best for you. You  have two options, pick one.
 
 ### On the second call
----
 - zoom, small talk, screen share, funnel analytic, presentation
 - always get agreement on one plan, then present price
 - step-by-step "assumptive" close
 	its basically, get all of your prospects information and send an invoice and confirm payment.
 
 ## Outreach Inbound: where the real money is made
----
+
  you're reaching out to people and then they're coming in and saying,  yes, I'm interested!\
 direct outreach, we can think of it as  LinkedIn, cold email, Facebook groups, Instagram any social media or email that you're doing that is outreach reach inbound.
 
@@ -151,7 +170,7 @@ yes, I would love that. That's in fantastic idea. can we hop on a call together?
 So that's how you transition from your outreach. You try to get them onto a call.
 
 ### On the call
----
+
 **The 7 Steps**
 - **small talk**
 - **the perfect pre-frame (diagnosis)**\

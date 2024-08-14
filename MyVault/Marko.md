@@ -54,12 +54,28 @@ console.log(a);
 > hello there!
 
 
+`ctrl + 26letters` 
+`shift + 26`
+`alt + 26`
+`ctrl + shift + 26`
+`ctrl + alt + 26`
+`shift + alt + 26`
+`ctrl + shift + 26`
 
+`26*7 = 182`
+
+`ctrl/shift/alt + 1-9 / symbol`
 
 Lorem Ipsum dolor sit ametLorem Ipsum dolor sit ametLorem Ipsum dolor sit ametLorem Ipsum dolor sit ametLorem Ipsum dolor sit ametLorem Ipsum dolor sit ametLorem Ipsum dolor sit ametLorem Ipsum dolor sit ametLorem Ipsum dolor sit ametLorem Ipsum dolor sit ametLorem Ipsum dolor sit ametLorem Ipsum dolor sit ametLorem Ipsum dolor sit ametLorem Ipsum dolor sit ametLorem Ipsum dolor sit ametLorem Ipsum dolor sit ametLorem 
 
 ---
 
+| name  | age | city     | hobby     |
+| ----- | --- | -------- | --------- |
+| sadik | 22  | dhaka    | coding    |
+| sam   | 23  | miami    | soccer    |
+| mary  | 21  | new york | reading   |
+| rob   | 22  | sydney   | gardening |
 
 
 ![[Screenshot_20240331-010845.png]]

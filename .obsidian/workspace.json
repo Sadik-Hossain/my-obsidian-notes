@@ -86,7 +86,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 207.5110321044922
+    "width": 282.0110321044922
   },
   "right": {
     "id": "b55a02fc4480b8fb",
@@ -194,12 +194,16 @@
       "dbfolder:Create a new database table": false
     }
   },
-  "active": "0f633fd7feffa2a2",
+  "active": "9808f7f66cb415da",
   "lastOpenFiles": [
-    "YT Learning/caleb hilton/How to land your first copywriting client.md",
-    "YT Learning/Patrick Spiegel/How to Land your FIRST Web Design Client as a beginner (no portfolio).md",
-    "YT Learning/Patrick Spiegel",
+    "obs.css",
+    "New Text Document.txt",
     "MyVault/Marko.md",
+    "MyVault/Test/My note.md",
+    "YT Learning/Patrick Spiegel/How to Land your FIRST Web Design Client as a beginner (no portfolio).md",
+    "perf-driven.png",
+    "YT Learning/caleb hilton/How to land your first copywriting client.md",
+    "YT Learning/Patrick Spiegel",
     "YT Learning/Company & jobs.md",
     "YT Learning/35min Cold Calling masterclass.md",
     "Courses/FEM/Find Client/define the market you wish to target.md",
@@ -229,8 +233,6 @@
     "Untitled Kanban 5.md",
     "Untitled Kanban 4.md",
     "Untitled Kanban 3.md",
-    "Untitled Kanban 2.md",
-    "Untitled Kanban 1.md",
     "Excalidraw",
     "YT Learning/Tomstoic",
     "yt learning.canvas",
@@ -239,10 +241,8 @@
     "01-What To Expect In Digital Economics.pdf",
     "Pasted image 20240811094635.png",
     "YT Learning/caleb hilton",
-    "YT Learning/nicolas cole",
     "Pasted image 20240804211521.png",
     "Pasted image 20240804211458.png",
-    "Pasted image 20240729110935.png",
     "Pasted image 20240729111437.png"
   ]
 }

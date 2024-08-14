@@ -38,7 +38,7 @@ And they are more likely to inclined to work with you.
 ---
 
 
-![[Pasted image 20240729110935.png]]
+![[perf-driven.png]]
 
 ---
 

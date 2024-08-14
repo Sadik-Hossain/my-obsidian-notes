@@ -1,11 +1,14 @@
 {
-  "accentColor": "",
+  "accentColor": "#5cf2f5",
   "theme": "obsidian",
   "baseFontSize": 17,
   "cssTheme": "Things",
   "nativeMenus": false,
   "interfaceFontFamily": "",
   "textFontFamily": "",
-  "monospaceFontFamily": "",
-  "showViewHeader": true
+  "monospaceFontFamily": "Cascadia Code",
+  "showViewHeader": true,
+  "enabledCssSnippets": [
+    "obs"
+  ]
 }

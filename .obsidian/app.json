@@ -31,5 +31,11 @@
     "landscape": false,
     "margin": "0",
     "downscalePercent": 100
-  }
+  },
+  "showInlineTitle": true,
+  "showRibbon": true,
+  "propertiesInDocument": "source",
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "current",
+  "showUnsupportedFiles": true
 }

@@ -3,9 +3,10 @@
     "migrated": 6,
     "iconPacksPath": ".obsidian/icons",
     "fontSize": 16,
-    "emojiStyle": "native",
+    "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiWebhook",
       "💡",
       "LiBookOpen",
       "LiYoutube"
@@ -19,8 +20,8 @@
       "left": 0
     },
     "iconInTabsEnabled": false,
-    "iconInTitleEnabled": false,
-    "iconInTitlePosition": "above",
+    "iconInTitleEnabled": true,
+    "iconInTitlePosition": "inline",
     "iconInFrontmatterEnabled": false,
     "iconInFrontmatterFieldName": "icon",
     "iconColorInFrontmatterFieldName": "iconColor",
@@ -33,5 +34,6 @@
   },
   "YT Learning": "LiYoutube",
   "Courses": "LiBookOpen",
-  "Ideas": "💡"
+  "Ideas": "💡",
+  "YT Learning/Patrick Spiegel/How to Land your FIRST Web Design Client as a beginner (no portfolio).md": "LiWebhook"
 }

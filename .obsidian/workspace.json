@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "YT Learning/Patrick Spiegel/How to Land your FIRST Web Design Client as a beginner (no portfolio).md",
-                "mode": "source",
+                "file": "Courses/FEM/WebUx/Section 1 - The 4 Psychological Pillars of conversion.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,8 +85,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 234.5110321044922,
-    "collapsed": true
+    "width": 234.5110321044922
   },
   "right": {
     "id": "b55a02fc4480b8fb",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "YT Learning/Patrick Spiegel/How to Land your FIRST Web Design Client as a beginner (no portfolio).md"
+                "file": "Courses/FEM/WebUx/Section 1 - The 4 Psychological Pillars of conversion.md"
               }
             }
           }
@@ -120,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "YT Learning/Patrick Spiegel/How to Land your FIRST Web Design Client as a beginner (no portfolio).md",
+                "file": "Courses/FEM/WebUx/Section 1 - The 4 Psychological Pillars of conversion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "YT Learning/Patrick Spiegel/How to Land your FIRST Web Design Client as a beginner (no portfolio).md",
+                "file": "Courses/FEM/WebUx/Section 1 - The 4 Psychological Pillars of conversion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,8 +177,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 332.5,
-    "collapsed": true
+    "width": 332.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -195,8 +193,10 @@
       "cloze:Toggle all clozes": false
     }
   },
-  "active": "9808f7f66cb415da",
+  "active": "5d822e704beab0a0",
   "lastOpenFiles": [
+    "Courses/FEM/Find Client/define the market you wish to target.md",
+    "Courses/FEM/Find Client/Index.md",
     "YT Learning/Patrick Spiegel/How to Land your FIRST Web Design Client as a beginner (no portfolio).md",
     "MyVault/Marko.md",
     "YT Learning/How to sell your copywriting services well.md",
@@ -212,7 +212,6 @@
     "perf-driven.png",
     "YT Learning/caleb hilton/How to land your first copywriting client.md",
     "YT Learning/Patrick Spiegel",
-    "Courses/FEM/Find Client/define the market you wish to target.md",
     "conflict-files-obsidian-git.md",
     "test.md",
     "hooked on hooks/Attention & Emotion.md",
@@ -234,7 +233,6 @@
     "Templates",
     "YT Learning/ali abdal/How to Start Your First Business in 48 Hours.md",
     "Untitled Kanban.md",
-    "Untitled Kanban 5.md",
     "Excalidraw",
     "YT Learning/Tomstoic",
     "yt learning.canvas",

@@ -8,17 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0f633fd7feffa2a2",
-            "type": "leaf",
-            "state": {
-              "type": "diff-view",
-              "state": {
-                "file": "YT Learning/ali abdal/If I Wanted to Grow An Audience in 2024, I'd Do This.md",
-                "staged": false
-              }
-            }
-          },
-          {
             "id": "67f9835d24f5d024",
             "type": "leaf",
             "state": {
@@ -197,7 +186,7 @@
       "dbfolder:Create a new database table": false
     }
   },
-  "active": "0f633fd7feffa2a2",
+  "active": "128adf6bfeba6bce",
   "lastOpenFiles": [
     "MyVault/Marko.md",
     "MyVault/Test/My note.md",

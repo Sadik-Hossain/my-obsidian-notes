@@ -59,9 +59,5 @@ your messaging and your positioning, make sure that its results orientated. What
 
 ## How To Price Your Offer
 
-```page-gallery
-
-```
-
 
 ![[How To Effortlessly Sell Your Products Online 2024-08-15 10.15.09.excalidraw]] 

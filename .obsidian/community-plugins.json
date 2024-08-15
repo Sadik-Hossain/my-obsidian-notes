@@ -8,8 +8,11 @@
   "obsidian-reading-time",
   "obsidian-emoji-toolbar",
   "obsidian-dynamic-background",
-  "discordian-plugin",
   "cmdr",
   "cloze",
-  "obsidian-html-tags-autocomplete"
+  "obsidian-html-tags-autocomplete",
+  "obsidian-excalidraw-plugin",
+  "obsidian-image-toolkit",
+  "page-gallery",
+  "dataview"
 ]

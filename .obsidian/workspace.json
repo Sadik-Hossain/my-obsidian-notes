@@ -14,9 +14,27 @@
               "type": "markdown",
               "state": {
                 "file": "YT Learning/How To Effortlessly Sell Your Products Online.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
+            }
+          },
+          {
+            "id": "0edb1ae8d14169d8",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/How To Effortlessly Sell Your Products Online 2024-08-15 10.15.09.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "7ed46f7f7d77b80c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -192,13 +210,17 @@
       "publish:Publish changes...": true,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "dbfolder:Create a new database table": false,
-      "cloze:Toggle all clozes": false
+      "cloze:Toggle all clozes": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "5d822e704beab0a0",
   "lastOpenFiles": [
-    "Courses/FEM/WebUx/Section 1 - The 4 Psychological Pillars of conversion.md",
+    "Excalidraw/How To Effortlessly Sell Your Products Online 2024-08-15 10.15.09.excalidraw.md",
     "YT Learning/How To Effortlessly Sell Your Products Online.md",
+    "Excalidraw/Drawing 2024-08-15 10.14.51.excalidraw.md",
+    "Excalidraw",
+    "Courses/FEM/WebUx/Section 1 - The 4 Psychological Pillars of conversion.md",
     "Courses/FEM/Find Client/define the market you wish to target.md",
     "Courses/FEM/Find Client/Index.md",
     "YT Learning/Patrick Spiegel/How to Land your FIRST Web Design Client as a beginner (no portfolio).md",
@@ -232,10 +254,7 @@
     "test folder/note 1.md",
     "test folder",
     "YT Learning/tada.md",
-    "Templates/yt-learning.md",
-    "YT Learning/run this.md",
     "Templates",
-    "Excalidraw",
     "YT Learning/Tomstoic",
     "yt learning.canvas",
     "test canvas.canvas",

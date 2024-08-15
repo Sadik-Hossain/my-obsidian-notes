@@ -33,7 +33,10 @@
     "lucideIconPackType": "native",
     "debugMode": false
   },
-  "YT Learning": "LiYoutube",
+  "YT Learning": {
+    "iconName": "LiYoutube",
+    "iconColor": "#32ec79"
+  },
   "Courses": "LiBookOpen",
   "Ideas": "💡",
   "YT Learning/Patrick Spiegel/How to Land your FIRST Web Design Client as a beginner (no portfolio).md": "LiWebhook",

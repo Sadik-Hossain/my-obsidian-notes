@@ -70,7 +70,5 @@
   "anuppuccin-theme-settings@@anp-td-highlight": "anp-table-row-alt",
   "anuppuccin-theme-settings@@anp-highlight-custom": "anp-highlight-blue",
   "anuppuccin-theme-settings@@anp-card-layout-filebrowser": true,
-  "anuppuccin-theme-settings@@anp-card-layout-actions": false,
-  "anuppuccin-theme-settings@@anp-card-radius": 18,
-  "anuppuccin-theme-settings@@anp-card-layout-padding": 6
+  "anuppuccin-theme-settings@@anp-card-layout-actions": true
 }

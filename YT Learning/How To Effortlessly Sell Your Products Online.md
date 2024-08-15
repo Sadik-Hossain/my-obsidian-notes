@@ -28,6 +28,10 @@ and then we have the chance to actually deliver for them.
 
 - **Focus on Result / Result Oriented**
 - **Displays Understandings**
+- **Simplify Offer**
+- **Client Journey**
+- **Sell in simple way**
+- **Pricing Offer**
 
 ### Focus On Results
 
@@ -54,10 +58,12 @@ your messaging and your positioning, make sure that its results orientated. What
 ## Client Journey
 
 
-## Client Journey
-
 
 ## How To Price Your Offer
+
+
+
+## How to target Ideal Client
 
 
 ![[How To Effortlessly Sell Your Products Online 2024-08-15 10.15.09.excalidraw]] 

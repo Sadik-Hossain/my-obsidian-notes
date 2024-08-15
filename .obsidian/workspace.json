@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5d822e704beab0a0",
+            "id": "593d0f519219890d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,19 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "0edb1ae8d14169d8",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/How To Effortlessly Sell Your Products Online 2024-08-15 10.15.09.excalidraw.md"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -92,12 +81,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 234.5110321044922,
-    "collapsed": true
+    "width": 234.5110321044922
   },
   "right": {
     "id": "b55a02fc4480b8fb",
@@ -114,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/How To Effortlessly Sell Your Products Online 2024-08-15 10.15.09.excalidraw.md"
+                "file": "YT Learning/How To Effortlessly Sell Your Products Online.md"
               }
             }
           }
@@ -131,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/How To Effortlessly Sell Your Products Online 2024-08-15 10.15.09.excalidraw.md",
+                "file": "YT Learning/How To Effortlessly Sell Your Products Online.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/How To Effortlessly Sell Your Products Online 2024-08-15 10.15.09.excalidraw.md",
+                "file": "YT Learning/How To Effortlessly Sell Your Products Online.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,12 +174,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 332.5,
+    "width": 223,
     "collapsed": true
   },
   "left-ribbon": {
@@ -208,17 +196,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0edb1ae8d14169d8",
+  "active": "593d0f519219890d",
   "lastOpenFiles": [
-    "YT Learning/How To Effortlessly Sell Your Products Online.md",
+    "MyVault/Marko.md",
     "Excalidraw/How To Effortlessly Sell Your Products Online 2024-08-15 10.15.09.excalidraw.md",
+    "style-settings.json",
+    "YT Learning/How To Effortlessly Sell Your Products Online.md",
     "Excalidraw/Drawing 2024-08-15 10.14.51.excalidraw.md",
     "Excalidraw",
     "Courses/FEM/WebUx/Section 1 - The 4 Psychological Pillars of conversion.md",
     "Courses/FEM/Find Client/define the market you wish to target.md",
     "Courses/FEM/Find Client/Index.md",
     "YT Learning/Patrick Spiegel/How to Land your FIRST Web Design Client as a beginner (no portfolio).md",
-    "MyVault/Marko.md",
     "YT Learning/How to sell your copywriting services well.md",
     "YT Learning/Company & jobs.md",
     "YT Learning/35min Cold Calling masterclass.md",
@@ -247,13 +236,11 @@
     "2024-08-13.md",
     "test folder/note 1.md",
     "test folder",
-    "YT Learning/tada.md",
     "Templates",
     "YT Learning/Tomstoic",
     "yt learning.canvas",
     "test canvas.canvas",
     "Attention.pdf",
-    "01-What To Expect In Digital Economics.pdf",
     "Pasted image 20240811094635.png",
     "Pasted image 20240804211521.png",
     "Pasted image 20240804211458.png",

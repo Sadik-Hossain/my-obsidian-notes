@@ -9,7 +9,9 @@ The 5 step framework:
 - **Create on one platform**\
 	Keep it simple, don't overwhelm
 - **Create for one person**
-- 
+- **Conversion**
+- **Systems**
+- **Consistency**
 
 ### Create for one person
 
@@ -114,27 +116,10 @@ just share everything you know, that's going to help them get where you want to 
 
 ### step 3: Conversion
 
-you're giving away everything
+you're giving away everything you know for free in your content.
 
-you know for free in your content all
+all the knowledge that's going to help them and then to monetize this you are going to sell the implementation.
 
-the knowledge that's going to help them
+**your product or your service is like the fast track to the result** that the person is looking for.
 
-and then to monetize this you are going
-
-to sell the implementation your product
-
-or your service is like the fast track
-
-to the result that this person is
-
-looking for
-
-
-
-### There are 3 stages of content creation
-
-**Step 1: Quantity**\
-
-**Step 2: Quality**\
 

@@ -81,12 +81,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 234.5110321044922
+    "width": 234.5110321044922,
+    "collapsed": true
   },
   "right": {
     "id": "b55a02fc4480b8fb",
@@ -196,7 +196,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "593d0f519219890d",
+  "active": "9808f7f66cb415da",
   "lastOpenFiles": [
     "MyVault/Marko.md",
     "Excalidraw/How To Effortlessly Sell Your Products Online 2024-08-15 10.15.09.excalidraw.md",

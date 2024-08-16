@@ -3,15 +3,19 @@ tags: [marketing, social-media]
 video: https://www.youtube.com/watch?v=1t7GGcN8rNE&t=30s
 ---
 
+
+> [!tips] 
+> **create on one platform for one person about one problem.**
+
 ## Content Strategy
 
 The 5 step framework:
 - **Create on one platform**\
 	Keep it simple, don't overwhelm
-- **Create for one person**
-- **Conversion**
-- **Systems**
-- **Consistency**
+- **for one person**
+- **About one problem**
+- **Systems / once a day**
+- **Consistency/ repetition**
 
 ### Create for one person
 
@@ -112,7 +116,7 @@ you don't have to put up a front and pretend to have all these client results an
 
 just share everything you know, that's going to help them get where you want to be and the experience and the client results will come. 
 
-**so create on one platform for one person about one problem.**
+
 
 ### step 3: Conversion
 
@@ -121,5 +125,100 @@ you're giving away everything you know for free in your content.
 all the knowledge that's going to help them and then to monetize this you are going to sell the implementation.
 
 **your product or your service is like the fast track to the result** that the person is looking for.
+
+
+> [!warning] the mistake most people make is creating too many offers
+> you think it must be easier to attract people, if you give them more  options, more services, that you can offer more things that you can sell to them but this is a huge mistake. **It overwhelms them.**
+
+
+> [!warning] Confused people don't buy anything
+> people need complete clarity on what you are offering them\
+one service or product with a very clear result or transformation\
+your content needs one very clear call to action
+
+==an example of clear cta:==\
+if you need help implementing what you learn in my content, work with me, buy from me, follow me, whatever it is just keep it simple and keep it consistent.
+
+your content can come at it from a million different angles, but the
+call to action is always the same.
+
+everything you're sharing is leading them to one very clear offer.
+
+You have to be consistent with your content & your cta for at least two months worth of momentum, before you can see any meaningful result.
+
+**people need to see your call to action multiple times, before they actually take action**
+
+
+you can switch up your call to action and your offers over time.\
+in fact, you probably should do this.
+
+because your first offer is not going to be a winner and so you want to be flexible and listen to your audience about what they want and so you can change your offers to fit their needs. 
+
+but you want to focus on testing and promoting one offer at a time and then talk about it a lot.
+
+
+### Step 4: System
+
+you do not have to post every single day, but you have to be working on this at least once a day.
+
+`ali abdal recommends post a content once/twice a week`
+
+**the key to winning this game is not going viral, rather is doing it for
+the longest time.**
+
+so you need a routine to make it sustainable and easy to stay consistent.
+
+forget about views forget about followers.\
+your only measure of success is the number of pieces of content that
+you finish and put out there.
+
+this is the only way you're going to get better and improve create on one platform for one person about one problem once a day and repeat.
+
+what you want to do is,\
+put aside a realistic amount of time every single day to be working on this.
+
+literally, schedule it into your calendar. Otherwise, you won't do it.
+
+pick a realistic goal for the number of pieces of content, that you're going to make.\
+**your only goal is to focus on getting out these pieces of content.**
+
+
+
+### Consistency
+
+Sometime you will get burned out, once you see your making contents for months and don't see any result. 
+
+to tackle this you can,\
+**learn new skills, take courses. As it gives a feeling of motivation & mental clarity.**\
+not every course gonna led to huge breakthroughs or immediate results, but they'll always gives a feeling of motivation and fire you up & can give a moment of clarity.
+
+second thing recommend doing is,\
+**surrounding yourself with people who have the same Mission as you.**
+
+it's really hard to keep going, especially when the people around you don't really understand what you're trying to do.
+
+they don't understand, why you don't just give up and get a real job or they openly make fun of you for putting yourself out there online, it can be really lonely.
+
+so having a community of people who gets you, makes all the difference.
+
+you can find a lot of these people on YT channel, social platforms, comments.
+
+> [!tip] you have to be ready to take action and fail a lot along the way 
+> this is just something that anyone building any kind of business, has
+to go through.
+
+
+>[!quote] **attention is the new currency** 
+once you get it right and build that audience,\
+you will have an automated Sales Machine, qualified leads for your business with zero cold Outreach, and an audience ready to buy, whatever you want to sell them.
+if you stick with it long enough, when everything eventually starts working\
+you will be absolutely Unstoppable!
+
+
+
+
+
+
+
 
 

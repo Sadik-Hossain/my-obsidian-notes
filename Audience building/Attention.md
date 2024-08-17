@@ -5,7 +5,7 @@ You have to understand human nature, persuasive writing.
 Help is more important than entertainment 
 
 ###### Help them by providing values:
----
+
 - solutions of a problem
 - tips & tricks & life hacks
 - step by step guides
@@ -15,7 +15,7 @@ Help is more important than entertainment
 - more ...
 
 ###### Entertain them via:
----
+
 - humor
 - memes
 
@@ -29,6 +29,7 @@ Then drive those traffic into your products/business
 Post valuable, helpful, resourceful content
 
 ##### Always ask yourself:
+
 what is the one thing I want my reader to learn from this post?
 What is the one thing you want to teach in this post? 
 
@@ -46,3 +47,6 @@ These two methods of writing a rehook, first one where you add heft, where you a
 **Writing is simply get people to buy into an idea, to buy into an opinion**
 
 Associate a problem, make the readers feel **resonate** with you.
+
+
+

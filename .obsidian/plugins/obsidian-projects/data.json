@@ -77,10 +77,77 @@
           "id": "8f0444bb-7acf-4ad4-8e75-aad8b6107552",
           "name": "Gallery",
           "type": "gallery"
+        },
+        {
+          "config": {},
+          "filter": {
+            "conjunction": "and",
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "fad0d1f8-92ac-47b5-a448-a78ae674a42b",
+          "name": "tesss",
+          "type": "calendar"
         }
       ],
       "id": "f6fd04f8-0649-4eae-b9dc-0eb06a619f7f",
       "name": "tags"
+    },
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "YT channels",
+          "recursive": true
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {},
+          "filter": {
+            "conjunction": "and",
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "3214d1b9-5664-4b5d-85f9-5ff19854baab",
+          "name": "Table",
+          "type": "table"
+        },
+        {
+          "config": {},
+          "filter": {
+            "conjunction": "and",
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "21e06490-30df-4233-aa84-d0371bed344f",
+          "name": "Gallery",
+          "type": "gallery"
+        }
+      ],
+      "id": "e0c7f2ee-0770-4b6f-a956-22f6b3d5ce32",
+      "name": "Untitled project"
     }
   ],
   "archives": [],

@@ -16,7 +16,12 @@
       "newNotesFolder": "",
       "views": [
         {
-          "config": {},
+          "config": {
+            "fitStyle": "contain",
+            "coverField": "",
+            "includeFields": [],
+            "cardWidth": 200
+          },
           "filter": {
             "conjunction": "and",
             "conditions": []
@@ -27,9 +32,31 @@
           "sort": {
             "criteria": []
           },
-          "id": "b7435526-85c8-4702-92e5-e03a74477887",
-          "name": "Table",
-          "type": "table"
+          "id": "2f4bd980-104c-489d-a7e2-c24c8bc7842a",
+          "name": "Gallery",
+          "type": "gallery"
+        },
+        {
+          "config": {
+            "columns": {
+              "No status": {
+                "collapse": false
+              }
+            }
+          },
+          "filter": {
+            "conjunction": "and",
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "087a08d3-12f4-4379-b37d-d6c19b9eb6e3",
+          "name": "Board",
+          "type": "board"
         }
       ],
       "id": "9d21917f-0bee-46b4-95e7-b392309be969",

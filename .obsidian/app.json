@@ -33,9 +33,10 @@
     "downscalePercent": 100
   },
   "showInlineTitle": true,
-  "showRibbon": false,
+  "showRibbon": true,
   "propertiesInDocument": "source",
   "alwaysUpdateLinks": true,
   "newFileLocation": "current",
-  "showUnsupportedFiles": true
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "attachments"
 }

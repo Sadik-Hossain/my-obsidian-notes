@@ -13,14 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "YT channels/nicolas cole.md",
+                "file": "Courses/FEM/Find Client/define the market you wish to target.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7036c52db52be2ca",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "attachments/Pasted image 20240729111437.png"
+              }
+            }
+          },
+          {
+            "id": "bb7029ebee3a8cd4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "test.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -49,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:psychology",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -93,6 +117,22 @@
     "type": "split",
     "children": [
       {
+        "id": "413f2e899d5bd931",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "79c0d39f58023817",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "test.md"
+              }
+            }
+          }
+        ]
+      },
+      {
         "id": "c0e29ca39f2960da",
         "type": "tabs",
         "children": [
@@ -102,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "YT channels/nicolas cole.md",
+                "file": "test.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "YT channels/nicolas cole.md",
+                "file": "test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,17 +202,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "YT channels/nicolas cole.md"
-              }
-            }
-          },
-          {
-            "id": "79c0d39f58023817",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "YT channels/nicolas cole.md"
+                "file": "test.md"
               }
             }
           }
@@ -181,7 +211,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 284,
+    "width": 362,
     "collapsed": true
   },
   "left-ribbon": {
@@ -197,15 +227,23 @@
       "dbfolder:Create a new database table": false,
       "cloze:Toggle all clozes": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-projects:Open projects": false
+      "obsidian-projects:Open projects": false,
+      "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "9fd0302ca1a01caa",
+  "active": "bb7029ebee3a8cd4",
   "lastOpenFiles": [
+    "attachments/perf-driven.png",
+    "test canvas.canvas",
+    "yt learning.canvas",
+    "attachments/Pasted image 20240729111437.png",
+    "attachments",
+    "Courses/FEM/Find Client/define the market you wish to target.md",
+    "YT channels/nicolas cole.md",
+    "YT channels/Untitled.md",
     "YT channels/ali abdal.md",
     "YT Learning/ali abdal/How to Start Your First Business in 48 Hours.md",
     "MyVault/Marko.md",
-    "YT channels/nicolas cole.md",
     "MyVault/New folder",
     "MyVault/New folder/desktop.ini",
     "YT Learning/Jeremy Miner/46 Years of Sales Knowledge in 76 Minutes.md",
@@ -230,24 +268,17 @@
     "Excalidraw/Drawing 2024-08-15 10.14.51.excalidraw.md",
     "Excalidraw",
     "Courses/FEM/WebUx/Section 1 - The 4 Psychological Pillars of conversion.md",
-    "Courses/FEM/Find Client/define the market you wish to target.md",
     "Courses/FEM/Find Client/Index.md",
     "YT Learning/How to sell your copywriting services well.md",
-    "MyVault/Test/My note.md",
     "obs.css",
     "New Text Document.txt",
-    "perf-driven.png",
-    "YT Learning/Patrick Spiegel",
     "Pasted image 20240811094635 2.png",
     "Pasted image 20240811094635 1.png",
     "Pasted image 20240729112344 1.png",
     "Pasted image 20240804211521 1.png",
     "Pasted image 20240804211458 1.png",
-    "yt learning.canvas",
-    "test canvas.canvas",
-    "Pasted image 20240811094635.png",
-    "Pasted image 20240804211521.png",
-    "Pasted image 20240804211458.png",
-    "Pasted image 20240729111437.png"
+    "attachments/Pasted image 20240811094635.png",
+    "attachments/Pasted image 20240804211521.png",
+    "attachments/Pasted image 20240804211458.png"
   ]
 }

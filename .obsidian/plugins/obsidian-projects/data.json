@@ -180,48 +180,6 @@
       "name": "Youtubers"
     },
     {
-      "fieldConfig": {
-        "creator": {
-          "richText": true
-        },
-        "guest": {
-          "richText": true
-        }
-      },
-      "defaultName": "",
-      "templates": [],
-      "excludedNotes": [],
-      "isDefault": false,
-      "dataSource": {
-        "kind": "folder",
-        "config": {
-          "path": "YT Learning",
-          "recursive": false
-        }
-      },
-      "newNotesFolder": "",
-      "views": [
-        {
-          "config": {},
-          "filter": {
-            "conjunction": "and",
-            "conditions": []
-          },
-          "colors": {
-            "conditions": []
-          },
-          "sort": {
-            "criteria": []
-          },
-          "id": "1b30e7f2-18a2-4450-b137-e791c5619252",
-          "name": "Table",
-          "type": "table"
-        }
-      ],
-      "id": "21009573-d2f8-4163-8fd6-9716647b07e9",
-      "name": "Untitled project"
-    },
-    {
       "fieldConfig": {},
       "defaultName": "",
       "templates": [],

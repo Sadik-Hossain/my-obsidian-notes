@@ -16,4 +16,4 @@ url: "https://www.youtube.com/channel/UChy5YCkgnum2CThPWce-Kow"
 TABLE file.size AS size
 FROM ([[rene rodriguez]])
 ```
-=
+

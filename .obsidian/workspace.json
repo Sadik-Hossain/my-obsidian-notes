@@ -86,8 +86,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 248,
-    "collapsed": true
+    "width": 248
   },
   "right": {
     "id": "b55a02fc4480b8fb",
@@ -200,7 +199,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9fd0302ca1a01caa",
+  "active": "9808f7f66cb415da",
   "lastOpenFiles": [
     "YT channels/nicolas cole.md",
     "MyVault/New folder",

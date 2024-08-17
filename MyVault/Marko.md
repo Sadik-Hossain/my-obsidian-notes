@@ -31,6 +31,8 @@ console.log(a);
 
 ## callouts
 
+**Callout types can also be changed by right-clicking a callout.**
+
 > [!NOTE] this is a callout
 > hello there!
 

@@ -1,8 +1,8 @@
 ---
-genre:
+cover: https://yt3.ggpht.com/RwMOB4xQ_MRC5zeR9J0PSWk0ZseYUZUXJaqGL4Gbwjqdokqe8eiC3TGNv8WUBP16_rk5miuvjg=s176-c-k-c0x00ffffff-no-rj-mo
+niche:
   - sales
   - psychology
-cover: https://yt3.ggpht.com/RwMOB4xQ_MRC5zeR9J0PSWk0ZseYUZUXJaqGL4Gbwjqdokqe8eiC3TGNv8WUBP16_rk5miuvjg=s176-c-k-c0x00ffffff-no-rj-mo
 ---
 
 ```embed

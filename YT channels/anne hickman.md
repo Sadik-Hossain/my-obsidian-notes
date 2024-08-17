@@ -1,10 +1,10 @@
 ---
-genre:
+cover: https://yt3.ggpht.com/tGt7uuJi71vaUfG8qmPojc957j5aehZPgYFUmMy3U94SrZzyiQ2YyHWs4nMW-YxfFAFJnmPD=s176-c-k-c0x00ffffff-no-rj-mo
+niche:
   - web design
   - business
   - content marketing
   - sales
-cover: https://yt3.ggpht.com/tGt7uuJi71vaUfG8qmPojc957j5aehZPgYFUmMy3U94SrZzyiQ2YyHWs4nMW-YxfFAFJnmPD=s176-c-k-c0x00ffffff-no-rj-mo
 ---
 
 ```embed

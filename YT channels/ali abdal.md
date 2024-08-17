@@ -1,8 +1,8 @@
 ---
 cover: https://yt3.googleusercontent.com/ytc/AIdro_m2xx6mCZwsyjARnkwBKJxEv0FqGxGS2NwWNkjWH__Smw=s900-c-k-c0x00ffffff-no-rj
-genre:
- - productivity
- - business
+niche:
+  - productivity
+  - business
 ---
 
 

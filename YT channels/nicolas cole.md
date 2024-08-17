@@ -1,6 +1,8 @@
 ---
 cover: https://yt3.googleusercontent.com/5-PfsnlRvKt9N0v0ZsEOZ9exmmgw2I3g35htEtLIktXMewxNBtGfb0LL-gCFrnlTZIDKDuJwVw=s900-c-k-c0x00ffffff-no-rj
-genre: [writing, outreach]
+niche:
+  - writing
+  - outreach
 ---
 
 ```embed

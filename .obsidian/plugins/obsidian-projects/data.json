@@ -100,7 +100,7 @@
     },
     {
       "fieldConfig": {
-        "genre": {
+        "niche": {
           "richText": false
         }
       },
@@ -129,14 +129,7 @@
           },
           "filter": {
             "conjunction": "and",
-            "conditions": [
-              {
-                "field": "genre",
-                "operator": "has-keyword",
-                "enabled": false,
-                "value": "copywrite"
-              }
-            ]
+            "conditions": []
           },
           "colors": {
             "conditions": []
@@ -157,13 +150,15 @@
               "path": {
                 "hide": true
               },
-              "genre": {
+              "niche": {
                 "width": 432
               }
             },
             "orderFields": [
               "name",
-              "genre"
+              "niche",
+              "path",
+              "cover"
             ]
           },
           "filter": {

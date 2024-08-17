@@ -1,12 +1,12 @@
 ---
-tags: [sales,psychology]
+tags: [sales, psychology]
 video: https://www.youtube.com/watch?v=5enPMakCGXU&list=PLn4ORmo_1jEiRDueWaORWVi-bcTrREuVr&index=6
 ---
 
-<iframe src="https://www.youtube.com/embed/5enPMakCGXU?list=PLn4ORmo_1jEiRDueWaORWVi-bcTrREuVr" height="50" width="50" style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;" allowfullscreen="" allow="fullscreen"></iframe>
+<iframe src="https://www.youtube.com/embed/5enPMakCGXU?list=PLn4ORmo_1jEiRDueWaORWVi-bcTrREuVr" height="50" width="50" style="aspect-ratio: 1.76991 / 1; width: 75%; height: 75%;display:block;margin:0 auto" allowfullscreen="" allow="fullscreen"></iframe>
 
 #### The new model of selling
----
+
 NEPQ
 - **85% Engagement Stage**
 	- trust
@@ -25,7 +25,7 @@ point to be noted, Liking you is just secondary to trusting you that you can get
 
 
 #### The first part of NEPQ is consequence question
----
+
 **NEPQ -- Connecting Q's**
 - Take focus off you, puts it on your prospect
 - gets them into **results based thinking** over price/cost based thinking
@@ -36,7 +36,7 @@ point to be noted, Liking you is just secondary to trusting you that you can get
 - How can we use tonality to cause prospects to want them to open up emotionally
 - How do we build a gap
 - How do we help them find a problem they didn't know they have.
-		If u can help them find their problems, they will view you as an expert, somebody they can trust
+	If u can help them find their problems, they will view you as an expert, somebody they can trust
 
 
 

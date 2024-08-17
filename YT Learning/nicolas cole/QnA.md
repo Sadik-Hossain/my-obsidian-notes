@@ -1,13 +1,8 @@
----
-tags:
-  - business
-  - writing
-  - client
-video: https://www.youtube.com/watch?v=D5RHNgTIbNg
-channel: "[[nicolas cole]]"
----
+tags: [[business]] [[writing]] [[client]]
 
-#business #writing #client
+author: [[nicolas cole]] 
+
+---
 
 <iframe title="Q&amp;A on Digital Writing, Ghostwriting, and Self-Publishing" src="https://www.youtube.com/embed/D5RHNgTIbNg?feature=oembed" height="113" width="200" style="aspect-ratio: 16/9 ; width: 75%; height: 75%;display:block;margin: 0 auto" allowfullscreen="" allow="fullscreen"></iframe>
 

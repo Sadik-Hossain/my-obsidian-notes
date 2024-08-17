@@ -1,6 +1,7 @@
-https://youtu.be/0kgKMdSzVbE?si=9ItRmxmf_kx5ctBN
+[[business]]
 
----
+[Guide To Work In A Company 2024 | Must Watch | Salaries, Equity, Raises, Negotiations](https://youtu.be/0kgKMdSzVbE?si=9ItRmxmf_kx5ctBN)
+
 
 ![[Pasted image 20240729195743.png]]
 

@@ -3,6 +3,8 @@ tags: [marketing, social-media]
 video: https://www.youtube.com/watch?v=1t7GGcN8rNE&t=30s
 ---
 
+<iframe title="The content strategy that attracts customers in 2024" src="https://www.youtube.com/embed/1t7GGcN8rNE?feature=oembed" height="113" width="200" style="aspect-ratio: 1.76991 / 1; width: 75%; height: 75%; display: block; margin: 0 auto" allowfullscreen="" allow="fullscreen"></iframe>
+
 
 > [!tips] 
 > **create on one platform for one person about one problem.**

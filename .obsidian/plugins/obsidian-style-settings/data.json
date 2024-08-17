@@ -27,7 +27,7 @@
   "anuppuccin-theme-settings@@anp-simple-rainbow-indentation-toggle": true,
   "anuppuccin-theme-settings@@anp-rainbow-subfolder-color-toggle": true,
   "anuppuccin-theme-settings@@anp-simple-rainbow-icon-toggle": true,
-  "anuppuccin-theme-settings@@anp-status-bar-select": "anp-floating-status-bar",
+  "anuppuccin-theme-settings@@anp-status-bar-select": "none",
   "anuppuccin-theme-settings@@anp-alt-tab-style": "anp-depth-tab-toggle",
   "anuppuccin-theme-settings@@anp-layout-select": "anp-card-layout",
   "anuppuccin-theme-settings@@anp-bg-fix": false,

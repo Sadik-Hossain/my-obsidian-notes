@@ -53,6 +53,8 @@ console.log(a);
 > [!success]  title
 > hello there!
 
+>[!info] this is info
+> hello there!
 
 `ctrl + 26letters` 
 `shift + 26`

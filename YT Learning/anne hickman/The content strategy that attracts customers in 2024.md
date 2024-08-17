@@ -1,9 +1,19 @@
 ---
-tags: [marketing, social-media]
-video: https://www.youtube.com/watch?v=1t7GGcN8rNE&t=30s
+tags:
+  - marketing
+  - social-media
+video: https://www.youtube.com/watch?v=1t7GGcN8rNE
 ---
 
-<iframe title="The content strategy that attracts customers in 2024" src="https://www.youtube.com/embed/1t7GGcN8rNE?feature=oembed" height="113" width="200" style="aspect-ratio: 1.76991 / 1; width: 75%; height: 75%; display: block; margin: 0 auto" allowfullscreen="" allow="fullscreen"></iframe>
+
+```embed
+title: "The content strategy that attracts customers in 2024"
+image: "https://img.youtube.com/vi/1t7GGcN8rNE/maxresdefault.jpg"
+description: "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube."
+url: "https://www.youtube.com/watch?v=1t7GGcN8rNE"
+```
+
+
 
 
 > [!tips] 

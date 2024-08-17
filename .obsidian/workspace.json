@@ -13,10 +13,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "YT Learning/anne hickman/The content strategy that attracts customers in 2024.md",
-                "mode": "source",
+                "file": "YT channels/nicolas cole.md",
+                "mode": "preview",
                 "backlinks": true,
-                "source": false
+                "source": true
               }
             }
           }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "YT Learning/anne hickman/The content strategy that attracts customers in 2024.md",
+                "file": "YT channels/nicolas cole.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "YT Learning/anne hickman/The content strategy that attracts customers in 2024.md",
+                "file": "YT channels/nicolas cole.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "YT Learning/anne hickman/The content strategy that attracts customers in 2024.md"
+                "file": "YT channels/nicolas cole.md"
               }
             }
           },
@@ -173,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "YT Learning/anne hickman/The content strategy that attracts customers in 2024.md"
+                "file": "YT channels/nicolas cole.md"
               }
             }
           }
@@ -197,17 +197,20 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "dbfolder:Create a new database table": false,
       "cloze:Toggle all clozes": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "open-gate:google": false
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "3b0d14d8c4644eeb",
   "lastOpenFiles": [
-    "YT channels/ali abdal.md",
+    "MyVault/New folder",
+    "MyVault/New folder/desktop.ini",
+    "MyVault/Marko.md",
     "YT channels/nicolas cole.md",
+    "YT channels/ali abdal.md",
     "YT Learning/Jeremy Miner/46 Years of Sales Knowledge in 76 Minutes.md",
-    "YT Learning/Jeremy Miner/The Psychology of selling with rene rodriguez.md",
     "YT Learning/Jeremy Miner/How Introverts Can Sell MORE Than Extroverts.md",
+    "YT Learning/anne hickman/The content strategy that attracts customers in 2024.md",
+    "YT Learning/Jeremy Miner/The Psychology of selling with rene rodriguez.md",
     "YT Learning/35min Cold Calling masterclass.md",
     "tag/business.md",
     "YT Learning/Company & jobs.md",
@@ -221,9 +224,7 @@
     "YT Learning/How To Effortlessly Sell Your Products Online.md",
     "YT Learning/Patrick Spiegel/How to Land your FIRST Web Design Client as a beginner (no portfolio).md",
     "tag",
-    "YT Learning/anne hickman/The content strategy that attracts customers in 2024.md",
     "YT Learning/anne hickman",
-    "MyVault/Marko.md",
     "Excalidraw/How To Effortlessly Sell Your Products Online 2024-08-15 10.15.09.excalidraw.md",
     "style-settings.json",
     "Excalidraw/Drawing 2024-08-15 10.14.51.excalidraw.md",
@@ -233,7 +234,6 @@
     "Courses/FEM/Find Client/Index.md",
     "YT Learning/How to sell your copywriting services well.md",
     "MyVault/Test/My note.md",
-    "Ideas/Business idea/Web business.md",
     "obs.css",
     "New Text Document.txt",
     "perf-driven.png",
@@ -244,7 +244,6 @@
     "Pasted image 20240729112344 1.png",
     "Pasted image 20240804211521 1.png",
     "Pasted image 20240804211458 1.png",
-    "test folder",
     "yt learning.canvas",
     "test canvas.canvas",
     "Pasted image 20240811094635.png",

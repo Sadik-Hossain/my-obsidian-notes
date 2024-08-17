@@ -5,6 +5,13 @@ video: https://www.youtube.com/watch?v=5enPMakCGXU&list=PLn4ORmo_1jEiRDueWaORWVi
 
 <iframe src="https://www.youtube.com/embed/5enPMakCGXU?list=PLn4ORmo_1jEiRDueWaORWVi-bcTrREuVr" height="50" width="50" style="aspect-ratio: 1.76991 / 1; width: 75%; height: 75%;display:block;margin:0 auto" allowfullscreen="" allow="fullscreen"></iframe>
 
+```embed
+title: "- YouTube"
+image: "https://img.youtube.com/vi/5enPMakCGXU/maxresdefault.jpg"
+description: "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube."
+url: "https://www.youtube.com/watch?v=5enPMakCGXU&list=PLn4ORmo_1jEiRDueWaORWVi-bcTrREuVr&index=6"
+```
+
 #### The new model of selling
 
 NEPQ

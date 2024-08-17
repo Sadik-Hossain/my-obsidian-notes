@@ -1,0 +1,14 @@
+{
+  "accentColor": "#5cf2f5",
+  "theme": "obsidian",
+  "baseFontSize": 17,
+  "cssTheme": "AnuPpuccin",
+  "nativeMenus": false,
+  "interfaceFontFamily": "",
+  "textFontFamily": "",
+  "monospaceFontFamily": "Cascadia Code",
+  "showViewHeader": true,
+  "enabledCssSnippets": [
+    "obs"
+  ]
+}

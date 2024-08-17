@@ -13,6 +13,7 @@ url: "https://www.youtube.com/channel/UChy5YCkgnum2CThPWce-Kow"
 ```
 
 ```dataview
-LIST
+TABLE file.size AS size
 FROM ([[rene rodriguez]])
 ```
+=

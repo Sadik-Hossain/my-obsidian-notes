@@ -202,5 +202,14 @@
       ],
       "key": "P"
     }
+  ],
+  "properties:open-local": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "Z"
+    }
   ]
 }

@@ -178,6 +178,83 @@
       ],
       "id": "e0c7f2ee-0770-4b6f-a956-22f6b3d5ce32",
       "name": "Youtubers"
+    },
+    {
+      "fieldConfig": {
+        "creator": {
+          "richText": true
+        },
+        "guest": {
+          "richText": true
+        }
+      },
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "YT Learning",
+          "recursive": false
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {},
+          "filter": {
+            "conjunction": "and",
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "1b30e7f2-18a2-4450-b137-e791c5619252",
+          "name": "Table",
+          "type": "table"
+        }
+      ],
+      "id": "21009573-d2f8-4163-8fd6-9716647b07e9",
+      "name": "Untitled project"
+    },
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": true,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "tag",
+          "recursive": false
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {},
+          "filter": {
+            "conjunction": "and",
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "b12bbf66-ca4e-4a32-b59e-18f8b11be097",
+          "name": "Table",
+          "type": "table"
+        }
+      ],
+      "id": "b570030f-60b6-45b3-8e2a-4e8c97ad89e1",
+      "name": "tag folder"
     }
   ],
   "archives": [],

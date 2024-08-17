@@ -1,10 +1,18 @@
+---
+tags:
+  - business
+  - writing
+  - client
+video: https://www.youtube.com/watch?v=D5RHNgTIbNg
+channel: "[[nicolas cole]]"
+---
+
 #business #writing #client
 
-https://www.youtube.com/watch?v=D5RHNgTIbNg
+<iframe title="Q&amp;A on Digital Writing, Ghostwriting, and Self-Publishing" src="https://www.youtube.com/embed/D5RHNgTIbNg?feature=oembed" height="113" width="200" style="aspect-ratio: 16/9 ; width: 75%; height: 75%;display:block;margin: 0 auto" allowfullscreen="" allow="fullscreen"></iframe>
 
----
-## How would you go about starting writing online with 0 audience?
----
+## How to starting writing online with zero audience?
+
 The platforms not broken, the market is not saturated, and you're not late to the party.
 
 The problem is:
@@ -18,15 +26,13 @@ And you have to go on the Journey of discovering and figuring that out.
 
 ==Just start & be consistent.==
 
----
 ## what makes a good story impactful and valuable?
----
 the simple answer is, what makes a story impactful and valuable is\
 if the reader can see themselves in it.
 
 if the reader can't see themselves in it, it's not a very good story.
 
-and a lot of times you see you why most "*business content*" tends to not be very good, is because there's all of this belief that circulates in the business world of, your story is important!
+and a lot of times you see why most "*business content*" trends to not be very good, is because there's all of this belief that circulates in the business world of, your story is important!
 
 you have to tell your story\
 your startup story\
@@ -63,9 +69,7 @@ and I'm going to ==put the spotlight on the reader's wants, needs, interests and
 
 and then I'm going to use my story as an example.
 
----
 ## what advice do you have for someone who loves to learn but can't figure out what their offer?
----
 
 so in this question it's,\
 how do I figure out what my offer is? AKA what to offer other people?\
@@ -120,9 +124,8 @@ in an Ideal World, there is an overlap. not saying "chase the money" and do some
 there should be an overlap, but ==often times that overlap reveals itself as you help other people.==
 
 
----
 ## What Industry to pick?
----
+
 every single industry can work!
 
 the reality is that, every single person in every single industry, who wants more customers needs a ghost writer.
@@ -149,9 +152,8 @@ if he/she don't know anything about mineral rocks, but the person who is obsesse
 ==so, you always want to start with some sort of Industry where you have an information advantage.==
 
 
----
 ## How to get first client?
----
+
 how do you get that first?
 
 ==your Niche is your network==
@@ -177,5 +179,3 @@ no! my first client is going to be and then you project this big fancy vision of
 your first client should just be someone in your life, that you know and you go help them and then you lead that work up to the next one and to the next one into the next one. *(referrals, word of mouth)*
 
 ==so in the very beginning, your Niche is your network.==
-
----

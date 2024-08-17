@@ -8,13 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "eb04704bec2656e9",
+            "id": "830dde1da7a7fec3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tag/trick.md",
-                "mode": "source",
+                "file": "YT Learning/nicolas cole/QnA.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -103,38 +103,11 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tag/trick.md"
-              }
-            }
-          },
-          {
-            "id": "72bd36f2665fdb03",
-            "type": "leaf",
-            "state": {
-              "type": "file-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "efef1822648d94ab",
-            "type": "leaf",
-            "state": {
-              "type": "canvas-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "f02efe1c6738281f",
-            "type": "leaf",
-            "state": {
-              "type": "file-properties",
-              "state": {
-                "file": "tag/trick.md"
+                "file": "YT Learning/nicolas cole/QnA.md"
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
         "id": "c0e29ca39f2960da",
@@ -147,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tag/trick.md",
+                "file": "YT Learning/nicolas cole/QnA.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tag/trick.md",
+                "file": "YT Learning/nicolas cole/QnA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,8 +178,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 284,
-    "collapsed": true
+    "width": 284
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -220,17 +192,24 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "dbfolder:Create a new database table": false,
       "cloze:Toggle all clozes": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "open-gate:google": false
     }
   },
-  "active": "eb04704bec2656e9",
+  "active": "823891417e197ad6",
   "lastOpenFiles": [
+    "YT channels/nicolas cole.md",
+    "YT channels/ali abdal.md",
+    "YT Learning/ali abdal/How to Start Your First Business in 48 Hours.md",
+    "YT Learning/nicolas cole/QnA.md",
+    "YT Learning/ali abdal/If I Wanted to Grow An Audience in 2024, I'd Do This.md",
+    "YT channels",
+    "tag/trick.md",
     "YT Learning/Jeremy Miner/46 Years of Sales Knowledge in 76 Minutes.md",
     "YT Learning/35min Cold Calling masterclass.md",
     "YT Learning/Company & jobs.md",
     "YT Learning/How To Effortlessly Sell Your Products Online.md",
     "YT Learning/Patrick Spiegel/How to Land your FIRST Web Design Client as a beginner (no portfolio).md",
-    "tag/trick.md",
     "tag",
     "YT Learning/anne hickman/The content strategy that attracts customers in 2024.md",
     "YT Learning/anne hickman",
@@ -246,7 +225,6 @@
     "MyVault/Test/My note.md",
     "Ideas/Business idea/Web business.md",
     "Audience building/Attention.md",
-    "YT Learning/ali abdal/If I Wanted to Grow An Audience in 2024, I'd Do This.md",
     "Audience building/Untitled database.md",
     "obs.css",
     "New Text Document.txt",
@@ -255,18 +233,13 @@
     "YT Learning/Patrick Spiegel",
     "conflict-files-obsidian-git.md",
     "test.md",
-    "hooked on hooks/Attention & Emotion.md",
     "hooked on hooks",
     "Pasted image 20240811094635 2.png",
     "Pasted image 20240811094635 1.png",
     "Pasted image 20240729112344 1.png",
     "Pasted image 20240804211521 1.png",
     "Pasted image 20240804211458 1.png",
-    "result.md",
-    "test folder/note 3.md",
-    "test folder/note 2.md",
     "test folder",
-    "Templates",
     "yt learning.canvas",
     "test canvas.canvas",
     "Pasted image 20240811094635.png",

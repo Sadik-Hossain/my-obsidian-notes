@@ -1,8 +1,10 @@
-#business
-
-https://www.youtube.com/watch?v=zVBHOKJgouI
-
 ---
+tags:
+  - business
+video: https://www.youtube.com/watch?v=zVBHOKJgouI
+channel: "[[ali abdal]]"
+---
+<iframe title="How to Start Your First Business in 48 Hours" src="https://www.youtube.com/embed/zVBHOKJgouI?feature=oembed" height="113" width="200" style="display: block; margin: 0 auto; width: 50%; height: 50%;" allowfullscreen="" allow="fullscreen"></iframe>
 
 ### How do you start your first business?
 

@@ -1,0 +1,16 @@
+{
+  "uuid": "4c0abrz51kpvwlrbnxe90i",
+  "gates": {
+    "Z29vZ2xlLmNvbQ==": {
+      "id": "Z29vZ2xlLmNvbQ==",
+      "title": "google",
+      "icon": "globe",
+      "hasRibbon": true,
+      "position": "center",
+      "profileKey": "open-gate",
+      "url": "google.com",
+      "zoomFactor": 1,
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0/HBpt3US8-18"
+    }
+  }
+}

@@ -7,7 +7,7 @@
   "interfaceFontFamily": "",
   "textFontFamily": "",
   "monospaceFontFamily": "Cascadia Code",
-  "showViewHeader": true,
+  "showViewHeader": false,
   "enabledCssSnippets": [
     "obs"
   ]

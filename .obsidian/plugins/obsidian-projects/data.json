@@ -41,71 +41,15 @@
       "name": "all"
     },
     {
-      "fieldConfig": {},
-      "defaultName": "",
-      "templates": [],
-      "excludedNotes": [],
-      "isDefault": false,
-      "dataSource": {
-        "kind": "tag",
-        "config": {
-          "tag": "#sales",
-          "hierarchy": false
-        }
-      },
-      "newNotesFolder": "",
-      "views": [
-        {
-          "config": {
-            "coverField": "",
-            "fitStyle": "contain",
-            "includeFields": [
-              "tags"
-            ],
-            "cardWidth": 200
-          },
-          "filter": {
-            "conjunction": "and",
-            "conditions": []
-          },
-          "colors": {
-            "conditions": []
-          },
-          "sort": {
-            "criteria": []
-          },
-          "id": "8f0444bb-7acf-4ad4-8e75-aad8b6107552",
-          "name": "Gallery",
-          "type": "gallery"
-        },
-        {
-          "config": {},
-          "filter": {
-            "conjunction": "and",
-            "conditions": []
-          },
-          "colors": {
-            "conditions": []
-          },
-          "sort": {
-            "criteria": []
-          },
-          "id": "fad0d1f8-92ac-47b5-a448-a78ae674a42b",
-          "name": "tesss",
-          "type": "calendar"
-        }
-      ],
-      "id": "f6fd04f8-0649-4eae-b9dc-0eb06a619f7f",
-      "name": "tags"
-    },
-    {
       "fieldConfig": {
         "niche": {
           "richText": false
         }
       },
       "defaultName": "",
-      "templates": [],
+      "templates": [
+        "templates/YT Chan.md"
+      ],
       "excludedNotes": [],
       "isDefault": false,
       "dataSource": {
@@ -132,7 +76,35 @@
             "conditions": []
           },
           "colors": {
-            "conditions": []
+            "conditions": [
+              {
+                "color": "#ffee2e",
+                "condition": {
+                  "field": "niche",
+                  "operator": "has-keyword",
+                  "enabled": true,
+                  "value": "psychology"
+                }
+              },
+              {
+                "color": "#a15cf5",
+                "condition": {
+                  "field": "niche",
+                  "operator": "has-any-of",
+                  "enabled": true,
+                  "value": "[\"sales\",\"business\",\"marketing\"]"
+                }
+              },
+              {
+                "color": "#61ff81",
+                "condition": {
+                  "field": "niche",
+                  "operator": "has-any-of",
+                  "enabled": true,
+                  "value": "[\"copywrite\",\"writer\",\"writing\"]"
+                }
+              }
+            ]
           },
           "sort": {
             "criteria": []
@@ -213,6 +185,92 @@
       ],
       "id": "b570030f-60b6-45b3-8e2a-4e8c97ad89e1",
       "name": "tag folder"
+    },
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "YT Learning",
+          "recursive": false
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {},
+          "filter": {
+            "conjunction": "and",
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "c6720f52-d0cd-402c-9b25-b653ecfbb2ff",
+          "name": "yt vids",
+          "type": "gallery"
+        },
+        {
+          "config": {},
+          "filter": {
+            "conjunction": "and",
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "4818de05-6426-4886-be36-fe47c6db898c",
+          "name": "Table",
+          "type": "table"
+        }
+      ],
+      "id": "8b4db393-f1ae-4fc3-b925-5b36d09c658f",
+      "name": "yt learning"
+    },
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "tag",
+        "config": {
+          "tag": "",
+          "hierarchy": false
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {},
+          "filter": {
+            "conjunction": "and",
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "d9c3920a-f1e0-426f-9468-232c2031a690",
+          "name": "Table",
+          "type": "table"
+        }
+      ],
+      "id": "b4bb29a2-2085-433b-9eee-153a46526703",
+      "name": "Untitled project"
     }
   ],
   "archives": [],

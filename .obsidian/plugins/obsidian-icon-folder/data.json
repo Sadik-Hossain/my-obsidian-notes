@@ -6,10 +6,10 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "🗣",
-      "LiWebhook",
-      "💡",
-      "LiBookOpen",
+      "LiLayoutTemplate",
+      "LiPersonStanding",
+      "LiPaperclip",
+      "LiTag",
       "LiYoutube"
     ],
     "recentlyUsedIconsSize": 5,
@@ -40,5 +40,11 @@
   "Courses": "LiBookOpen",
   "Ideas": "💡",
   "YT Learning/Patrick Spiegel/How to Land your FIRST Web Design Client as a beginner (no portfolio).md": "LiWebhook",
-  "YT Learning/How To Effortlessly Sell Your Products Online.md": "🗣"
+  "YT Learning/How To Effortlessly Sell Your Products Online.md": "🗣",
+  "Derek Rake": "LiEye",
+  "YT channels": "LiYoutube",
+  "tag": "LiTag",
+  "attachments": "LiPaperclip",
+  "Audience building": "LiPersonStanding",
+  "templates": "LiLayoutTemplate"
 }

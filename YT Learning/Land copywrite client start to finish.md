@@ -91,7 +91,6 @@ every 20min (adjustable), lemlist will send new email, for 500 leads that caleb 
 
 caleb's sent schedule: (9am-6pm, mon-fri)
 
----
 ## After getting reply
 
 most people will ask for past works / samples.\

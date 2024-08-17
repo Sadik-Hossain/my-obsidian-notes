@@ -1,5 +1,5 @@
 ---
-tags: sales 
+tags: [sales]
 video: "https://www.youtube.com/watch?v=Sp7WXSw90lc"
 creator: "[[jeremy miner]]"
 ---

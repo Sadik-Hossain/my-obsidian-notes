@@ -33,7 +33,7 @@
     "downscalePercent": 100
   },
   "showInlineTitle": true,
-  "showRibbon": true,
+  "showRibbon": false,
   "propertiesInDocument": "source",
   "alwaysUpdateLinks": true,
   "newFileLocation": "current",

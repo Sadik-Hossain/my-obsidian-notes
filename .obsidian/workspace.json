@@ -8,7 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0bafbe9da71f534a",
+            "id": "f00ec12afe798375",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "YT Learning/How Introverts Can Sell MORE Than Extroverts.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "62a21fb95e699e18",
             "type": "leaf",
             "state": {
               "type": "obsidian-projects",
@@ -16,12 +29,12 @@
             }
           },
           {
-            "id": "317ea28ac02d6b52",
+            "id": "4ead00cd9eb86c0c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "YT channels/anne hickman.md",
+                "file": "templates/YT Vid.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -29,12 +42,25 @@
             }
           },
           {
-            "id": "34aef1af9cb15f20",
+            "id": "515c148ac7c5c3a0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "YT Learning/ali abdal/How to Start Your First Business in 48 Hours.md",
+                "file": "templates/YT Chan.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4f9a5e060afbda15",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "YT channels/robert greene.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -42,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -71,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:sales",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -110,16 +136,16 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "YT channels/anne hickman.md"
+                "file": "templates/YT Vid.md"
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 248
+    "width": 249,
+    "collapsed": true
   },
   "right": {
     "id": "b55a02fc4480b8fb",
@@ -135,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "YT channels/anne hickman.md"
+                "file": "templates/YT Vid.md"
               }
             }
           }
@@ -151,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "YT channels/anne hickman.md",
+                "file": "templates/YT Vid.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +194,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "YT channels/anne hickman.md",
+                "file": "templates/YT Vid.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,7 +231,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -225,20 +252,32 @@
       "dbfolder:Create a new database table": false,
       "cloze:Toggle all clozes": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-projects:Open projects": false
+      "obsidian-projects:Open projects": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "317ea28ac02d6b52",
+  "active": "4ead00cd9eb86c0c",
   "lastOpenFiles": [
+    "YT channels/alex hormozi.md",
+    "YT Learning/alex.md",
+    "YT channels/anne hickman.md",
+    "YT channels/robert greene.md",
+    "YT Learning/tesss.md",
+    "templates/YT Chan.md",
+    "templates/YT Vid.md",
+    "YT channels/caleb hinton.md",
+    "YT Learning/How Introverts Can Sell MORE Than Extroverts.md",
     "YT Learning/ali abdal/How to Start Your First Business in 48 Hours.md",
+    "YT Learning/How to land your first copywriting client.md",
+    "YT Learning/How To Effortlessly Sell Your Products Online.md",
+    "YT Learning/Land copywrite client start to finish.md",
+    "templates",
     "YT channels/ali abdal.md",
     "YT Learning/The Psychology of selling with rene rodriguez.md",
     "YT Learning/anne hickman/The content strategy that attracts customers in 2024.md",
-    "YT Learning/How Introverts Can Sell MORE Than Extroverts.md",
     "YT Learning/Patrick Spiegel/How to Land your FIRST Web Design Client as a beginner (no portfolio).md",
     "YT channels/jeremy miner.md",
     "YT channels/rene rodriguez.md",
-    "YT channels/anne hickman.md",
     "tag/trick.md",
     "tag/writing.md",
     "YT Learning/nicolas cole/QnA.md",
@@ -246,16 +285,6 @@
     "YT channels/nicolas cole.md",
     "tag/client.md",
     "YT Learning/Company & jobs.md",
-    "YT Learning/35min Cold Calling masterclass.md",
-    "YT Learning/46 Years of Sales Knowledge in 76 Minutes.md",
-    "YT Learning/Land copywrite client start to finish.md",
-    "YT Learning/How to sell your copywriting services well.md",
-    "YT Learning/How to land your first copywriting client.md",
-    "YT Learning/How To Effortlessly Sell Your Products Online.md",
-    "YT channels/caleb hinton.md",
-    "Courses/FEM/Find Client/define the market you wish to target.md",
-    "YT channels/tomstoic.md",
-    "Audience building/Attention.md",
     "attachments/Pasted image 20240729111437.png",
     "01-What To Expect In Digital Economics.pdf",
     "attachments/perf-driven.png",
@@ -269,7 +298,6 @@
     "YT Learning/anne hickman",
     "style-settings.json",
     "Excalidraw",
-    "obs.css",
     "Pasted image 20240811094635 2.png",
     "Pasted image 20240811094635 1.png",
     "Pasted image 20240729112344 1.png",

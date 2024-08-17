@@ -44,7 +44,7 @@ console.log(a);
 > [!todo] This is a todo
 > hello there!
 
-> [!warning] Title
+> [!warning] warn
 > hello there!
 
 >[!error] title

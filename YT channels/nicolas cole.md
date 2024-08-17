@@ -29,3 +29,9 @@ url: "https://www.youtube.com/@nicolascole77"
 
 --- end-multi-column\
 
+
+
+```dataview
+TABLE
+```
+

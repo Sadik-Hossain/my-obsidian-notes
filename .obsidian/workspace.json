@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "YT channels/nicolas cole.md",
-                "mode": "preview",
+                "file": "MyVault/Marko.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "YT channels/nicolas cole.md",
+                "file": "MyVault/Marko.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "YT channels/nicolas cole.md",
+                "file": "MyVault/Marko.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "YT channels/nicolas cole.md"
+                "file": "MyVault/Marko.md"
               }
             }
           },
@@ -173,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "YT channels/nicolas cole.md"
+                "file": "MyVault/Marko.md"
               }
             }
           }

@@ -31,6 +31,9 @@ url: "https://www.youtube.com/@nicolascole77"
 
 
 
+
+
+
 ```dataview
 TABLE
 ```

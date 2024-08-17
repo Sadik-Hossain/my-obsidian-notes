@@ -4,174 +4,65 @@ tags:
 video: https://www.youtube.com/watch?v=zVBHOKJgouI
 channel: "[[ali abdal]]"
 ---
-<iframe title="How to Start Your First Business in 48 Hours" src="https://www.youtube.com/embed/zVBHOKJgouI?feature=oembed" height="113" width="200" style="display: block; margin: 0 auto; width: 50%; height: 50%;" allowfullscreen="" allow="fullscreen"></iframe>
+```embed
+title: "How to Start Your First Business in 48 Hours"
+image: "https://i.ytimg.com/vi/zVBHOKJgouI/maxresdefault.jpg"
+description: "Use the promo code ALI to get a free share worth up to £100 or visit https://www.trading212.com/promocodes/ALII recently read this incredible book by my frie..."
+url: "https://www.youtube.com/watch?v=zVBHOKJgouI"
+```
 
 ### How do you start your first business?
 
-0:00
 
 All right, so how do you start your first business in a weekend?
 
-0:03
-
 That is what Noah Kagan purports to teach us in this book Million Dollar Weekend,
-
-0:06
-
 which is what we're discussing in this episode of Book Club,
-
-0:08
-
 the ongoing series where I distill and discuss highlights and summaries
-
-0:11
-
 from some of my favorite books.
-
-0:12
-
 And genuinely, this is a absolutely fantastic book to read
-
-0:15
-
 if you are an aspiring entrepreneur.
-
-0:17
-
 If you've ever thought that you want to start your own business
-
-0:19
-
 and you have not yet done it, you need to read this book
-
-0:21
-
 because it's going to give you a play-by-play roadmap
-
-0:23
-
 on how exactly to do that.
-
-0:24
-
 Okay, so the book is broken down into three parts.
 
-0:26
-
 We've got part one, start it.
-
-0:28
-
 Part two, build it.
-
-0:29
-
 And part three, grow it.
-
-0:30
-
 And in this video, I'm going to focus on part one and two,
-
-0:32
-
 start it and build it.
 
 ### Start it
 
-0:34
-
 Let's go.
 
-0:35
-
 If you're watching this and you haven't yet started your business,
-
-0:37
-
 I suspect, for a lot of people I know,
-
-0:39
-
 you might have been thinking about starting a business for several years.
-
-0:42
-
 You have just not yet taken action.
-
-0:43
-
 And there is this pervasive myth that happens amongst
-
-0:47
-
 everyone who is an aspiring entrepreneur,
-
-0:48
-
 which is, I need the right idea.
-
-0:50
-
 I cannot get started until I have the right idea.
-
-0:53
-
 But the thing is, and what Noah talks about throughout the book,
-
-0:56
-
 is you don't start a business by first having the right idea
-
-1:00
-
 and then starting the business.
-
-1:01
-
 You start a business by deciding to start a business
-
-1:04
-
 and then you find a process to come up with the right idea.
-
-1:07
-
 And really, the core message he's sharing this first chapter,
-
-1:09
-
 which is why it's called a chapter one,
 
-1:10
-
-just f***ing start,
-
-1:12
+just effing start,
 
 is begin before you are ready.
 
-1:14
-
 No one feels ready to start a business.
-
-1:16
-
 Just like I've heard, no one really feels ready to have kids.
-
-1:18
-
 The timing is never quite right.
-
-1:19
-
 Similarly, the timing to start a business is never quite right.
-
-1:22
-
 You have to just start.
-
-1:23
-
 You have to begin before you're ready.
 
 1:24

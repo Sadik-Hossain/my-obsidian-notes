@@ -4,17 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "041c64855e4d0ba5",
+        "id": "22d53fab4083397a",
         "type": "tabs",
         "children": [
           {
-            "id": "bb26d29153f4a5c8",
+            "id": "eb04704bec2656e9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "YT Learning/Patrick Spiegel/How to Land your FIRST Web Design Client as a beginner (no portfolio).md",
+                "file": "tag/trick.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             }
@@ -85,8 +86,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 234.5110321044922,
-    "collapsed": true
+    "width": 234.5110321044922
   },
   "right": {
     "id": "b55a02fc4480b8fb",
@@ -95,7 +95,7 @@
       {
         "id": "88595026b0f94dc1",
         "type": "tabs",
-        "dimension": 57.248520710059175,
+        "dimension": 50.271002710027105,
         "children": [
           {
             "id": "823891417e197ad6",
@@ -103,16 +103,43 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "YT Learning/Patrick Spiegel/How to Land your FIRST Web Design Client as a beginner (no portfolio).md"
+                "file": "tag/trick.md"
+              }
+            }
+          },
+          {
+            "id": "72bd36f2665fdb03",
+            "type": "leaf",
+            "state": {
+              "type": "file-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "efef1822648d94ab",
+            "type": "leaf",
+            "state": {
+              "type": "canvas-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "f02efe1c6738281f",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "tag/trick.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "c0e29ca39f2960da",
         "type": "tabs",
-        "dimension": 42.75147928994083,
+        "dimension": 49.728997289972895,
         "children": [
           {
             "id": "f837fc1ad0ac2ce9",
@@ -120,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "YT Learning/Patrick Spiegel/How to Land your FIRST Web Design Client as a beginner (no portfolio).md",
+                "file": "tag/trick.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "YT Learning/Patrick Spiegel/How to Land your FIRST Web Design Client as a beginner (no portfolio).md",
+                "file": "tag/trick.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +205,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 223,
+    "width": 284,
     "collapsed": true
   },
   "left-ribbon": {
@@ -196,10 +223,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9808f7f66cb415da",
+  "active": "eb04704bec2656e9",
   "lastOpenFiles": [
-    "YT Learning/anne hickman/The content strategy that attracts customers in 2024.md",
+    "YT Learning/Jeremy Miner/46 Years of Sales Knowledge in 76 Minutes.md",
+    "YT Learning/35min Cold Calling masterclass.md",
+    "YT Learning/Company & jobs.md",
     "YT Learning/How To Effortlessly Sell Your Products Online.md",
+    "YT Learning/Patrick Spiegel/How to Land your FIRST Web Design Client as a beginner (no portfolio).md",
+    "tag/trick.md",
+    "tag",
+    "YT Learning/anne hickman/The content strategy that attracts customers in 2024.md",
     "YT Learning/anne hickman",
     "MyVault/Marko.md",
     "Excalidraw/How To Effortlessly Sell Your Products Online 2024-08-15 10.15.09.excalidraw.md",
@@ -209,10 +242,7 @@
     "Courses/FEM/WebUx/Section 1 - The 4 Psychological Pillars of conversion.md",
     "Courses/FEM/Find Client/define the market you wish to target.md",
     "Courses/FEM/Find Client/Index.md",
-    "YT Learning/Patrick Spiegel/How to Land your FIRST Web Design Client as a beginner (no portfolio).md",
     "YT Learning/How to sell your copywriting services well.md",
-    "YT Learning/Company & jobs.md",
-    "YT Learning/35min Cold Calling masterclass.md",
     "MyVault/Test/My note.md",
     "Ideas/Business idea/Web business.md",
     "Audience building/Attention.md",
@@ -235,11 +265,8 @@
     "result.md",
     "test folder/note 3.md",
     "test folder/note 2.md",
-    "2024-08-13.md",
-    "test folder/note 1.md",
     "test folder",
     "Templates",
-    "YT Learning/Tomstoic",
     "yt learning.canvas",
     "test canvas.canvas",
     "Pasted image 20240811094635.png",

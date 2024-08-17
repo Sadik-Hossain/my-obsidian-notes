@@ -1,8 +1,10 @@
-#sales #psychology 
-
-https://www.youtube.com/watch?v=5enPMakCGXU&list=PLn4ORmo_1jEiRDueWaORWVi-bcTrREuVr&index=6
-
 ---
+tags: [sales,psychology]
+video: https://www.youtube.com/watch?v=5enPMakCGXU&list=PLn4ORmo_1jEiRDueWaORWVi-bcTrREuVr&index=6
+---
+
+<iframe src="https://www.youtube.com/embed/5enPMakCGXU?list=PLn4ORmo_1jEiRDueWaORWVi-bcTrREuVr" height="50" width="50" style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;" allowfullscreen="" allow="fullscreen"></iframe>
+
 #### The new model of selling
 ---
 NEPQ

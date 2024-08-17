@@ -92,6 +92,16 @@
             }
           },
           {
+            "id": "43f7d7300ed051b1",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "templates/YT Vid.md"
+              }
+            }
+          },
+          {
             "id": "dcf3e0c20befcff7",
             "type": "leaf",
             "state": {
@@ -115,14 +125,6 @@
             }
           },
           {
-            "id": "bbfd1a9d379527c0",
-            "type": "leaf",
-            "state": {
-              "type": "git-history-view",
-              "state": {}
-            }
-          },
-          {
             "id": "128adf6bfeba6bce",
             "type": "leaf",
             "state": {
@@ -131,21 +133,19 @@
             }
           },
           {
-            "id": "43f7d7300ed051b1",
+            "id": "bbfd1a9d379527c0",
             "type": "leaf",
             "state": {
-              "type": "file-properties",
-              "state": {
-                "file": "templates/YT Vid.md"
-              }
+              "type": "git-history-view",
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 249,
-    "collapsed": true
+    "width": 235
   },
   "right": {
     "id": "b55a02fc4480b8fb",
@@ -256,7 +256,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4ead00cd9eb86c0c",
+  "active": "79c0d39f58023817",
   "lastOpenFiles": [
     "YT channels/alex hormozi.md",
     "YT Learning/alex.md",

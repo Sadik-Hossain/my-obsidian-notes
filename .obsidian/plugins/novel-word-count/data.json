@@ -504,24 +504,6 @@
       "modifiedDate": 1723922011929,
       "sizeInBytes": 90
     },
-    "style-settings.json": {
-      "isCountable": false,
-      "isDirectory": false,
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1723707944248,
-      "modifiedDate": 1723707944442,
-      "sizeInBytes": 4461
-    },
     "tag/writing.md": {
       "isCountable": true,
       "isDirectory": false,
@@ -593,6 +575,24 @@
       "createdDate": 1723874921723,
       "modifiedDate": 1723874921723,
       "sizeInBytes": 0
+    },
+    "style-settings.json": {
+      "isCountable": false,
+      "isDirectory": false,
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1723707944248,
+      "modifiedDate": 1723707944442,
+      "sizeInBytes": 4461
     },
     "MyVault/Test/My note.md": {
       "isCountable": true,
@@ -882,24 +882,6 @@
       "modifiedDate": 1722229775727,
       "sizeInBytes": 187640
     },
-    "attachments/Pasted image 20240804211521.png": {
-      "isCountable": false,
-      "isDirectory": false,
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1722784521701,
-      "modifiedDate": 1722784521711,
-      "sizeInBytes": 145517
-    },
     "attachments/Pasted image 20240811094635.png": {
       "isCountable": false,
       "isDirectory": false,
@@ -917,6 +899,24 @@
       "createdDate": 1723347995994,
       "modifiedDate": 1723347996003,
       "sizeInBytes": 38539
+    },
+    "attachments/Pasted image 20240804211521.png": {
+      "isCountable": false,
+      "isDirectory": false,
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1722784521701,
+      "modifiedDate": 1722784521711,
+      "sizeInBytes": 145517
     },
     "attachments/Pasted image 20240804211458.png": {
       "isCountable": false,

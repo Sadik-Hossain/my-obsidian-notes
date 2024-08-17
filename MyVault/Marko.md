@@ -47,7 +47,7 @@ console.log(a);
 > [!warning] warn
 > hello there!
 
->[!error] title
+>[!danger] title
 >hello there!
 
 > [!success]  title

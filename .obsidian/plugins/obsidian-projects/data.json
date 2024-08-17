@@ -18,7 +18,7 @@
         {
           "config": {
             "fitStyle": "contain",
-            "coverField": "",
+            "coverField": "File",
             "includeFields": [],
             "cardWidth": 200
           },
@@ -35,14 +35,34 @@
           "id": "2f4bd980-104c-489d-a7e2-c24c8bc7842a",
           "name": "Gallery",
           "type": "gallery"
-        },
+        }
+      ],
+      "id": "9d21917f-0bee-46b4-95e7-b392309be969",
+      "name": "all"
+    },
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "tag",
+        "config": {
+          "tag": "#sales",
+          "hierarchy": false
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
         {
           "config": {
-            "columns": {
-              "No status": {
-                "collapse": false
-              }
-            }
+            "coverField": "name",
+            "fitStyle": "contain",
+            "includeFields": [
+              "tags"
+            ],
+            "cardWidth": 200
           },
           "filter": {
             "conjunction": "and",
@@ -54,13 +74,13 @@
           "sort": {
             "criteria": []
           },
-          "id": "087a08d3-12f4-4379-b37d-d6c19b9eb6e3",
-          "name": "Board",
-          "type": "board"
+          "id": "8f0444bb-7acf-4ad4-8e75-aad8b6107552",
+          "name": "Gallery",
+          "type": "gallery"
         }
       ],
-      "id": "9d21917f-0bee-46b4-95e7-b392309be969",
-      "name": "all"
+      "id": "f6fd04f8-0649-4eae-b9dc-0eb06a619f7f",
+      "name": "tags"
     }
   ],
   "archives": [],

@@ -11,3 +11,9 @@ image: "https://yt3.googleusercontent.com/UbcZlLqffsozmAtlsqXYv6vck0B4njgNLfetW0
 description: "Copywriter from London ✏️ "
 url: "https://www.youtube.com/@CalebHinton997"
 ```
+
+### Videos
+```dataview
+LIST
+FROM ([[caleb hinton]])
+```

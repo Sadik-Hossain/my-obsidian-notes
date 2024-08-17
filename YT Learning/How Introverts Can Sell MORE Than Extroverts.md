@@ -1,8 +1,17 @@
-#sales 
-https://www.youtube.com/watch?v=Sp7WXSw90lc
 ---
+tags: sales 
+video: "https://www.youtube.com/watch?v=Sp7WXSw90lc"
+creator: "[[jeremy miner]]"
+---
+```embed
+title: "How Introverts Can Sell MORE Than Extroverts"
+image: "https://i.ytimg.com/vi/Sp7WXSw90lc/maxresdefault.jpg"
+description: "Want to know how Introverts Can Sell MORE Than Extroverts? Find out in today's student interview!Want help 2.36x your Closing Rate? Book a call here: https:/..."
+url: "https://www.youtube.com/watch?v=Sp7WXSw90lc"
+```
+
 ##### Tonality & Verbal Cues
----
+
 when you gain the tonality and the pacing of what you're saying, it becomes more natural in how you're communicating with someone.
 
 when you start learning verbal cues.
@@ -21,7 +30,7 @@ because, now they emotionally open up. whereas, verbal pacing is like asking que
 
 
 ##### Posturing & Being Observant
----
+
 having a calm, confidence and to become more assertive.
 
 because, assertiveness doesn't mean that you're like in their face. when you come across assertive it's Collective, it's calm.
@@ -55,7 +64,7 @@ learn to become more open and curious and just paying attention more to what the
  **So be genuinely interested.**
 
 ##### Overcome Your Ego
----
+
 the biggest thing that holds most sales back from greatness is, they have such a high ego.
 
 because they're doing good that, they think they know everything there is to know about selling and that's why unfortunately for them, they stay at the same income.
@@ -65,13 +74,14 @@ they get into the ego world of saying, you know I don't need the help, I can do 
 there's a difference between confidence and arrogance.
 
 and the question comes is:
-<br>**who do you serve?**
+
+**who do you serve?**
  
- ask yourself, who are you really serving?<br>
- are you serving yourself or serving the people that you're selling to?<br>
+ ask yourself, who are you really serving?\
+ are you serving yourself or serving the people that you're selling to?\
  do you really care about you or care about them?
  
- it's a little bit of both. <br>
+ it's a little bit of both. \
  but, at the end of the day, what it really came down to is,  you really care about the people around you.
  
 every time you hit a new level, you're always thinking, you're always presented that ability to say this is it, I've arrived to know everything.
@@ -84,7 +94,7 @@ and that's how you also adapt even in your own industry and like learning new qu
 
 
 ##### A note on body language
----
+
  if you're not doing calls on Zoom you're not fully communicating at like impactful.
 because, they can't visually see, they don't trust you as much and it's a disadvantage for you <br>
 because, you can't read their body language.
@@ -93,7 +103,7 @@ So, try as much possible to do video call, video record etc. Focus on your tonal
 
 
 ##### how would you frame a consequence question
----
+
 how would you frame a consequence question to a very wealthy customer and regular middle class customer.
 
 typically if somebody's wealthy, what I want to do is I want to push them away a little bit.
@@ -140,7 +150,7 @@ It shows, I really care about the person and also you're becoming a part of thei
 
 
 ##### Bringing self-awareness to you & your prospect
----
+
 In today's day & age, people aren't taught to think, they're only taught to react.
 
 Self-awareness is the greatest level of success, the more you become self-aware & the more that you **help them become self-aware**, the faster it gets them out of reaction mode to thinking mode.

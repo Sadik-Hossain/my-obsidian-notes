@@ -1,16 +1,23 @@
-#client 
-
-https://www.youtube.com/watch?v=f-j-SDUfIh8
-
 ---
+tags: [client]
+video: "https://www.youtube.com/watch?v=f-j-SDUfIh8"
+creator: "[[caleb hinton]]"
+---
+```embed
+title: "How I landed a copywriting client from start to finish (no BS)"
+image: "https://i.ytimg.com/vi/f-j-SDUfIh8/maxresdefault.jpg"
+description: "What the actual copywriting process looks like. I show you how I get leads, how I outreach, and how I email clients. Ghosted by one, but then agreed to work ..."
+url: "https://www.youtube.com/watch?v=f-j-SDUfIh8"
+```
+
+
 In this video things that will be covered,
 - process of getting leads
 - cold email process
 - get them on call & onboard
 
-
 ## process of getting client
----
+
 goes to fiverr,\
 and goes to a b2b lead generation sellers, and bought the a gold package of 500 leads.
 
@@ -35,9 +42,7 @@ country: USA
 }
 ```
 
----
 ## Cold email process
----
 
 caleb then use lemlist, which is an auto cold dming platform\
 he connect his linkedin & gmail account, and plug the lead list csv file. and write a cold dm templates that he wants to send to those leads.
@@ -88,7 +93,7 @@ caleb's sent schedule: (9am-6pm, mon-fri)
 
 ---
 ## After getting reply
----
+
 most people will ask for past works / samples.\
 and ask for a call.
 

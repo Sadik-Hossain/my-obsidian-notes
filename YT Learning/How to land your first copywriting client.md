@@ -1,10 +1,17 @@
-
 ---
-#client 
-
-https://www.youtube.com/watch?v=JA3n8hviUUQ
-
+tags:
+  - client
+video: https://www.youtube.com/watch?v=JA3n8hviUUQ
+creator: "[[caleb hinton]]"
 ---
+```embed
+title: "How to land your first copywriting client ✏️"
+image: "https://i.ytimg.com/vi/JA3n8hviUUQ/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AHgCYAC0AWKAgwIABABGCQgRCh_MA8=&rs=AOn4CLAqathFQBOekC8psqvDbQkTdFqsIQ"
+description: "A quick guide on how to land your first #copywriting client. Specifically, landing your first copywriting client from Fiverr to cold email.FREE Copywriting C..."
+url: "https://www.youtube.com/watch?v=JA3n8hviUUQ"
+```
+
+
 > [!tip] Prospect -> Outreach -> Follow up
 ## The process
 - **Get leads from fiverr (harlan)**\
@@ -16,7 +23,7 @@ https://www.youtube.com/watch?v=JA3n8hviUUQ
 - **provide them with different options and close a deal**
 
 ## The harsh truth
----
+
 People are looking for a copywriter or they're not.\
 You're not going to convince them, that they need it at this point or not.\
 You're pretty much scouting & knocking on the door and saying,\
@@ -108,7 +115,7 @@ Caleb
 
 
 ## Upwork job filter
----
+
 search -> copywriter in jobs
 go to sidepanel,\
 **select:** entry level and intermediate\

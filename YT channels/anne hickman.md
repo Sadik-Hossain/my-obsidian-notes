@@ -13,3 +13,9 @@ image: "https://yt3.googleusercontent.com/tGt7uuJi71vaUfG8qmPojc957j5aehZPgYFUmM
 description: "Sharing everything I know about making money online as a web designer & content creator. "
 url: "https://www.youtube.com/@theannahickman"
 ```
+
+```dataview
+LIST
+FROM ([[anne hickman]])
+```
+

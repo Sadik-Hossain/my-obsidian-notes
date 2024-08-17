@@ -1,6 +1,10 @@
-[[business]]
+---
+tags: [business]
+video: "https://www.youtube.com/watch/?v=0kgKMdSzVbE"
+---
 
-[Guide To Work In A Company 2024 | Must Watch | Salaries, Equity, Raises, Negotiations](https://youtu.be/0kgKMdSzVbE?si=9ItRmxmf_kx5ctBN)
+
+<iframe title="Guide To Work In A Company 2024 | Must Watch | Salaries, Equity, Raises, Negotiations" src="https://www.youtube.com/embed/0kgKMdSzVbE?feature=oembed" height="113" width="200" style="display:block; margin:0 auto; width: 75%; height: 75%; aspect-ratio: 16 / 9;" allowfullscreen="" allow="fullscreen"></iframe>
 
 
 ![[Pasted image 20240729195743.png]]

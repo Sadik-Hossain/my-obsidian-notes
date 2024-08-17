@@ -29,12 +29,12 @@
             }
           },
           {
-            "id": "fb3b44b6587b4e81",
+            "id": "bd5ac7c56634a07a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "YT channels/nicolas cole.md",
+                "file": "YT channels/caleb hinton.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -42,12 +42,12 @@
             }
           },
           {
-            "id": "17be8d16cc07710a",
+            "id": "4add78843f27b3ae",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Audience building/Attention.md",
+                "file": "YT channels/caleb hinton.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -117,12 +117,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 248,
-    "collapsed": true
+    "width": 248
   },
   "right": {
     "id": "b55a02fc4480b8fb",
@@ -213,12 +213,11 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 362,
-    "collapsed": true
+    "width": 362
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -236,8 +235,13 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "96405449bd1aa0ce",
+  "active": "8011b7eeffc88355",
   "lastOpenFiles": [
+    "YT channels/caleb hinton.md",
+    "YT channels/tomstoic.md",
+    "YT channels/anne hickman.md",
+    "YT channels/jeremy miner.md",
+    "YT channels/ali abdal.md",
     "YT channels/nicolas cole.md",
     "Audience building/Attention.md",
     "YT Learning/How to sell your copywriting services well.md",
@@ -250,7 +254,6 @@
     "yt learning.canvas",
     "attachments",
     "YT channels/Untitled.md",
-    "YT channels/ali abdal.md",
     "YT Learning/ali abdal/How to Start Your First Business in 48 Hours.md",
     "MyVault/Marko.md",
     "MyVault/New folder",
@@ -269,14 +272,10 @@
     "YT channels",
     "tag/trick.md",
     "YT Learning/How To Effortlessly Sell Your Products Online.md",
-    "YT Learning/Patrick Spiegel/How to Land your FIRST Web Design Client as a beginner (no portfolio).md",
     "tag",
     "YT Learning/anne hickman",
-    "Excalidraw/How To Effortlessly Sell Your Products Online 2024-08-15 10.15.09.excalidraw.md",
     "style-settings.json",
-    "Excalidraw/Drawing 2024-08-15 10.14.51.excalidraw.md",
     "Excalidraw",
-    "Courses/FEM/WebUx/Section 1 - The 4 Psychological Pillars of conversion.md",
     "obs.css",
     "Pasted image 20240811094635 2.png",
     "Pasted image 20240811094635 1.png",

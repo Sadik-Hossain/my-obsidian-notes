@@ -57,7 +57,7 @@
       "views": [
         {
           "config": {
-            "coverField": "name",
+            "coverField": "",
             "fitStyle": "contain",
             "includeFields": [
               "tags"
@@ -99,7 +99,11 @@
       "name": "tags"
     },
     {
-      "fieldConfig": {},
+      "fieldConfig": {
+        "genre": {
+          "richText": false
+        }
+      },
       "defaultName": "",
       "templates": [],
       "excludedNotes": [],
@@ -114,7 +118,54 @@
       "newNotesFolder": "",
       "views": [
         {
-          "config": {},
+          "config": {
+            "coverField": "cover",
+            "fitStyle": "contain",
+            "includeFields": [
+              "genre",
+              "niche"
+            ],
+            "cardWidth": 200
+          },
+          "filter": {
+            "conjunction": "and",
+            "conditions": [
+              {
+                "field": "genre",
+                "operator": "has-keyword",
+                "enabled": false,
+                "value": "copywrite"
+              }
+            ]
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "21e06490-30df-4233-aa84-d0371bed344f",
+          "name": "Gallery",
+          "type": "gallery"
+        },
+        {
+          "config": {
+            "fieldConfig": {
+              "cover": {
+                "hide": true
+              },
+              "path": {
+                "hide": true
+              },
+              "genre": {
+                "width": 432
+              }
+            },
+            "orderFields": [
+              "name",
+              "genre"
+            ]
+          },
           "filter": {
             "conjunction": "and",
             "conditions": []
@@ -128,26 +179,10 @@
           "id": "3214d1b9-5664-4b5d-85f9-5ff19854baab",
           "name": "Table",
           "type": "table"
-        },
-        {
-          "config": {},
-          "filter": {
-            "conjunction": "and",
-            "conditions": []
-          },
-          "colors": {
-            "conditions": []
-          },
-          "sort": {
-            "criteria": []
-          },
-          "id": "21e06490-30df-4233-aa84-d0371bed344f",
-          "name": "Gallery",
-          "type": "gallery"
         }
       ],
       "id": "e0c7f2ee-0770-4b6f-a956-22f6b3d5ce32",
-      "name": "Untitled project"
+      "name": "Youtubers"
     }
   ],
   "archives": [],

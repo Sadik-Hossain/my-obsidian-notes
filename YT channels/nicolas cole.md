@@ -1,24 +1,7 @@
---- start-multi-column:   
-```column-settings  
-number of columns: 2  
-largest column: standard
-```
-
-> [!quote]- me
-lorem ipsum sit dolor amet
-
-> [!quote]- me
-lorem ipsum sit dolor amet
-
-> [!quote]- me
-lorem ipsum sit dolor amet
-
-
-> [!quote]- me
-lorem ipsum sit dolor amet
-
-
---- end-column ---
+---
+cover: https://yt3.googleusercontent.com/5-PfsnlRvKt9N0v0ZsEOZ9exmmgw2I3g35htEtLIktXMewxNBtGfb0LL-gCFrnlTZIDKDuJwVw=s900-c-k-c0x00ffffff-no-rj
+genre: [writing, outreach]
+---
 
 ```embed
 title: "Nicolas Cole"
@@ -27,14 +10,6 @@ description: "Ahoy, Digital Writers! My name is Nicolas Cole—digital writer, s
 url: "https://www.youtube.com/@nicolascole77"
 ```
 
---- end-multi-column\
 
 
-
-
-
-
-```dataview
-TABLE
-```
 

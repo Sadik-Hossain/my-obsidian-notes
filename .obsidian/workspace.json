@@ -8,53 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f00ec12afe798375",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "YT Learning/How Introverts Can Sell MORE Than Extroverts.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "62a21fb95e699e18",
-            "type": "leaf",
-            "state": {
-              "type": "obsidian-projects",
-              "state": {}
-            }
-          },
-          {
-            "id": "4ead00cd9eb86c0c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "templates/YT Vid.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "515c148ac7c5c3a0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "templates/YT Chan.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "4f9a5e060afbda15",
             "type": "leaf",
             "state": {
@@ -66,9 +19,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "fa8e2d029bbba2ce",
+            "type": "leaf",
+            "state": {
+              "type": "obsidian-projects",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -92,16 +53,6 @@
             }
           },
           {
-            "id": "43f7d7300ed051b1",
-            "type": "leaf",
-            "state": {
-              "type": "file-properties",
-              "state": {
-                "file": "templates/YT Vid.md"
-              }
-            }
-          },
-          {
             "id": "dcf3e0c20befcff7",
             "type": "leaf",
             "state": {
@@ -117,18 +68,26 @@
             }
           },
           {
-            "id": "1e32c2677c3e332d",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {}
-            }
-          },
-          {
             "id": "128adf6bfeba6bce",
             "type": "leaf",
             "state": {
               "type": "git-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "43f7d7300ed051b1",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {}
+            }
+          },
+          {
+            "id": "1e32c2677c3e332d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
               "state": {}
             }
           },
@@ -141,7 +100,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -160,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "templates/YT Vid.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -177,7 +134,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "templates/YT Vid.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +150,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "templates/YT Vid.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -256,17 +211,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "79c0d39f58023817",
+  "active": "128adf6bfeba6bce",
   "lastOpenFiles": [
+    "YT channels/robert greene.md",
+    "templates/YT Chan.md",
+    "YT Learning/How Introverts Can Sell MORE Than Extroverts.md",
+    "templates/YT Vid.md",
     "YT channels/alex hormozi.md",
     "YT Learning/alex.md",
     "YT channels/anne hickman.md",
-    "YT channels/robert greene.md",
     "YT Learning/tesss.md",
-    "templates/YT Chan.md",
-    "templates/YT Vid.md",
     "YT channels/caleb hinton.md",
-    "YT Learning/How Introverts Can Sell MORE Than Extroverts.md",
     "YT Learning/ali abdal/How to Start Your First Business in 48 Hours.md",
     "YT Learning/How to land your first copywriting client.md",
     "YT Learning/How To Effortlessly Sell Your Products Online.md",

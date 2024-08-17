@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "23324e52086f9bda",
+        "id": "136d4c4664c1c81d",
         "type": "tabs",
         "children": [
           {
-            "id": "3b0d14d8c4644eeb",
+            "id": "9fd0302ca1a01caa",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -16,7 +16,7 @@
                 "file": "YT channels/nicolas cole.md",
                 "mode": "preview",
                 "backlinks": true,
-                "source": true
+                "source": false
               }
             }
           }
@@ -200,12 +200,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3b0d14d8c4644eeb",
+  "active": "9fd0302ca1a01caa",
   "lastOpenFiles": [
+    "YT channels/nicolas cole.md",
     "MyVault/New folder",
     "MyVault/New folder/desktop.ini",
     "MyVault/Marko.md",
-    "YT channels/nicolas cole.md",
     "YT channels/ali abdal.md",
     "YT Learning/Jeremy Miner/46 Years of Sales Knowledge in 76 Minutes.md",
     "YT Learning/Jeremy Miner/How Introverts Can Sell MORE Than Extroverts.md",
@@ -238,7 +238,6 @@
     "New Text Document.txt",
     "perf-driven.png",
     "YT Learning/Patrick Spiegel",
-    "hooked on hooks",
     "Pasted image 20240811094635 2.png",
     "Pasted image 20240811094635 1.png",
     "Pasted image 20240729112344 1.png",

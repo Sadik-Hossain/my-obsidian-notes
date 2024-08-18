@@ -376,7 +376,15 @@ Paul
 
 
 
+## Using site audit to encourage a response
 
+its an optional, but worthwhile.
+
+including site audits in your strategy, 
+- will improve the quality of report
+- will give you more contents for the report
+- people love to know how they rank, especially when compared to competitors.
+- it encourages people to contact you.
 
 
 

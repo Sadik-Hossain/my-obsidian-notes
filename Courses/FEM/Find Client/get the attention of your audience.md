@@ -246,6 +246,11 @@ Do you have a design system for managing your frontend code.
 ## Creating your survey landing page
 
 >[!info] What to cover
+> - offering
+> - benefits
+> - scope
+> - why you
+
 
 **The offering**\
 start our landing page, clearly explaining what they get after they complete the survey. for ex:\
@@ -253,14 +258,121 @@ for 5min of your time, you can get insider insights into charity fundraising.
 
 **The benefit**\
 focus on the benefit that the final report will provide. Benefits could include an awareness of the competitive landscape, evidence to support your requests to management, and insights into areas of innovation.\
-**Its not necessarily the detail of what the report will cover, but how its gonna help people.**
+***Its not necessarily the detail of what the report will cover, but how its gonna help people.***
 
 
 **The Scope**\
-Provide an overview of thw
+Provide an overview of what you think the final report will cover, but make it clear that it will be shaped by the feedback you get from the survey.
+
+**Why you**\
+say a lil bit about why your company is undertaking this research. Also, include your experience in the sector, if you have any.
+
+if you are a designer this page will be a showcase of what you can do.
+
+If not, use tools like leadpages.net
+
+Break up the page into small content blocks made up of a heading and one or two sentences.\
+use list & icons where possible.\
+Do not repeat yourself.
+Have a CTA (start the survey)
+
+
+## Preparing and sending survey email
+
+**Segment your audience**\
+send different emails, to different groups.
+- those we consider influencers
+- send a version to those who didn't reply to prev email.
+- send a version to those who did reply.
+
+you can use excel sheet to track who replied, or not, what msg u send.
+
+#### Influencers email
+
+(make the sub clear & reference the previous communication)
+SUB: `Next step in the charity report we discussed.`
+
+BODY:
+```
+Hi Lucy,
+
+(reminding them about prev conversation, that they know you. what is it you're doin, and why you are contacting them?)
+---
+You may remember I emailed you in regards to a report we are creating on user experience in the charity sector. I mentioned I was interested in your feedback as to what it should cover.
+---
+
+(introducr & link the survey,what you want them to do, what they will get in return, emphasize it wont take long)
+---
+I have now prepared a survey that I would love you to complete. I will use it to inform the final report. It should only take 5 minutes to complete. Obviously in return, I will send you a copy of the final report when it is complete.
+---
+
+(Encourage them to share the survey and explain why that is worth their time)
+---
+Also, feel free to share this with your network if you think it is of value. The more responses we get, the more accurate the final result.
+---
+
+(make it more personal & use it as an opportunity to directly engage)
+---
+If you have any feedback on the survey or may be would even like to collaborate on it, drop me a reply and we can always setup a call. I would love to chat.
+
+Thanks. Paul
+---
+```
 
 
 
+#### No contact email
+
+SUB: `Next step in the charity report we discussed.`
+
+BODY:
+```
+Hi Lucy,
+
+You may remember I emailed you in regards to a report we are creating on user experience in the charity sector. I mentioned I was interested in your feedback as to what it should cover.
+
+(I have added a but emphasizing how others have got involved and they are missing out)
+---
+Well, thanks to some great feedback from others in the sector, I have now prepared a short survey that will inform the final report. If you could spare 5 minutes (max) to complete the survey, I would be more than happy to provide you with a free copy of the final report in return.
+---
+
+Also, feel free to share this with your network if you think it is of value. The more responses we get, the more accurate the final result.
+
+(Instead of collaborating I have asked if they would be willing to be interviewed)
+---
+If you have any feedback on the survey or would be happy to be interviewed, drop me a reply and we can always setup a call. I would love to chat.
+---
+Thanks. Paul
+```
+
+
+
+#### Contact email
+
+(Show appreciation for their previous contributions and demonstrate how that has made a difference to your approach)
+
+SUB: `Youe feedback helped our survey lots!`
+
+BODY:
+```
+Hi Lucy,
+
+I wanted to drop you an email again and thank you so much for the feedback you gave me on the report we are preparing on the state of the user experience in the charity sector. What you shared was invaluable.
+
+The reason I am emailing today is that the survey I mentioned is now ready. That is the survey which, together with some site reviews, will inform the final report.
+
+If you could spare five minutes (maximum) to complete the survey, it would be hugely appreciated. In return, you will, of course, get a free copy of the report.
+
+Also, feel free to share this with your network if you think it is of value. The more responses we get, the more accurate the final result.
+
+Whether you have time to complete the survey or not, I am hugely grateful for the advice you have already provided, and I will let you know when the final report is ready.
+
+If you have any feedback on the survey or would be happy to be interviewed, drop me a reply and we can always setup a call. I would love to chat.
+
+Thanks.
+
+Paul
+```
 
 
 

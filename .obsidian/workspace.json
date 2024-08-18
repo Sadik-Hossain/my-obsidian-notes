@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "136d4c4664c1c81d",
+        "id": "15961106bb42170b",
         "type": "tabs",
         "children": [
           {
-            "id": "4f9a5e060afbda15",
+            "id": "499969401107ed0e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "YT channels/robert greene.md",
+                "file": "Courses/FEM/Find Client/Index.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,11 +21,16 @@
             }
           },
           {
-            "id": "fa8e2d029bbba2ce",
+            "id": "7505e70726506a2b",
             "type": "leaf",
             "state": {
-              "type": "obsidian-projects",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Courses/FEM/Find Client/get the attention of your audience.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ],
@@ -81,7 +86,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "YT channels/robert greene.md"
+                "file": "Courses/FEM/Find Client/get the attention of your audience.md"
               }
             }
           },
@@ -122,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "YT channels/robert greene.md"
+                "file": "Courses/FEM/Find Client/get the attention of your audience.md"
               }
             }
           }
@@ -138,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "YT channels/robert greene.md",
+                "file": "Courses/FEM/Find Client/get the attention of your audience.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "YT channels/robert greene.md",
+                "file": "Courses/FEM/Find Client/get the attention of your audience.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -217,8 +222,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "128adf6bfeba6bce",
+  "active": "7505e70726506a2b",
   "lastOpenFiles": [
+    "Courses/FEM/Find Client/Index.md",
+    "Courses/FEM/Find Client/get the attention of your audience.md",
+    "Courses/FEM/Find Client/define the market you wish to target.md",
+    "Courses/FEM/Find Client/[[.md",
+    "YT Learning/anne hickman/The content strategy that attracts customers in 2024.md",
+    "Courses/FEM/Find Client/Why you are struggling to find client.md",
+    "Courses/FEM/Find Client/[[The.md",
+    "Courses/FEM/Find Client/The.md",
     "YT channels/robert greene.md",
     "templates/YT Chan.md",
     "YT Learning/How Introverts Can Sell MORE Than Extroverts.md",
@@ -235,17 +248,9 @@
     "templates",
     "YT channels/ali abdal.md",
     "YT Learning/The Psychology of selling with rene rodriguez.md",
-    "YT Learning/anne hickman/The content strategy that attracts customers in 2024.md",
     "YT Learning/Patrick Spiegel/How to Land your FIRST Web Design Client as a beginner (no portfolio).md",
     "YT channels/jeremy miner.md",
     "YT channels/rene rodriguez.md",
-    "tag/trick.md",
-    "tag/writing.md",
-    "YT Learning/nicolas cole/QnA.md",
-    "tag/business.md",
-    "YT channels/nicolas cole.md",
-    "tag/client.md",
-    "YT Learning/Company & jobs.md",
     "attachments/Pasted image 20240729111437.png",
     "01-What To Expect In Digital Economics.pdf",
     "attachments/perf-driven.png",

@@ -19,6 +19,8 @@ url: "https://www.youtube.com/watch?v=1t7GGcN8rNE"
 > [!tips] 
 > **create on one platform for one person about one problem.**
 
+^6a2528
+
 ## Content Strategy
 
 The 5 step framework:

@@ -199,6 +199,74 @@ Try to pick a topic that you will be able to support with numbers. For ex, 22% o
 ## Preparing your sector survey
 
 **why send a survey?**\
-20:30
+its gonna give us valuable content for report.
+
+An opportunity to make contact again.
+
+To understand your audience.
+
+**Tips for creating your survey**\
+keep it short. Approx 5-7 mins to complete & about 20 q's.
+
+use mainly  multi-choice q's for easier data analysis.\
+Start with the easier q's.\
+- how big is the company?
+
+open-ended q's, highly engaging.\
+At the end, ask if people would be willing to be interviewed.\
+Offer a site review at the end.
+
+Use a platform like {forms.app} that is easily embed & customized.
+
+
+## What to ask?
+
+q's about information that provide insights into the audience & what they're interested in.\
+who they are, and how they fit into the board structure?\
+for ex:\
+who does web team report to?
+
+
+q's that address your audience's pain points.\
+For ex:\
+do you have a dedicated budget?
+
+
+q's about the company's makeup to allow segmentation of results around things like size.\
+for ex:\
+23% of company with less than a hundred employees do this, while 53% of company with over a hundred employees do this.
+
+q's related to your area of expertise or the services you offer.\
+for ex:\
+when was the last time, you did a performance audit.\
+Do you run ongoing conversion rate optimization.\
+Do you have a design system for managing your frontend code.
+
+
+## Creating your survey landing page
+
+>[!info] What to cover
+
+**The offering**\
+start our landing page, clearly explaining what they get after they complete the survey. for ex:\
+for 5min of your time, you can get insider insights into charity fundraising.
+
+**The benefit**\
+focus on the benefit that the final report will provide. Benefits could include an awareness of the competitive landscape, evidence to support your requests to management, and insights into areas of innovation.\
+**Its not necessarily the detail of what the report will cover, but how its gonna help people.**
+
+
+**The Scope**\
+Provide an overview of thw
+
+
+
+
+
+
+
+
+
+
 
 

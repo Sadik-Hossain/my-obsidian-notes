@@ -15,7 +15,9 @@
     "statusbar": [
       "properties",
       "editor-status",
-      "sync"
+      "sync",
+      "backlink",
+      "obsidian-git"
     ],
     "leftRibbon": []
   },

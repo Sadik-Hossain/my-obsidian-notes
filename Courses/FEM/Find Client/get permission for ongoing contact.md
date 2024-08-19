@@ -38,6 +38,6 @@ So really, the report is done, that's your upfront work, piece of work done. The
 And then when people sign up, they're gonna get those over a series of weeks. So once you've done all of that, then really, your kind of week to week marketing is literally just doing those ongoing newsletters.
 
 
-
+5:05
 
 

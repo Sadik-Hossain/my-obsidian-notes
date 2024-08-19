@@ -818,15 +818,15 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.14,
-      "characterCount": 285,
-      "nonWhitespaceCharacterCount": 230,
+      "characterCount": 289,
+      "nonWhitespaceCharacterCount": 234,
       "readingTimeInMinutes": 0.15849056603773584,
-      "linkCount": 3,
+      "linkCount": 4,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1722922279103,
-      "modifiedDate": 1723957377334,
-      "sizeInBytes": 285
+      "modifiedDate": 1724041701030,
+      "sizeInBytes": 289
     },
     "Courses/FEM/Find Client/Why you are struggling to find client.md": {
       "isCountable": true,
@@ -868,19 +868,19 @@
       "isCountable": true,
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 2922,
+      "wordCount": 3108,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 9.74,
-      "characterCount": 17236,
-      "nonWhitespaceCharacterCount": 14015,
-      "readingTimeInMinutes": 11.026415094339622,
+      "pageCount": 10.36,
+      "characterCount": 18428,
+      "nonWhitespaceCharacterCount": 14973,
+      "readingTimeInMinutes": 11.728301886792453,
       "linkCount": 1,
       "embedCount": 2,
       "aliases": null,
       "createdDate": 1723957382950,
-      "modifiedDate": 1724037638743,
-      "sizeInBytes": 17238
+      "modifiedDate": 1724041644947,
+      "sizeInBytes": 18432
     },
     "attachments/perf-driven.png": {
       "isCountable": false,
@@ -1079,6 +1079,24 @@
       "createdDate": 1724037599503,
       "modifiedDate": 1724037599513,
       "sizeInBytes": 1697506
+    },
+    "Courses/FEM/Find Client/get permission for ongoing contact.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 470,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.5666666666666667,
+      "characterCount": 2654,
+      "nonWhitespaceCharacterCount": 2157,
+      "readingTimeInMinutes": 1.7735849056603774,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1724041705237,
+      "modifiedDate": 1724043049956,
+      "sizeInBytes": 2654
     }
   }
 }

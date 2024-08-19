@@ -423,6 +423,46 @@ Think of each section as a short  blog post.
 
 At the beginning, before all of those six to eight topics, we're going to introduce a summary section that outlines the topics to be covered and the key findings. Write that last.
 
+Before our topics, we're going to add a short section on the methodology we used. Here, we'll talk about the survey, the site audits, the interviews—if any were conducted, etc. 
+
+Then we'll end the whole thing with the benefits of signing up for ongoing advice, and that will become clearer later.
+
+**writing an initial draft**\
+write drunk, edit sober
+
+for each sections:
+- aim for 500-800 words
+- outline finding
+- use survey results
+- show examples from audit
+- quote anybody you have spoken to
+- make some basic recommendation based on best practice.
+
+
+**edit your report**\
+- grammarly
+- read back using tts and listen
+- stop!
+	its tempting to revise, but it will never be perfect, you dont have infinite time.
+
+
+
+**Design it**\
+- Make sure it is easy to scan by adding images, headings, bullets and pull out quotes.
+- Don't forget to end the report with a strong call to action to signup for your mailing list.
+
+## Checklist
+
+
+- [ ] make initial contact to ask for feedback
+- [ ] prepare a survey & associated landing page
+- [ ] ask people to complete the survey
+- [ ] review some sites & create scorecards
+- [ ] carry out some interviews if appropriate
+- [ ] write the final report
+
+
+
 
 
 

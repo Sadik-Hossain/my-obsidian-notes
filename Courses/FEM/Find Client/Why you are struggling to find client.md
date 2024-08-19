@@ -1,7 +1,15 @@
 
 ---
-[[Index]]
-
+"0": "["
+"1": "["
+"2": I
+"3": n
+"4": d
+"5": e
+"6": x
+"7": "]"
+"8": "]"
+status: false
 ---
 
 Most agencies or freelancers are solely reliant on word-of-mouth recommendations.\

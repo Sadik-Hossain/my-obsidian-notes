@@ -1,7 +1,9 @@
 ---
-tags: [sales, psychology]
+tags:
+  - sales
+  - psychology
 video: https://www.youtube.com/watch?v=5enPMakCGXU&list=PLn4ORmo_1jEiRDueWaORWVi-bcTrREuVr&index=6
-status: x
+status: false
 ---
 
 <iframe src="https://www.youtube.com/embed/5enPMakCGXU?list=PLn4ORmo_1jEiRDueWaORWVi-bcTrREuVr" height="50" width="50" style="aspect-ratio: 1.76991 / 1; width: 75%; height: 75%;display:block;margin:0 auto" allowfullscreen="" allow="fullscreen"></iframe>

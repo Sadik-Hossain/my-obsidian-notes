@@ -3,6 +3,7 @@ tags:
   - business
 video: https://www.youtube.com/watch?v=zVBHOKJgouI
 channel: "[[ali abdal]]"
+status: false
 ---
 ```embed
 title: "How to Start Your First Business in 48 Hours"

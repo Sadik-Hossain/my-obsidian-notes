@@ -1,8 +1,9 @@
 ---
-cover: "https://yt3.googleusercontent.com/X9-ge2OiA0F172hzuxFXi3-UBx755T_s4mU0gnmgjS6x61HHL0wh4nZ03wh7SAmEQ8lir5Xg=s900-c-k-c0x00ffffff-no-rj"
-niche: 
- - psychology
- - influence
+cover: https://yt3.googleusercontent.com/X9-ge2OiA0F172hzuxFXi3-UBx755T_s4mU0gnmgjS6x61HHL0wh4nZ03wh7SAmEQ8lir5Xg=s900-c-k-c0x00ffffff-no-rj
+niche:
+  - psychology
+  - influence
+status: false
 ---
 
 ```embed

@@ -4,13 +4,11 @@ tags:
   - social-media
 video: https://www.youtube.com/watch?v=q9nYIa8b-6c
 channel: "[[ali abdal]]"
----
-
-
+status: true
 ---
 
 ##### How to generate content ideas
----
+
 ideas stem from niche. Niche is the culmination of  2 things:
 - target
 - value
@@ -54,9 +52,8 @@ so you're not really plagiarizing them, just repackaging them.
 
 
 
----
 ##### How to find your unfair advantage
----
+
 **what does a 10% edge really mean?**
 
 when you're just a few steps ahead of your students -- those that you server\
@@ -109,10 +106,9 @@ That is your edge, your uniqueness.
 
 Don't stay stuck at same place, level up. Grow and document the journey & progress. 
 
----
 ##### How to systemize your content
----
- **how to put a small amount of time to get the maximum results in terms of contents?**
+
+ **how to put a small amount of time to get the maximum results in terms of contents?**
 
 In terms of YouTube,\
 ==most views that comes from are basically title and thumbnail==\
@@ -138,9 +134,8 @@ the less you need to worry about being a creative person and the more
 you can actually get results.
 
 
----
 ##### How to stay consistent
----
+
 it's about patience and faith
 
 it's about patience becz, that it takes a long time for this stuff to see results and
@@ -204,9 +199,8 @@ so, how do you therefore create systems and structures, in your own business tha
 what is the system, that would follow to franchise out ali's YouTube channel.
 
 
----
 ##### How to delegate
----
+
 there's a process for idea generation\
 there's a process for writing\
 there's a process for filming\

@@ -1,6 +1,8 @@
 ---
-tags: [marketing]
+tags:
+  - marketing
 video: https://www.youtube.com/watch?v=tu7tq4ZnjAE
+status: false
 ---
 ## Two Things
 

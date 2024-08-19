@@ -5,6 +5,7 @@ tags:
 video: https://www.youtube.com/watch?v=7Tz99gfY6nQ
 creator: "[[jeremy miner]]"
 guest: "[[rene rodriguez]]"
+status: false
 ---
 
 

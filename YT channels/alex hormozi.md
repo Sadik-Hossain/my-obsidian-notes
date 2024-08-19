@@ -1,9 +1,10 @@
 ---
-cover: "https://yt3.ggpht.com/7spVLsUWY48DEyACdgIMt8C_4v1QnAkhFtw40pl9c_ieUrQA-Q4gCw70Y2fvhyY707WX25WTyIo=s176-c-k-c0x00ffffff-no-rj-mo"
-niche: 
- - business
- - sales
- - marketing
+cover: https://yt3.ggpht.com/7spVLsUWY48DEyACdgIMt8C_4v1QnAkhFtw40pl9c_ieUrQA-Q4gCw70Y2fvhyY707WX25WTyIo=s176-c-k-c0x00ffffff-no-rj-mo
+niche:
+  - business
+  - sales
+  - marketing
+status: false
 ---
 
 ```embed

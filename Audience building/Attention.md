@@ -1,3 +1,7 @@
+---
+status: false
+---
+
 You either help them or entertain them
 
 You have to understand human nature, persuasive writing.

@@ -1,3 +1,7 @@
+---
+status: false
+---
+
 tags: [[business]] [[writing]] [[client]]
 
 author: [[nicolas cole]] 

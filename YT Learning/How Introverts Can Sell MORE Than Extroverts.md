@@ -1,7 +1,9 @@
 ---
-tags: [sales]
-video: "https://www.youtube.com/watch?v=Sp7WXSw90lc"
+tags:
+  - sales
+video: https://www.youtube.com/watch?v=Sp7WXSw90lc
 creator: "[[jeremy miner]]"
+status: false
 ---
 ```embed
 title: "How Introverts Can Sell MORE Than Extroverts"

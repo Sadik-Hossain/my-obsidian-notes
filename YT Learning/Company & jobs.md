@@ -1,6 +1,8 @@
 ---
-tags: [business]
-video: "https://www.youtube.com/watch/?v=0kgKMdSzVbE"
+tags:
+  - business
+video: https://www.youtube.com/watch/?v=0kgKMdSzVbE
+status: false
 ---
 
 

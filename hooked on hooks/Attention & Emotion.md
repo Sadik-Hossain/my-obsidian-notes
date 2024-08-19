@@ -1,6 +1,8 @@
 
----
-### In order to capture attention, you have to tap into emotions
+---"0": "\r"
+"1": "{"
+"2": "}"
+status: false
 ---
 
 you stop scrolling & click read more when something resonates, annoys, angers, excites or intrigues you.

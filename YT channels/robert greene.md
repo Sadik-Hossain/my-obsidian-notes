@@ -1,7 +1,8 @@
 ---
-cover: "https://yt3.ggpht.com/T1x3cnA4Z6Xwd_PMe9jrc-NcvizgDbmvTRCsEzRCvD_tz3zvWCdqwe3zV-2daoI-KXOxJO02utc=s176-c-k-c0x00ffffff-no-rj-mo"
+cover: https://yt3.ggpht.com/T1x3cnA4Z6Xwd_PMe9jrc-NcvizgDbmvTRCsEzRCvD_tz3zvWCdqwe3zV-2daoI-KXOxJO02utc=s176-c-k-c0x00ffffff-no-rj-mo
 niche:
   - psychology
+status: false
 ---
 
 ```embed

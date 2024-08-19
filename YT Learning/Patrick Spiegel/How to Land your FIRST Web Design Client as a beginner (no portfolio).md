@@ -1,8 +1,10 @@
 ---
 author: sadik
 date: 2024-08-14
-tags: [client]
+tags:
+  - client
 video: https://www.youtube.com/watch?v=p_WwqC7BsTk
+status: false
 ---
 
 ---

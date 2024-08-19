@@ -3,6 +3,7 @@ tags:
   - client
 video: https://www.youtube.com/watch?v=JA3n8hviUUQ
 creator: "[[caleb hinton]]"
+status: false
 ---
 ```embed
 title: "How to land your first copywriting client ✏️"

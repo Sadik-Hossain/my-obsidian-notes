@@ -21,27 +21,6 @@
       "views": [
         {
           "config": {
-            "fitStyle": "contain",
-            "coverField": "File",
-            "includeFields": [],
-            "cardWidth": 200
-          },
-          "filter": {
-            "conjunction": "and",
-            "conditions": []
-          },
-          "colors": {
-            "conditions": []
-          },
-          "sort": {
-            "criteria": []
-          },
-          "id": "2f4bd980-104c-489d-a7e2-c24c8bc7842a",
-          "name": "Gallery",
-          "type": "gallery"
-        },
-        {
-          "config": {
             "fieldConfig": {
               "0": {
                 "hide": true
@@ -107,7 +86,20 @@
               "creator",
               "date",
               "guest",
-              "status"
+              "path",
+              "0",
+              "1",
+              "2",
+              "3",
+              "4",
+              "5",
+              "6",
+              "7",
+              "8",
+              "author",
+              "cover",
+              "excalidraw-plugin",
+              "video"
             ]
           },
           "filter": {
@@ -136,6 +128,27 @@
           "id": "9568b80c-606f-4804-9f7b-052722c1ab16",
           "name": "Table",
           "type": "table"
+        },
+        {
+          "config": {
+            "fitStyle": "contain",
+            "coverField": "File",
+            "includeFields": [],
+            "cardWidth": 200
+          },
+          "filter": {
+            "conjunction": "and",
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "2f4bd980-104c-489d-a7e2-c24c8bc7842a",
+          "name": "Gallery",
+          "type": "gallery"
         }
       ],
       "id": "9d21917f-0bee-46b4-95e7-b392309be969",

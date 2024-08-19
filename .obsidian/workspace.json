@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "test.md",
+                "file": "Courses/FEM/Find Client/get permission for ongoing contact.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,20 +21,27 @@
             }
           },
           {
-            "id": "941cfe1e84da57c4",
+            "id": "84d1bfb36749d19c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "YT Learning/ali abdal/If I Wanted to Grow An Audience in 2024, I'd Do This.md",
+                "file": "YT channels/ali abdal.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
             }
+          },
+          {
+            "id": "8fe7b0361d5fee1a",
+            "type": "leaf",
+            "state": {
+              "type": "obsidian-projects",
+              "state": {}
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -86,7 +93,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "YT Learning/ali abdal/If I Wanted to Grow An Audience in 2024, I'd Do This.md"
+                "file": "Courses/FEM/Find Client/get permission for ongoing contact.md"
               }
             }
           },
@@ -106,7 +113,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -126,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "YT Learning/ali abdal/If I Wanted to Grow An Audience in 2024, I'd Do This.md"
+                "file": "Courses/FEM/Find Client/get permission for ongoing contact.md"
               }
             }
           }
@@ -142,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "YT Learning/ali abdal/If I Wanted to Grow An Audience in 2024, I'd Do This.md",
+                "file": "Courses/FEM/Find Client/get permission for ongoing contact.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "YT Learning/ali abdal/If I Wanted to Grow An Audience in 2024, I'd Do This.md",
+                "file": "Courses/FEM/Find Client/get permission for ongoing contact.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -221,39 +229,44 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "941cfe1e84da57c4",
+  "active": "128adf6bfeba6bce",
   "lastOpenFiles": [
-    "test.md",
-    "tag/writing.md",
-    "Courses/FEM/Find Client/get permission for ongoing contact.md",
-    "Courses/FEM/Find Client/Index.md",
-    "Courses/FEM/Find Client/get the attention of your audience.md",
     "attachments/Pasted image 20240819091959.png",
     "attachments/Pasted image 20240819084928.png",
     "attachments/Pasted image 20240819084238.png",
-    "Courses/FEM/Find Client/define the market you wish to target.md",
-    "Courses/FEM/Find Client/[[.md",
-    "YT Learning/anne hickman/The content strategy that attracts customers in 2024.md",
-    "Courses/FEM/Find Client/Why you are struggling to find client.md",
-    "Courses/FEM/Find Client/[[The.md",
-    "Courses/FEM/Find Client/The.md",
+    "Courses/FEM/Find Client/get the attention of your audience.md",
     "YT channels/robert greene.md",
-    "templates/YT Chan.md",
-    "YT Learning/How Introverts Can Sell MORE Than Extroverts.md",
     "templates/YT Vid.md",
-    "YT channels/alex hormozi.md",
-    "YT Learning/alex.md",
-    "YT channels/anne hickman.md",
-    "YT Learning/tesss.md",
+    "templates/YT Chan.md",
+    "YT channels/rene rodriguez.md",
     "YT channels/caleb hinton.md",
-    "YT Learning/ali abdal/How to Start Your First Business in 48 Hours.md",
-    "YT Learning/How to land your first copywriting client.md",
-    "YT Learning/How To Effortlessly Sell Your Products Online.md",
-    "YT Learning/Land copywrite client start to finish.md",
-    "templates",
+    "YT channels/jeremy miner.md",
+    "YT channels/anne hickman.md",
+    "YT channels/tomstoic.md",
+    "tag/client.md",
+    "tag/writing.md",
+    "tag/business.md",
     "YT channels/ali abdal.md",
-    "YT Learning/The Psychology of selling with rene rodriguez.md",
+    "YT channels/nicolas cole.md",
+    "tag/trick.md",
+    "YT Learning/anne hickman/The content strategy that attracts customers in 2024.md",
+    "Excalidraw/How To Effortlessly Sell Your Products Online 2024-08-15 10.15.09.excalidraw.md",
+    "YT Learning/How To Effortlessly Sell Your Products Online.md",
+    "YT Learning/Patrick Spiegel/How to Land your FIRST Web Design Client as a beginner (no portfolio).md",
+    "hooked on hooks/Attention & Emotion.md",
+    "YT Learning/How to land your first copywriting client.md",
+    "attachments/Pasted image 20240811094635.png",
+    "YT Learning/How to sell your copywriting services well.md",
+    "YT Learning/Land copywrite client start to finish.md",
+    "Courses/FEM/Find Client/define the market you wish to target.md",
+    "YT Learning/nicolas cole/QnA.md",
+    "attachments/Pasted image 20240804211458.png",
+    "attachments/Pasted image 20240729195743.png",
+    "attachments/Pasted image 20240729112344.png",
     "attachments/Pasted image 20240729111437.png",
+    "MyVault/Screenshot_20240331-010845.png",
+    "Attention.pdf",
+    "templates",
     "01-What To Expect In Digital Economics.pdf",
     "attachments/perf-driven.png",
     "test canvas.canvas",
@@ -264,12 +277,6 @@
     "YT channels",
     "tag",
     "YT Learning/anne hickman",
-    "style-settings.json",
-    "Excalidraw",
-    "Pasted image 20240811094635 2.png",
-    "Pasted image 20240811094635 1.png",
-    "Pasted image 20240729112344 1.png",
-    "Pasted image 20240804211521 1.png",
-    "Pasted image 20240804211458 1.png"
+    "style-settings.json"
   ]
 }

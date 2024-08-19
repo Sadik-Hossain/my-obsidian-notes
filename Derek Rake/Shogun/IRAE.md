@@ -1,6 +1,3 @@
----
-status: false
----
 
 > *The process of seduction is essentially a transfer of emotion, and that emotion is Desirability*
 

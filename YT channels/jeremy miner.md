@@ -3,7 +3,6 @@ cover: https://yt3.ggpht.com/RwMOB4xQ_MRC5zeR9J0PSWk0ZseYUZUXJaqGL4Gbwjqdokqe8ei
 niche:
   - sales
   - psychology
-status: false
 ---
 
 ```embed

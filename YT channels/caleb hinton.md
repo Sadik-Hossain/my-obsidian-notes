@@ -3,7 +3,6 @@ cover: https://yt3.ggpht.com/UbcZlLqffsozmAtlsqXYv6vck0B4njgNLfetW0TKmj5OV5iFwbU
 niche:
   - outreach
   - copywrite
-status: false
 ---
 
 ```embed

@@ -1,6 +1,3 @@
----
-status: false
----
 
 tags: [[business]] [[writing]] [[client]]
 

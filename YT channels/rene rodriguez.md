@@ -3,7 +3,6 @@ cover: https://yt3.googleusercontent.com/X9-ge2OiA0F172hzuxFXi3-UBx755T_s4mU0gnm
 niche:
   - psychology
   - influence
-status: false
 ---
 
 ```embed

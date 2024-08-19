@@ -2,7 +2,6 @@
 tags:
   - sales
 video: https://www.youtube.com/watch?v=aW8jAYnvqyI
-status: false
 ---
 ## Overcoming fear of Cold Calling
 

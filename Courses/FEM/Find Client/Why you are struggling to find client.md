@@ -1,17 +1,4 @@
 
----
-"0": "["
-"1": "["
-"2": I
-"3": n
-"4": d
-"5": e
-"6": x
-"7": "]"
-"8": "]"
-status: false
----
-
 Most agencies or freelancers are solely reliant on word-of-mouth recommendations.\
 This section addresses why this is a problem & why many of the alternatives aren't much better.
 
@@ -23,14 +10,10 @@ This section addresses why this is a problem & why many of the alternatives aren
 	we don't have the time for doing non-chargeable work (eg: blogging, social media marketing etc. ) every time you're not working on chargeable work you're losing money.\
 	so, we have to come up with a way to minimize the effort and maximizing results. From winning people's attention to all the way through getting work.
 
-
----
 #### 4 common mistakes made by agencies & freelancers
----
 
 ##### relying too heavily on word of mouth
----
-\
+
 **It is passive**\
 word of mouth relies on clients recommending you. There is nothing you can do but ask clients for recommendations. Therefore, you cannot proactively generate business.\
 In other words, its out of your control, this isn't your input goal.
@@ -41,9 +24,8 @@ Word of mouth typically happens within sectors & companies of a similar size. Th
 **It is risky**\
 Word of mouth is common within different groups of a large organization. However, that means you can quickly rely on one or two large clients whose departure would be devastating.
 
----
 ##### wasting money of online advertising & getting work through online marketplaces
----
+
 Online ads & marketplaces like upwork tend to attract smaller businesses who primarily choose based on price.
 
 Even procurement platforms with larger projects are rarely worth your time. Often they already have a preferred supplier & post because they are required to.
@@ -54,9 +36,8 @@ There is no relationship. You are just another supplier(commodity).
 **We want clients to approach us, because they want to work specifically with us.**
 
 
----
 ##### Approaching content marketing in the wrong way
----
+
 Content marketing can work. But you are doing it wrong.
 
 Content marketing is great for establishing your credibility & for increasing your reach. But, it has its challenges.
@@ -69,9 +50,8 @@ Content marketing is great for establishing your credibility & for increasing yo
 - **Lacking time**\
 	producing content is incredibly time-consuming. Time that you could be spending doing client work.
 
----
 ####  Email offers the answer
----
+
 
 **B2B Lives in email**\
 social media and blogs are fine, but our prospective clients live in email, email is the primary means of communication for almost all businesses.
@@ -88,9 +68,8 @@ you own your email list, its not some social media platform where they can chang
 
 > [!quote] So, this leaves us with needing to get people on a mailing list, so that we can build a relationship.
 
----
 #### Get people to sub with a sales funnel
----
+
 
 **What is a sales funnel**\
 its a journey where from the moment someone first hears about that you exist to the moment they sign up to your service.
@@ -110,9 +89,8 @@ In many ways, it reflects a customer journey map, but with more emphasis on how 
 > when clients first enter your sales funnel, they may not intended to buy your services. It, therefore, may take years to get them to that point of purchase.
 
 
----
 #### Why you want a sales funnel
----
+
 **Targeted**\
 we can pick a group of particular clients you want to work with and you can focus on those.\
 I wanna work for those people, lets build a sales funnel for them.
@@ -123,9 +101,8 @@ Once our sales funnel has been up and running for a while, it will provide a rel
 **Controllable**\
 By tweaking your sales funnel and the messaging, you can control the type of client and work you want to do.
 
----
 #### 1. Attract attention
----
+
 first thing first we have to grab peoples attention.
 
 we will identify and make contact with our audience, however we will not sell, as they are not ready to buy it.
@@ -144,9 +121,8 @@ we are gonna make them aware that we exist by,
 - our desire to help them & provide them value
 later on we can further build awareness through guest blogging, speaking, social media and more.
 
----
 #### 2. Build a connection 
----
+
 we build connection by offering them something free. In return for, get into contact them & build a relationship.
 
 when the report or course is complete, we will approach them again 
@@ -157,16 +133,14 @@ When they access the course, we will ask them to sign up for a mailing list offe
 **==by giving away, by helping people, you get the permission to need to stay in contact with them for a longer period of time==**
 
 
----
 #### 3. Keep them engaged
----
+
 Once on the mailing list, we will keep them engaged by providing regular and valuable content.
 
 The goal of keeping them engaged is that they remember you, when they need your services.
 
----
 ### 4. Encourage Contact
----
+
 we use the mailings to encourage your subscribers to make personal contact with you and reach out to you if they need advice and support.
 
 The reason behind someone hires you over someone else is,
@@ -179,9 +153,8 @@ And that comes from building trust, relationship, communication.
 
 And ask them to email if you got any questions, doubts, clarification of your content, if you wanna know more.
 
----
 #### Sales funnel Recap
----
+
 - grab your prospect attention
 - gain their permission to contact them regularly
 - demonstrate value & expertise to show our worth for working with them

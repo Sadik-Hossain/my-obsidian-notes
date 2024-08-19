@@ -3,7 +3,6 @@ tags:
   - marketing
 video: https://www.youtube.com/watch?v=1t7GGcN8rNE
 creator: "[[anne hickman]]"
-status: false
 ---
 
 

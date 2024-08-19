@@ -1,6 +1,3 @@
----
-status: false
----
 
 ### My column
 

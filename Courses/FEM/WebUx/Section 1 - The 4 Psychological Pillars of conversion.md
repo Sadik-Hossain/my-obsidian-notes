@@ -1,6 +1,3 @@
----
-status: false
----
 
 
 Most of our decision is emotional.

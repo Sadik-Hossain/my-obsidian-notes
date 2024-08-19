@@ -1,6 +1,3 @@
----
-status: false
----
 
 >*Capture my interest and you won’t need to worry about my attention span.*
 >

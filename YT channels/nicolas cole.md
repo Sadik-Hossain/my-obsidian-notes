@@ -3,7 +3,6 @@ cover: https://yt3.googleusercontent.com/5-PfsnlRvKt9N0v0ZsEOZ9exmmgw2I3g35htEtL
 niche:
   - writing
   - outreach
-status: false
 ---
 
 ```embed

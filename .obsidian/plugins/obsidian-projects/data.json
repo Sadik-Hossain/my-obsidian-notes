@@ -9,7 +9,7 @@
         "templates/YT Vid.md",
         "templates/YT Chan.md"
       ],
-      "isDefault": false,
+      "isDefault": true,
       "dataSource": {
         "kind": "folder",
         "config": {
@@ -22,33 +22,6 @@
         {
           "config": {
             "fieldConfig": {
-              "0": {
-                "hide": true
-              },
-              "1": {
-                "hide": true
-              },
-              "2": {
-                "hide": true
-              },
-              "3": {
-                "hide": true
-              },
-              "4": {
-                "hide": true
-              },
-              "5": {
-                "hide": true
-              },
-              "6": {
-                "hide": true
-              },
-              "7": {
-                "hide": true
-              },
-              "8": {
-                "hide": true
-              },
               "File": {
                 "width": 557,
                 "hide": false
@@ -87,15 +60,6 @@
               "date",
               "guest",
               "path",
-              "0",
-              "1",
-              "2",
-              "3",
-              "4",
-              "5",
-              "6",
-              "7",
-              "8",
               "author",
               "cover",
               "excalidraw-plugin",
@@ -270,7 +234,7 @@
       "defaultName": "",
       "templates": [],
       "excludedNotes": [],
-      "isDefault": true,
+      "isDefault": false,
       "dataSource": {
         "kind": "folder",
         "config": {

@@ -3,7 +3,6 @@ tags:
   - client
 video: https://www.youtube.com/watch?v=f-j-SDUfIh8
 creator: "[[caleb hinton]]"
-status: false
 ---
 ```embed
 title: "How I landed a copywriting client from start to finish (no BS)"

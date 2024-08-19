@@ -106,12 +106,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 235
+    "width": 235,
+    "collapsed": true
   },
   "right": {
     "id": "b55a02fc4480b8fb",
@@ -224,6 +224,8 @@
   },
   "active": "7505e70726506a2b",
   "lastOpenFiles": [
+    "attachments/Pasted image 20240819084928.png",
+    "attachments/Pasted image 20240819084238.png",
     "Courses/FEM/Find Client/Index.md",
     "Courses/FEM/Find Client/get the attention of your audience.md",
     "Courses/FEM/Find Client/define the market you wish to target.md",
@@ -250,7 +252,6 @@
     "YT Learning/The Psychology of selling with rene rodriguez.md",
     "YT Learning/Patrick Spiegel/How to Land your FIRST Web Design Client as a beginner (no portfolio).md",
     "YT channels/jeremy miner.md",
-    "YT channels/rene rodriguez.md",
     "attachments/Pasted image 20240729111437.png",
     "01-What To Expect In Digital Economics.pdf",
     "attachments/perf-driven.png",
@@ -270,7 +271,6 @@
     "Pasted image 20240804211521 1.png",
     "Pasted image 20240804211458 1.png",
     "attachments/Pasted image 20240811094635.png",
-    "attachments/Pasted image 20240804211521.png",
-    "attachments/Pasted image 20240804211458.png"
+    "attachments/Pasted image 20240804211521.png"
   ]
 }

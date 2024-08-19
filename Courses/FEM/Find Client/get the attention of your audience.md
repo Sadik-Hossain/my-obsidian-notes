@@ -386,7 +386,23 @@ including site audits in your strategy,
 - people love to know how they rank, especially when compared to competitors.
 - it encourages people to contact you.
 
-37:00
+**Use a scorecard approach**\
+
+![[Pasted image 20240819084238.png]]
+
+identify a small number of criteria related to your report.\
+Rank the site against each criteria using a simple 1-5 rating.
+Use automated tools where possible (eg: using GTMatrix from performance).
+
+Write a few short recommendations for each criteria.\
+Spend no more than 30mins on each review.
+
+You dont need to review every site in your list.\
+You can only review for them who asked.
+
+**Publish a league table**\
+![[Pasted image 20240819084928.png]]
+
 
 
 

@@ -490,19 +490,19 @@
       "isCountable": true,
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 30,
+      "wordCount": 347,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.1,
-      "characterCount": 263,
-      "nonWhitespaceCharacterCount": 211,
-      "readingTimeInMinutes": 0.11320754716981132,
+      "pageCount": 1.1566666666666667,
+      "characterCount": 5073,
+      "nonWhitespaceCharacterCount": 2153,
+      "readingTimeInMinutes": 1.3094339622641509,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1714535098705,
-      "modifiedDate": 1723535838549,
-      "sizeInBytes": 263
+      "modifiedDate": 1724051771984,
+      "sizeInBytes": 5073
     },
     "Ideas/Business idea/Web business.md": {
       "isCountable": true,
@@ -1088,15 +1088,15 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 1.5666666666666667,
-      "characterCount": 2654,
-      "nonWhitespaceCharacterCount": 2157,
+      "characterCount": 2655,
+      "nonWhitespaceCharacterCount": 2158,
       "readingTimeInMinutes": 1.7735849056603774,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1724041705237,
-      "modifiedDate": 1724043049956,
-      "sizeInBytes": 2654
+      "modifiedDate": 1724050543025,
+      "sizeInBytes": 2655
     }
   }
 }

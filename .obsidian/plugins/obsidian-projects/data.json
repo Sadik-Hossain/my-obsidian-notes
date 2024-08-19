@@ -5,12 +5,16 @@
       "fieldConfig": {},
       "defaultName": "",
       "templates": [],
-      "excludedNotes": [],
+      "excludedNotes": [
+        "templates/YT Vid.md",
+        "templates/YT Chan.md"
+      ],
       "isDefault": false,
       "dataSource": {
-        "kind": "dataview",
+        "kind": "folder",
         "config": {
-          "query": "TABLE"
+          "path": "",
+          "recursive": true
         }
       },
       "newNotesFolder": "",
@@ -35,6 +39,103 @@
           "id": "2f4bd980-104c-489d-a7e2-c24c8bc7842a",
           "name": "Gallery",
           "type": "gallery"
+        },
+        {
+          "config": {
+            "fieldConfig": {
+              "0": {
+                "hide": true
+              },
+              "1": {
+                "hide": true
+              },
+              "2": {
+                "hide": true
+              },
+              "3": {
+                "hide": true
+              },
+              "4": {
+                "hide": true
+              },
+              "5": {
+                "hide": true
+              },
+              "6": {
+                "hide": true
+              },
+              "7": {
+                "hide": true
+              },
+              "8": {
+                "hide": true
+              },
+              "File": {
+                "width": 557,
+                "hide": false
+              },
+              "path": {
+                "hide": true
+              },
+              "cover": {
+                "hide": true
+              },
+              "excalidraw-plugin": {
+                "hide": true
+              },
+              "video": {
+                "hide": true
+              },
+              "author": {
+                "hide": true
+              },
+              "niche": {
+                "width": 218
+              },
+              "name": {
+                "width": 305
+              },
+              "tags": {
+                "width": 273
+              }
+            },
+            "orderFields": [
+              "name",
+              "tags",
+              "niche",
+              "channel",
+              "creator",
+              "date",
+              "guest",
+              "status"
+            ]
+          },
+          "filter": {
+            "conjunction": "and",
+            "conditions": [
+              {
+                "field": "tags",
+                "operator": "has-none-of",
+                "enabled": true,
+                "value": ""
+              }
+            ]
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": [
+              {
+                "field": "tags",
+                "order": "asc",
+                "enabled": true
+              }
+            ]
+          },
+          "id": "9568b80c-606f-4804-9f7b-052722c1ab16",
+          "name": "Table",
+          "type": "table"
         }
       ],
       "id": "9d21917f-0bee-46b4-95e7-b392309be969",

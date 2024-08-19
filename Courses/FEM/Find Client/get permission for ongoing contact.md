@@ -1,5 +1,5 @@
 
-> [!quote] keep in touch until they are ready
+> [!info] keep in touch, until they are ready
 > The chances of your audience hearing from you, exactly when they need your services is low.
 > We need their permission to **keep in touch until they are ready**, and this section shows you how.
 
@@ -34,7 +34,7 @@ So after people finish the course, they will continue to hear from you via month
 
 So really, the report is done, that's your upfront work, piece of work done. Then we're gonna put together a short email course that only ever needs to be done once.
 
-And then when people sign up, they're gonna get those over a series of weeks. So once you've done all of that, then really, your kind of week to week marketing is literally just doing those ongoing newsletters
+And then when people sign up, they're gonna get those over a series of weeks. So once you've done all of that, then really, your kind of week to week marketing is literally just doing those ongoing newsletters.
 
 
 

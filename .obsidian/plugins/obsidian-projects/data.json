@@ -9,7 +9,7 @@
         "templates/YT Vid.md",
         "templates/YT Chan.md"
       ],
-      "isDefault": true,
+      "isDefault": false,
       "dataSource": {
         "kind": "folder",
         "config": {
@@ -96,7 +96,7 @@
         {
           "config": {
             "fitStyle": "contain",
-            "coverField": "File",
+            "coverField": "cover",
             "includeFields": [],
             "cardWidth": 200
           },
@@ -269,7 +269,7 @@
       "defaultName": "",
       "templates": [],
       "excludedNotes": [],
-      "isDefault": false,
+      "isDefault": true,
       "dataSource": {
         "kind": "folder",
         "config": {
@@ -280,7 +280,11 @@
       "newNotesFolder": "",
       "views": [
         {
-          "config": {},
+          "config": {
+            "cardWidth": 180,
+            "coverField": "cover",
+            "fitStyle": "contain"
+          },
           "filter": {
             "conjunction": "and",
             "conditions": []
@@ -296,7 +300,36 @@
           "type": "gallery"
         },
         {
-          "config": {},
+          "config": {
+            "fieldConfig": {
+              "path": {
+                "hide": true
+              },
+              "video": {
+                "hide": true
+              },
+              "cover": {
+                "hide": true
+              },
+              "tags": {
+                "width": 261
+              },
+              "name": {
+                "width": 405
+              },
+              "creator": {
+                "width": 203
+              }
+            },
+            "orderFields": [
+              "name",
+              "path",
+              "creator",
+              "date",
+              "tags",
+              "video"
+            ]
+          },
           "filter": {
             "conjunction": "and",
             "conditions": []

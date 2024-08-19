@@ -1,11 +1,21 @@
-
-tags: [[business]] [[writing]] [[client]]
-
-author: [[nicolas cole]] 
-
+---
+cover: "https://i.ytimg.com/vi/D5RHNgTIbNg/maxresdefault.jpg"
+tags: 
+ - business
+ - writing
+video: "https://youtu.be/D5RHNgTIbNg"
+creator: 
+ - "[[nicolas cole]]"
+date: 19-08-2024
 ---
 
-<iframe title="Q&amp;A on Digital Writing, Ghostwriting, and Self-Publishing" src="https://www.youtube.com/embed/D5RHNgTIbNg?feature=oembed" height="113" width="200" style="aspect-ratio: 16/9 ; width: 75%; height: 75%;display:block;margin: 0 auto" allowfullscreen="" allow="fullscreen"></iframe>
+
+```embed
+title: "Q&A on Digital Writing, Ghostwriting, and Self-Publishing"
+image: "https://i.ytimg.com/vi/D5RHNgTIbNg/maxresdefault.jpg"
+description: "👻 Become a Premium Ghostwriter: https://yt.premiumghostwritingblueprint.com/?el=CWC#10YT&htrafficsource=youtube_organicQ&A on Digital Writing, Ghostwriting,..."
+url: "https://youtu.be/D5RHNgTIbNg"
+```
 
 ## How to starting writing online with zero audience?
 

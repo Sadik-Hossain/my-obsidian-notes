@@ -1,5 +1,6 @@
 ---
-video: https://www.youtube.com/watch?v=7Tz99gfY6nQ
+cover: "https://i.ytimg.com/vi/7Tz99gfY6nQ/maxresdefault.jpg"
+video: "https://www.youtube.com/watch?v=7Tz99gfY6nQ"
 tags:
   - sales
   - psychology
@@ -7,6 +8,13 @@ creator:
   - "[[jeremy miner]]"
   - "[[rene rodriguez]]"
 ---
+
+```embed
+title: "The Psychology of Selling: Neuroscientist Explains How To Sell Anything to Anyone - Rene Rodriguez"
+image: "https://i.ytimg.com/vi/7Tz99gfY6nQ/maxresdefault.jpg"
+description: "Rene Rodriguez is a best-selling author, keynote speaker, leadership advisor, and transformational speaker coach. For the last 27 years, René has been resear..."
+url: "https://www.youtube.com/watch?v=7Tz99gfY6nQ"
+```
 
 
 > [!NOTE] All Sale is Change

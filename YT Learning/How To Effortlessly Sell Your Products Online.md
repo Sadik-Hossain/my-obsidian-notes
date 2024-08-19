@@ -1,8 +1,20 @@
 ---
+cover: "https://i.ytimg.com/vi/tu7tq4ZnjAE/maxresdefault.jpg"
 tags:
   - marketing
-video: https://www.youtube.com/watch?v=tu7tq4ZnjAE
+video: "https://www.youtube.com/watch?v=tu7tq4ZnjAE"
+creator:
+ - "[[jon penberthy]]"
 ---
+
+```embed
+title: "$30M CEO Explains - How To Effortlessly Sell Your Products Online"
+image: "https://i.ytimg.com/vi/tu7tq4ZnjAE/maxresdefault.jpg"
+description: "I recent shared the 6 things you need to do in order to sell your products online with ease in a closed door presentation at my marketing event AdCon. The in..."
+url: "https://www.youtube.com/watch?v=tu7tq4ZnjAE"
+```
+
+
 ## Two Things
 
 There are Two Things, that are responsible for successful online business:

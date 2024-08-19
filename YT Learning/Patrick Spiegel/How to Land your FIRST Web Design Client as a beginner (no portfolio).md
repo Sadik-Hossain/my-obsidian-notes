@@ -1,14 +1,23 @@
 ---
-author: sadik
+cover: "https://i.ytimg.com/vi/p_WwqC7BsTk/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGC4gIih_MA8=&rs=AOn4CLDQSHIuS0_7EnvG14_EXHmKUFs6QQ"
 date: 2024-08-14
 tags:
   - client
-video: https://www.youtube.com/watch?v=p_WwqC7BsTk
+  - leads
+video: "https://www.youtube.com/watch?v=p_WwqC7BsTk"
+creator: 
+ - "[[patrick spiegel]]"
 ---
 
----
- [[trick]]
- 
+```embed
+title: "How to Land your FIRST Web Design Client as a beginner (no portfolio)"
+image: "https://i.ytimg.com/vi/p_WwqC7BsTk/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGC4gIih_MA8=&rs=AOn4CLDQSHIuS0_7EnvG14_EXHmKUFs6QQ"
+description: "Get 1 on 1 Help from me, FREE GHL & Automations, DM & Email scripts 👉 https://www.skool.com/webagencyacceleratorWebflow: https://webflow.grsm.io/3rkd99edv1q..."
+url: "https://www.youtube.com/watch?v=p_WwqC7BsTk"
+```
+
+
+
 > [!tip] there is one main reason why so many of you are struggling to land your first web design client and that is ==trust==.
 
 

@@ -1,8 +1,10 @@
 ---
+cover: "https://i.ytimg.com/vi/f-j-SDUfIh8/maxresdefault.jpg"
 tags:
   - client
 video: https://www.youtube.com/watch?v=f-j-SDUfIh8
-creator: "[[caleb hinton]]"
+creator:
+  - "[[caleb hinton]]"
 ---
 ```embed
 title: "How I landed a copywriting client from start to finish (no BS)"

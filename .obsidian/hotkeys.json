@@ -168,32 +168,6 @@
       "key": "X"
     }
   ],
-  "obsidian-advanced-new-file:advanced-new-file-new-tab": [
-    {
-      "modifiers": [
-        "Alt",
-        "Mod"
-      ],
-      "key": "N"
-    }
-  ],
-  "obsidian-advanced-new-file:advanced-new-file-new-pane": [
-    {
-      "modifiers": [
-        "Alt"
-      ],
-      "key": "N"
-    }
-  ],
-  "obsidian-advanced-new-file:advanced-new-file": [
-    {
-      "modifiers": [
-        "Alt",
-        "Shift"
-      ],
-      "key": "N"
-    }
-  ],
   "obsidian-projects:show-projects": [
     {
       "modifiers": [
@@ -210,6 +184,24 @@
         "Shift"
       ],
       "key": "Z"
+    }
+  ],
+  "templater-obsidian:create-new-note-from-template": [],
+  "obsidian-advanced-new-file:advanced-new-file": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "N"
+    }
+  ],
+  "templater-obsidian:insert-templater": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "E"
     }
   ]
 }

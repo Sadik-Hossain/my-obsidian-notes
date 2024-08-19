@@ -1,8 +1,10 @@
 ---
+cover: "https://i.ytimg.com/vi/Sp7WXSw90lc/maxresdefault.jpg"
 tags:
   - sales
 video: https://www.youtube.com/watch?v=Sp7WXSw90lc
-creator: "[[jeremy miner]]"
+creator:
+  - "[[jeremy miner]]"
 ---
 ```embed
 title: "How Introverts Can Sell MORE Than Extroverts"

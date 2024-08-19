@@ -1,8 +1,10 @@
 ---
+cover: "https://i.ytimg.com/vi/JA3n8hviUUQ/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AHgCYAC0AWKAgwIABABGCQgRCh_MA8=&rs=AOn4CLAqathFQBOekC8psqvDbQkTdFqsIQ"
 tags:
   - client
 video: https://www.youtube.com/watch?v=JA3n8hviUUQ
-creator: "[[caleb hinton]]"
+creator:
+  - "[[caleb hinton]]"
 ---
 ```embed
 title: "How to land your first copywriting client ✏️"

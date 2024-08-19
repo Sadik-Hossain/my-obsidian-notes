@@ -1,9 +1,19 @@
 ---
+cover: "https://i.ytimg.com/vi/aW8jAYnvqyI/maxresdefault.jpg"
 tags:
   - sales
 video: https://www.youtube.com/watch?v=aW8jAYnvqyI
 ---
+
+```embed
+title: "35 Minutes of Expert Cold Calling Tips (B2B & Software Sales)"
+image: "https://i.ytimg.com/vi/aW8jAYnvqyI/maxresdefault.jpg"
+description: "Learn the art of cold calling from industry experts in this cold calling masterclass. Discover proven scripts, essential tips, and effective objection handli..."
+url: "https://www.youtube.com/watch?v=aW8jAYnvqyI"
+```
+
 ## Overcoming fear of Cold Calling
+
 
 just stand up, be confident, and do it every single day, even if it's just 30 minutes.
 

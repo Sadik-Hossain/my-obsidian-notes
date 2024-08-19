@@ -1,9 +1,18 @@
 ---
+cover: "https://i.ytimg.com/vi/0aoR6cFM66M/maxresdefault.jpg"
 tags:
   - sales
 video: https://www.youtube.com/watch?v=0aoR6cFM66M
+creator: 
+ - "[[copy that]]"
 ---
 
+```embed
+title: "How to Sell Your Copywriting Services Well (Free 1 Hour Course)"
+image: "https://i.ytimg.com/vi/0aoR6cFM66M/maxresdefault.jpg"
+description: "Want extra help getting clients, gigs, and jobs? Check out our Copy Career Co-Pilot  ➡️ https://courses.copythatshow.com/outreach-career-acceleratorWant to u..."
+url: "https://www.youtube.com/watch?v=0aoR6cFM66M"
+```
 
 ---
 

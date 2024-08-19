@@ -386,7 +386,7 @@ including site audits in your strategy,
 - people love to know how they rank, especially when compared to competitors.
 - it encourages people to contact you.
 
-**Use a scorecard approach**\
+**Use a scorecard approach**
 
 ![[Pasted image 20240819084238.png]]
 
@@ -398,11 +398,30 @@ Write a few short recommendations for each criteria.\
 Spend no more than 30mins on each review.
 
 You dont need to review every site in your list.\
-You can only review for them who asked.
+You can even review only the ones that specifically ask you for a review, or you could choose to review a cross-section.
 
 **Publish a league table**\
 ![[Pasted image 20240819084928.png]]
 
+people really love league tables\
+where you publish how different sites performed against one another. Everybody wants to know how they're doing compared to everybody else.
+
+a league table where your website is compared to your competitors in the report, they will want to know. They will want to download that, so it's a good one for getting downloads.
+
+
+## Write Content for the Report
+
+The process includes,
+- creating an outline
+- writing an initial draft
+- editing the report
+- designing it.
+
+**create an outline**\
+In the case of our report, we're going to divide it into six to eight topics related to a problem area or trend that we've observed through the survey or the review, right—the audit.\
+Think of each section as a short  blog post.
+
+At the beginning, before all of those six to eight topics, we're going to introduce a summary section that outlines the topics to be covered and the key findings. Write that last.
 
 
 

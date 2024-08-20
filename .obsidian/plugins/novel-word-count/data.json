@@ -94,19 +94,19 @@
       "isCountable": true,
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 1497,
+      "wordCount": 1840,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 4.99,
-      "characterCount": 8511,
-      "nonWhitespaceCharacterCount": 6921,
-      "readingTimeInMinutes": 5.649056603773585,
+      "pageCount": 6.133333333333334,
+      "characterCount": 10498,
+      "nonWhitespaceCharacterCount": 8543,
+      "readingTimeInMinutes": 6.943396226415095,
       "linkCount": 0,
-      "embedCount": 0,
+      "embedCount": 1,
       "aliases": null,
       "createdDate": 1724041705237,
-      "modifiedDate": 1724173711013,
-      "sizeInBytes": 8511
+      "modifiedDate": 1724175811467,
+      "sizeInBytes": 10498
     },
     "Courses/FEM/Find Client/get the attention of your audience.md": {
       "isCountable": true,
@@ -1133,6 +1133,24 @@
       "createdDate": 1724172309501,
       "modifiedDate": 1724172309509,
       "sizeInBytes": 22145
+    },
+    "attachments/Pasted image 20240820234326.png": {
+      "isCountable": false,
+      "isDirectory": false,
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1724175806623,
+      "modifiedDate": 1724175806631,
+      "sizeInBytes": 150568
     }
   }
 }

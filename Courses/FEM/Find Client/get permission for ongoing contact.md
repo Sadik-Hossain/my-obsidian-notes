@@ -116,6 +116,10 @@ And that you're never gonna share their email address with anybody. So you're re
 
 ## Crafting an email course
 
+- one email for each topic
+- scheduled weekly
+- about 500 words each, basic formatting
+
 the way that the course will work is it's basically what's called a trigger-based campaign.
 
 So if somebody signs up today, they will get lesson one tomorrow, lesson two the day after, lesson three the day after. 
@@ -129,19 +133,56 @@ In terms of how you create your course, very simple, one email for each of the t
 So we went six to eight topics, didn't we?\
 And then you schedule those to go out once a week. So once somebody is subscribed, they get one a week. to begin with, you're really building that relationship in those early days.
 
-So once a week, they get an email from the course. They only need to be about 500 words each. Don't need to be very long. They only need basic formatting to aid a bit scan ability. And that's it, that's all there is to the structure of the course. When they finish the course, then they just get your monthly email or your biweekly email.
+So once a week, they get an email from the course. They only need to be about 500 words each. Don't need to be very long. They only need basic formatting to aid a bit scan ability. 
 
-[00:02:41]  
-Writing each email, right? Basically, it's really easy. You create a recap of what was said in the report, right? Recap briefly the challenge or piece of advice from the report that you're gonna focus on in that email. You're gonna give a little bit of advice, provide a few practical tips about how to address that challenge, or take them closer to that best practice.
+that's all there is to the structure of the course. When they finish the course, then they just get your monthly email or your biweekly email.
 
-[00:03:06]  
-And then you're gonna encourage them to contact you if they're struggling or if they've got any questions, so we're beginning to encourage that contact. That's it, right? Really nice and simple. A side I wanna say at this point is with any of this, with the report, with the emails, the whole thing, don't ever hold back.
+***Writing each email***\
+Recap\
+briefly the challenge or piece of advice from the report that you're gonna focus on in that email.
 
-[00:03:26]  
-Share all the advice that you have freely. Don't worry about people doing it for themselves and not hiring you. People are still gonna reach out to you because they don't have the time or they feel too intimidated by the topic to try it themselves. Don't worry about your competition reading it and copying you, right?
+Advice\
+You're gonna give a little bit of advice, provide a few practical tips about how to address that challenge, or take them closer to that best practice.
 
-[00:03:45]  
-You're always gonna be a step ahead. People are gonna hire you because they know and like you, not because somebody copied what you did, right? And the other thing is still do not sell. You don't need to sell in those emails, right? There's no need to promote your services actively.
+Engage\
+And then you're gonna encourage them to contact you if they're struggling or if they've got any questions\
+so we're beginning to encourage that contact.
 
-[00:04:05]  
-Be open about what you do
+***Dont hold back***\
+at this point, with any of this, with the report, with the emails, the whole thing, don't ever hold back.
+
+Share all the advice that you have freely. Don't worry about people doing it for themselves and not hiring you. People are still gonna reach out to you because they don't have the time or they feel too intimidated by the topic to try it themselves. 
+
+Don't worry about your competition reading it and copying you.
+
+You're always gonna be a step ahead. People are gonna hire you because they know and like you, not because somebody copied what you did.
+
+***Still don't sell***\
+And the other thing is still do not sell. You don't need to sell in those emails, right? There's no need to promote your services actively.\
+Be open about what you do & even recommend that they should hire "somebody", but dont push yourself.
+
+***Automate***\
+Even though people will enroll on your mailing list at different times, we still want everybody to pass through the same course before proceeding to your regular monthly emails.
+
+To achieve this, we will need to use a tool like ==Convertkit== that will add users to your email course, when they subscribe and then tag them when they have completed it. so you can start sending them regular emails.
+
+
+
+> [!info] So to recap
+> from the landing page -> sign up -> get the report.
+> Then over the next few weeks, they get those emails courses, and then they go onto the normal mailing list.
+> 
+
+
+## What about the people that took part in the survey
+
+those people that participated in the survey, we're gonna drop them one last email. And it's gonna make it clear that the email is about the report and showing our appreciation. 
+
+So our title is gonna be, Your promised report, with a big thank you. And then it's gonna say how much you appreciated them being involved in it and how they'd managed to help turn it into something bigger.
+
+![[Pasted image 20240820234326.png]]
+You're then gonna tell them what the report ended up covering, thanks to their feedback and involvement. You're then gonna actually attach the report to the email, right, as a PDF file, so people can help themselves. Also, if you did do the review, the audit of their site, attach their scores to it as well so they can see their individual scores.
+
+And then you wanna just introduce this idea of the email series, what the email series is gonna cover. Finally, you say, if that email course sounds good, you can subscribe for free here. So you're not requiring that group to subscribe to get the report, because that group contributed to the survey, right?
+
+So you promised you'd give it to them, you're giving it to them, right? You're hoping they will also sign up to the email course as well, but there's no guarantee. For everybody else, if they want the report, they have to sign up for the email course

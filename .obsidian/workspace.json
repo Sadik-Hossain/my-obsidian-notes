@@ -18,20 +18,19 @@
             }
           },
           {
-            "id": "f4df15c26e4d7812",
+            "id": "92346ec4ff2edd61",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/FEM/Find Client/Index.md",
+                "file": "book/100m leads.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,9 +81,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "Courses/FEM/Find Client/Index.md"
-              }
+              "state": {}
             }
           },
           {
@@ -122,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Courses/FEM/Find Client/Index.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -139,7 +134,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Courses/FEM/Find Client/Index.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +150,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Courses/FEM/Find Client/Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +191,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 209
+    "width": 209,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -217,11 +211,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f4df15c26e4d7812",
+  "active": "d8111f9d42bf12b6",
   "lastOpenFiles": [
-    "Courses/FEM/Find Client/Why you are struggling to find client.md",
-    "Courses/FEM/Find Client/Untitled.md",
+    "book/100m leads.md",
+    "book/100m offer.md",
     "Courses/FEM/Find Client/Index.md",
+    "book",
+    "Courses/FEM/Find Client/Why you are struggling to find client.md",
     "Courses/FEM/Find Client/get permission for ongoing contact.md",
     "YT Learning/Untitled.md",
     "tag/writing.md",
@@ -244,7 +240,6 @@
     "YT Learning/Company & jobs.md",
     "YT Learning/How Introverts Can Sell MORE Than Extroverts.md",
     "YT Learning/How To Effortlessly Sell Your Products Online.md",
-    "YT channels/jon penberthy.md",
     "attachments/Pasted image 20240819091959.png",
     "attachments/Pasted image 20240819084928.png",
     "attachments/Pasted image 20240819084238.png",
@@ -265,7 +260,6 @@
     "MyVault/New folder/desktop.ini",
     "YT channels",
     "tag",
-    "YT Learning/anne hickman",
-    "style-settings.json"
+    "YT Learning/anne hickman"
   ]
 }

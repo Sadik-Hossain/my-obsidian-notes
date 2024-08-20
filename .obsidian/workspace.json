@@ -8,6 +8,19 @@
         "type": "tabs",
         "children": [
           {
+            "id": "201aa81a68078113",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Courses/FEM/Find Client/get permission for ongoing contact.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "d8111f9d42bf12b6",
             "type": "leaf",
             "pinned": true,
@@ -15,19 +28,6 @@
               "type": "obsidian-projects",
               "state": {},
               "pinned": true
-            }
-          },
-          {
-            "id": "92346ec4ff2edd61",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "book/100m leads.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
             }
           }
         ]
@@ -81,7 +81,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "Courses/FEM/Find Client/Index.md"
+              }
             }
           },
           {
@@ -104,7 +106,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 235
+    "width": 235,
+    "collapsed": true
   },
   "right": {
     "id": "b55a02fc4480b8fb",
@@ -119,7 +122,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Courses/FEM/Find Client/Index.md"
+              }
             }
           }
         ]
@@ -134,6 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Courses/FEM/Find Client/Index.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,6 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Courses/FEM/Find Client/Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -211,14 +218,53 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d8111f9d42bf12b6",
+  "floating": {
+    "id": "957a12837063f459",
+    "type": "floating",
+    "children": [
+      {
+        "id": "e4831462f5cecc19",
+        "type": "window",
+        "children": [
+          {
+            "id": "b1e6b2196ce6b18c",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "8b3501a1703f7510",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Courses/FEM/Find Client/Index.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 171,
+        "y": 0,
+        "width": 1024,
+        "height": 737,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "8b3501a1703f7510",
   "lastOpenFiles": [
+    "Courses/FEM/Find Client/get permission for ongoing contact.md",
+    "Courses/FEM/Find Client/Index.md",
+    "attachments/Pasted image 20240820224509.png",
     "book/100m leads.md",
     "book/100m offer.md",
-    "Courses/FEM/Find Client/Index.md",
     "book",
     "Courses/FEM/Find Client/Why you are struggling to find client.md",
-    "Courses/FEM/Find Client/get permission for ongoing contact.md",
     "YT Learning/Untitled.md",
     "tag/writing.md",
     "tag/trick.md",
@@ -239,7 +285,6 @@
     "YT Learning/46 Years of Sales Knowledge in 76 Minutes.md",
     "YT Learning/Company & jobs.md",
     "YT Learning/How Introverts Can Sell MORE Than Extroverts.md",
-    "YT Learning/How To Effortlessly Sell Your Products Online.md",
     "attachments/Pasted image 20240819091959.png",
     "attachments/Pasted image 20240819084928.png",
     "attachments/Pasted image 20240819084238.png",
@@ -252,7 +297,6 @@
     "Attention.pdf",
     "templates",
     "01-What To Expect In Digital Economics.pdf",
-    "attachments/perf-driven.png",
     "test canvas.canvas",
     "yt learning.canvas",
     "attachments",

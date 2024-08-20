@@ -124,4 +124,24 @@ And if someone doesn't sign up for four days, they'll still get one, two, three,
 
 So, that means that everyone is going through the same initial introduction, no matter when they join.
 
+In terms of how you create your course, very simple, one email for each of the topics in your report
 
+So we went six to eight topics, didn't we?\
+And then you schedule those to go out once a week. So once somebody is subscribed, they get one a week. to begin with, you're really building that relationship in those early days.
+
+So once a week, they get an email from the course. They only need to be about 500 words each. Don't need to be very long. They only need basic formatting to aid a bit scan ability. And that's it, that's all there is to the structure of the course. When they finish the course, then they just get your monthly email or your biweekly email.
+
+[00:02:41]  
+Writing each email, right? Basically, it's really easy. You create a recap of what was said in the report, right? Recap briefly the challenge or piece of advice from the report that you're gonna focus on in that email. You're gonna give a little bit of advice, provide a few practical tips about how to address that challenge, or take them closer to that best practice.
+
+[00:03:06]  
+And then you're gonna encourage them to contact you if they're struggling or if they've got any questions, so we're beginning to encourage that contact. That's it, right? Really nice and simple. A side I wanna say at this point is with any of this, with the report, with the emails, the whole thing, don't ever hold back.
+
+[00:03:26]  
+Share all the advice that you have freely. Don't worry about people doing it for themselves and not hiring you. People are still gonna reach out to you because they don't have the time or they feel too intimidated by the topic to try it themselves. Don't worry about your competition reading it and copying you, right?
+
+[00:03:45]  
+You're always gonna be a step ahead. People are gonna hire you because they know and like you, not because somebody copied what you did, right? And the other thing is still do not sell. You don't need to sell in those emails, right? There's no need to promote your services actively.
+
+[00:04:05]  
+Be open about what you do

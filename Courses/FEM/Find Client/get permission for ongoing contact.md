@@ -199,47 +199,90 @@ send a variation to those who did not complete the survey. They will only get th
 
 ## Reach influencer
 
-But let's first of all look at the trouble with influencers. They get dozens of emails every week, pitching something to them.
+***The trouble with influencers***
+
+They get dozens of emails every week, pitching something to them.
 
 And with so much noise, **a single email is not gonna get their attention.**\
 Now as we've sent them a couple of emails, we have warmed them up a little bit.
 
+
 if you wanna start building a relationship with these people and you want them to be promoting the report and that kind of thing.\
 You're gonna need to engage with them a little bit better than that. You have to build a relationship with them.
 
-**The best way of doing that is to be helpful.**
 
+***How to engage influencers***
+
+**The best way of doing that is to be helpful.**
 - follow them on social media, pay attention to what they're talking about, contribute to those conversations. 
 - Providing with help where you can, be encouraging and grateful
 - amplifying their content for them and re-sharing it, that kind of thing. 
-
-And then only after you've built a bit of a report to the point, where maybe they've contacted you directly once or twice and thanked you.
-
-Then at that point, you're probably in a position to reach out to them. 
-
-And don't just immediately email them, but over social media just ask them, is it all right if I drop you an email?
+- Only contact them directly, if they have responded to you a few times.
+- And don't just immediately email them, but over social media just ask them, is it all right if I drop you an email?
 
 So nurture that relationship first, rather than just going in with a cold email.
+
+![[Pasted image 20240821112527.png]]
 
 And when you are emailing influencers, basically, the key there is to really go in and thank them for all that they've shared online. Be very honest about that you'd like their help, tell them that you wanna share stuff, but only after you've kind of established that relationship. 
 
 Now if you get lucky earlier on in the process when you reach out to them previously, you might have either got an influencer who is willing to put their name on this and do this with you.
 
 In which case that changes the ballgame entirely, because you can use their name and reputation to promote the report. Or alternatively, they might have been willing to be interviewed for the report, in which case make sure you mentioned them in the report.\
-And now you can go back and say, hey, thanks so much for that interview, I've included you in the report, here's a free copy of it, right?.
+And now you can go back and say,\
+hey, thanks so much for that interview, I've included you in the report, here's a free copy of it, right?.
 
-When it comes to emailing influencing publications, again, I've provided you with a sample email. I'm not gonna go into all the details of why it is the way it is. But it's basically talking about what the report is, whether they'd share it with their audience, etc. So, you've done your best with your initial list to promote sort of the course and the report and you've shared it around.
+***emailing influencing publications***
 
-But we're not done yet because it's still gonna be a relatively small list you may well have less than 50 people on your list at this point. So we're gonna start, building on that and taking it to the next level. But before we do that, are there any questions out of that, what we've had so far?
+![[Pasted image 20240821112920.png]]
 
-Does Paul recommend a separate domain, or removing all of the navigation on the rest of your site, or a landing pitch?  
-Yeah, that's a fair comment, I do get that. I would probably stick with your same domain, why complicate things? But just create subdomain would seem logical to me.
+it's basically talking about what the report is, whether they'd share it with their audience, etc.
 
-But I would remove all the navigation to the rest of the site. So that you're not overly pushing your services and things alongside that. So if you look at most of my, well, cards on the table, right? At the end of this, I'm gonna give you a link to get the slide deck.
 
-But am I gonna leave it there, of course I'm not, right? I'm also gonna ask you to sign up to my newsletter. So when you go to that page, you're gonna see for yourself that is not part of the main blog world sites on a subdomain. But there's no navigation, there's no mention of my services or anything like that there.
+>[!question]- a separate domain, or removing all of the navigation on the rest of your site, or a landing pitch?  
+>you can probably stick with your same domain, But if you can just create subdomain, would seem logical.
+>
+>remove all the navigation to the rest of the site. So that you're not overly pushing your services and things alongside that.
 
-So that's the kind of thing you're aiming at. So you can see for yourself when you download the slide deck, so hopefully that helps.
+you're gonna give you a link to get the slide deck.
 
+you're also gonna ask them to sign up to your newsletter. So when you go to that page, you're gonna see for yourself that is not part of the main blog world sites on a subdomain. But there's no navigation, there's no mention of your services or anything like that there.
+
+So that's the kind of thing you're aiming at.
+
+
+## Re-posting Content
+
+the best coders are lazy coders, cuz they reuse their code, you will exactly do the same with content.
+
+We are gonna now squeeze that content till every drop has come out of it and we've got every piece of value\
+Because, let's be honest, we're not gonna wanna be recreating this amount of content on a regular basis.
+
+we're gonna start to use some more traditional techniques of content marketing to reach many more people, we want to reach.
+
+**Reuse your content and use it to attract attention**
+
+`Email & report -> blog posts, webinar & social media`
+
+just saying the same thing in slightly different ways in slightly different mediums. So that is exactly what you guys are gonna do now. You're not gonna have to constantly come up with new stuff.
+
+We're just gonna take those things, and we're gonna repurpose them.
+
+So for example,\
+***we're gonna turn our report into posts***\
+So ideally, we wanna take our content & turn them into guest posts on other people's sites\
+So all those influencers we were reaching out to, all those publications, we're gonna say, "hey, we've got this amazing report."
+
+However failing that, we can post them on our website but optimized for search keywords using a tool like kwfinder.com.
+
+Which allows you to research into different questions, maybe, that people ask. And we'll then create keyword-optimized blog posts designed to rank well on those different keywords.
+
+So these guest posts based on a report are really easy to create. You decide on a question that you answered in your report, and you use that question as the basis of your content.
+
+include a clear call to action in the post to signup for the report and email course.
+
+we are creating articles specifically for our target audience. We're trying to get them shown or published on blogs where we know our audience are reading.
+
+And we're having a clear call to action at the end of it to try and encourage them to give us their email address, so that we can keep in contact with them. And that is the underlying principle
 
 

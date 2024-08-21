@@ -82,7 +82,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Courses/FEM/Find Client/get permission for ongoing contact.md"
+                "file": "Courses/FEM/Find Client/Index.md"
               }
             }
           },
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Courses/FEM/Find Client/get permission for ongoing contact.md"
+                "file": "Courses/FEM/Find Client/Index.md"
               }
             }
           }
@@ -139,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Courses/FEM/Find Client/get permission for ongoing contact.md",
+                "file": "Courses/FEM/Find Client/Index.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Courses/FEM/Find Client/get permission for ongoing contact.md",
+                "file": "Courses/FEM/Find Client/Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -256,10 +256,12 @@
       }
     ]
   },
-  "active": "201aa81a68078113",
+  "active": "8b3501a1703f7510",
   "lastOpenFiles": [
-    "Courses/FEM/Find Client/Index.md",
     "Courses/FEM/Find Client/get permission for ongoing contact.md",
+    "Courses/FEM/Find Client/Index.md",
+    "attachments/Pasted image 20240821112920.png",
+    "attachments/Pasted image 20240821112527.png",
     "attachments/Pasted image 20240821103101.png",
     "attachments/Pasted image 20240820234326.png",
     "attachments/Pasted image 20240820224509.png",
@@ -292,8 +294,6 @@
     "attachments/Pasted image 20240819084238.png",
     "attachments/Pasted image 20240811094635.png",
     "attachments/Pasted image 20240804211458.png",
-    "attachments/Pasted image 20240729195743.png",
-    "attachments/Pasted image 20240729112344.png",
     "Attention.pdf",
     "templates",
     "01-What To Expect In Digital Economics.pdf",

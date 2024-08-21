@@ -174,16 +174,72 @@ To achieve this, we will need to use a tool like ==Convertkit== that will add us
 > 
 
 
-## What about the people that took part in the survey
+## people that took part in the survey
 
 those people that participated in the survey, we're gonna drop them one last email. And it's gonna make it clear that the email is about the report and showing our appreciation. 
 
 So our title is gonna be, Your promised report, with a big thank you. And then it's gonna say how much you appreciated them being involved in it and how they'd managed to help turn it into something bigger.
 
 ![[Pasted image 20240820234326.png]]
-You're then gonna tell them what the report ended up covering, thanks to their feedback and involvement. You're then gonna actually attach the report to the email, right, as a PDF file, so people can help themselves. Also, if you did do the review, the audit of their site, attach their scores to it as well so they can see their individual scores.
+You're then gonna tell them what the report ended up covering, thanks to their feedback and involvement.\
+You're then gonna actually attach the report to the email, right, as a PDF file, so people can help themselves.\
+Also, if you did do the review, the audit of their site, attach their scores to it as well so they can see their individual scores.
 
-And then you wanna just introduce this idea of the email series, what the email series is gonna cover. Finally, you say, if that email course sounds good, you can subscribe for free here. So you're not requiring that group to subscribe to get the report, because that group contributed to the survey, right?
+And then you wanna just introduce this idea of the email series, what the email series is gonna cover.\
+Finally, you say, if that email course sounds good, you can subscribe for free here. So you're not requiring that group to subscribe to get the report, because that group contributed to the survey, right?
 
 So you promised you'd give it to them, you're giving it to them, right? You're hoping they will also sign up to the email course as well, but there's no guarantee. For everybody else, if they want the report, they have to sign up for the email course
-15:00
+
+
+## People who didn't complete the survey
+
+send a variation to those who did not complete the survey. They will only get the report if they also sign up for ongoing communication.
+
+![[Pasted image 20240821103101.png]]
+
+## Reach influencer
+
+But let's first of all look at the trouble with influencers. They get dozens of emails every week, pitching something to them.
+
+And with so much noise, **a single email is not gonna get their attention.**\
+Now as we've sent them a couple of emails, we have warmed them up a little bit.
+
+if you wanna start building a relationship with these people and you want them to be promoting the report and that kind of thing.\
+You're gonna need to engage with them a little bit better than that. You have to build a relationship with them.
+
+**The best way of doing that is to be helpful.**
+
+- follow them on social media, pay attention to what they're talking about, contribute to those conversations. 
+- Providing with help where you can, be encouraging and grateful
+- amplifying their content for them and re-sharing it, that kind of thing. 
+
+And then only after you've built a bit of a report to the point, where maybe they've contacted you directly once or twice and thanked you.
+
+Then at that point, you're probably in a position to reach out to them. 
+
+And don't just immediately email them, but over social media just ask them, is it all right if I drop you an email?
+
+So nurture that relationship first, rather than just going in with a cold email.
+
+And when you are emailing influencers, basically, the key there is to really go in and thank them for all that they've shared online. Be very honest about that you'd like their help, tell them that you wanna share stuff, but only after you've kind of established that relationship. 
+
+Now if you get lucky earlier on in the process when you reach out to them previously, you might have either got an influencer who is willing to put their name on this and do this with you.
+
+In which case that changes the ballgame entirely, because you can use their name and reputation to promote the report. Or alternatively, they might have been willing to be interviewed for the report, in which case make sure you mentioned them in the report.\
+And now you can go back and say, hey, thanks so much for that interview, I've included you in the report, here's a free copy of it, right?.
+
+When it comes to emailing influencing publications, again, I've provided you with a sample email. I'm not gonna go into all the details of why it is the way it is. But it's basically talking about what the report is, whether they'd share it with their audience, etc. So, you've done your best with your initial list to promote sort of the course and the report and you've shared it around.
+
+But we're not done yet because it's still gonna be a relatively small list you may well have less than 50 people on your list at this point. So we're gonna start, building on that and taking it to the next level. But before we do that, are there any questions out of that, what we've had so far?
+
+Does Paul recommend a separate domain, or removing all of the navigation on the rest of your site, or a landing pitch?  
+Yeah, that's a fair comment, I do get that. I would probably stick with your same domain, why complicate things? But just create subdomain would seem logical to me.
+
+But I would remove all the navigation to the rest of the site. So that you're not overly pushing your services and things alongside that. So if you look at most of my, well, cards on the table, right? At the end of this, I'm gonna give you a link to get the slide deck.
+
+But am I gonna leave it there, of course I'm not, right? I'm also gonna ask you to sign up to my newsletter. So when you go to that page, you're gonna see for yourself that is not part of the main blog world sites on a subdomain. But there's no navigation, there's no mention of my services or anything like that there.
+
+So that's the kind of thing you're aiming at. So you can see for yourself when you download the slide deck, so hopefully that helps.
+
+
+

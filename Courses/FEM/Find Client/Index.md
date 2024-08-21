@@ -103,9 +103,7 @@ And that you're never gonna share their email address with anybody. So you're re
 
 ##### Create an Email Course
 
-**Transcript from the "Create an Email Course" Lesson**
-[00:00:00]  
-So let's talk quickly about this email course, because I've just suddenly dropped this on you [LAUGH] as another thing you've got to do. So, there are reasons for doing this, right? One is that it leads nicely, because there are some people you have promised to give the report to for free, whether they had sign up for the email or not, right?
+So let's talk quickly about this email course, because I've just suddenly dropped this on you. as another thing you've got to do. So, there are reasons for doing this, right? One is that it leads nicely, because there are some people you have promised to give the report to for free, whether they had sign up for the email or not, right?
 
 [00:00:25]  
 So anybody who's completed the survey, you've basically turned around to them and said, if you've completed the survey, I'm gonna give you the report, right? Everybody else, they will only get the report if they sign up for your emails. But that group that completed the survey, we also want to add, we want to encourage them to sign up.

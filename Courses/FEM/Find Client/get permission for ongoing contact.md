@@ -285,7 +285,48 @@ we are creating articles specifically for our target audience. We're trying to g
 
 And we're having a clear call to action at the end of it to try and encourage them to give us their email address, so that we can keep in contact with them. And that is the underlying principle
 
-If there's not a value that's coming out of it, there's no point of doing it, right?
+If there's not a value that's coming out of it, there's no point of doing it, right?\
+if you're speaking at a conference for free, or going to a local meetup, or doing any of these stuff, and you don't try and capture someone's email, there's very little value in it compared to this.
+
+it's certainly worth considering, face to face interaction, (personality, humor, accent, your audience gets to know you better etc) can influence your decision of whether to hire someone or not.
+
+Webinar is a good way for doing this.
+- aim for 40min & lots of time for questions
+- cover 3 key findings from your report & your thoughts
+- add the webinar to your landing page for the report.
+- consider approaching meetups & conferences with the talk.
+
+## Promoting your course with social media
+
+you can take the material from your report and your email course, pull out snippets, turn them into pictures and put them on Instagram, turn them into text and put them on Twitter.
+
+***creating social media updates from your content***\
+content people like to share:
+- statistics, to make people appear clever.
+- quotes, that people can agree with\
+	You've got great quotes from people within the industry\
+	Because, hopefully you've spoken to a few people by this stage, put that in the report.\
+	And now you can quote that on social media. And of course, if people were mentioned on social media, what do they do? They reshare it, they retweet it, so that spreads it further.
+- practical actions & advice to make people look helpful.
+
+Format to use:\
+- video & audio from your webinar.
+- quotes from your report shown as images using canva.
+- include links to your landing page. (*must*)
+- include relevant hashtags
+- include influencers where relevant.
+
+Automating your social media with tools like coschedule.
+
+## Establishing contact checklist
+
+- [ ] writing an email course around the report findings
+- [ ] create a landing page to sell your report & email course
+- [ ] email your audience about the report
+- [ ] reach out to influencers
+- [ ] recycle your content into other formats to attract a bigger audience
+- [ ] automated your social media
+
 
 
 

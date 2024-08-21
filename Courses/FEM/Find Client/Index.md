@@ -7,7 +7,7 @@
 - [[define the market you wish to target]] (who do u work with?)
 - [[get the attention of your audience]]
 - [[get permission for ongoing contact]]
-- maintain and growing your audience
+- [[maintain and growing your audience]]
 - Turn leads into projects
 
 
@@ -432,13 +432,6 @@ So really, ultimately, it's about just building up an ongoing list of topics. An
 So, pay attention to the conversations you're having with clients. They'll ask you questions. That's an email, right? You'll get stuck on a project and frustrated on a project. That's an email. Keep an eye out for subjects being discussed on the influencer sites, the sites that your audience are hanging out at.
 
 [00:01:19]  
-Those are all potential emails. Every question that's asked on a forum, every search that's done on Google related to a particular subject, every mention on social media. Those are all email topics. Think about the work you're doing at that particular time. That's all content, right? I've been working at the moment on doing usability testing.
-
-[00:01:45]  
-That's a subject. And I had a particularly bad experience recently where I did usability testing, and we were benchmarking my version against the existing version and my version performed worse than the existing version, right? I actually wrote an email saying how to deal with [LAUGH] when your usability test fails.
-
-[00:02:13]  
-That's a good subject. And people wrote to me afterwards going, I'm so glad it's not just me. [LAUGH] Or I really appreciated your honesty there. It's great. Write about services you offer, not directly, but write around those services. Don't say this is a list of the services I offer, but write about topics relating to those services.
 
 [00:02:36]  
 Pretty obvious really. And write about the value of what you want to offer. So if you want more work, I don't know, doing usability testing, then you write about the value of usability testing. It's not rocket science. Also pay attention to what annoys you. This is really good, cuz it will annoy other people as well.

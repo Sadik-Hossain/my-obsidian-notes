@@ -285,4 +285,8 @@ we are creating articles specifically for our target audience. We're trying to g
 
 And we're having a clear call to action at the end of it to try and encourage them to give us their email address, so that we can keep in contact with them. And that is the underlying principle
 
+If there's not a value that's coming out of it, there's no point of doing it, right?
+
+
+
 

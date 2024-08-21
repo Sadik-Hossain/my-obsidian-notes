@@ -186,3 +186,4 @@ You're then gonna tell them what the report ended up covering, thanks to their f
 And then you wanna just introduce this idea of the email series, what the email series is gonna cover. Finally, you say, if that email course sounds good, you can subscribe for free here. So you're not requiring that group to subscribe to get the report, because that group contributed to the survey, right?
 
 So you promised you'd give it to them, you're giving it to them, right? You're hoping they will also sign up to the email course as well, but there's no guarantee. For everybody else, if they want the report, they have to sign up for the email course
+15:00

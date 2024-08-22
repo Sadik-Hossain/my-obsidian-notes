@@ -102,12 +102,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 235,
-    "collapsed": true
+    "width": 235
   },
   "right": {
     "id": "b55a02fc4480b8fb",
@@ -256,7 +256,7 @@
       }
     ]
   },
-  "active": "201aa81a68078113",
+  "active": "128adf6bfeba6bce",
   "lastOpenFiles": [
     "Courses/FEM/Find Client/Index.md",
     "Courses/FEM/Find Client/maintain and growing your audience.md",

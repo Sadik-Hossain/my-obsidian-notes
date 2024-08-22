@@ -297,7 +297,11 @@ Most of them haven't even worked with Paul, but they still recommend me to other
 
 so anything you can do to encourage your users to start spreading the word about you, you should absolutely do.
 
-**How do you turn your users Into advocates, your readers into advocates?**
+## How do you turn your users Into advocates, your readers into advocates?
+
+- [[#^99ace3|connect with them]]
+- [[#^79cce0|show appreciation]]
+- [[#^2a7f91|encourage referrals]]
 
 >[!tip] ***connect with them.***
 > - ask questions
@@ -306,6 +310,8 @@ so anything you can do to encourage your users to start spreading the word about
 > - ask for help
 > - do meetups
 > - get them connect to one another
+
+^99ace3
 
 Take opportunities to actually talk with them.\
 you can ask them questions and get them to reply to you.
@@ -349,7 +355,7 @@ having a Slack channel/discord is great, where they can talk to one another,
 > - ask how you can do better
 
 ***show appreciation***\
-to those people that follow you. thank people all the time.
+to those people that follow you. thank people all the time. ^79cce0
 
 ***do giveaways***\
 if ever get offered free stuff, you'll get a lot of people write to you and go, "we want you to try out this cool new app or whatever."\
@@ -376,6 +382,8 @@ How can you be there for them?
 > - ask politely
 > - Ask why they dont
 
+^2a7f91
+
 
 ***ask for referral, make sharing easy***\
 then you can start encouraging referrals cuz you kind of built a bit of social credit with them.\
@@ -400,6 +408,7 @@ well, why don't you recommend me?\
 Am I doing something wrong?\
 Is there something, I could be doing better? 
 
+## Other ways to grow your list
 
 >[!tip] ***Other ways to grow your list***
 > - SEO orientated blogging
@@ -412,7 +421,7 @@ Is there something, I could be doing better?
 > - guest post
 > - a new sector
 
-You can do those search engine optimized blog posts\
+You can do search engine optimized blog posts\
 you do the webinars\
 you can do speaking podcast guests that's a really good one. There's loads of podcasts, they're constantly looking for guests, you've got something good to talk about, why not?
 
@@ -424,43 +433,95 @@ getting involved in things like higher education mailing list, comments, communi
 
 
 LinkedIn or Google Ads\
-Now they're a little bit more worthwhile considering because you've got a call to action that isn't just by me, it's signed up for my mailing list so you can nurture that relationship, promote the report, etc.
+Now they're a little bit more worthwhile considering because you've got a call to action that isn't just by me, it's signed up for my mailing list, so you can nurture that relationship, promote the report, etc.
 
-Guest posts, obviously I've talked about, you could decide, okay, I'm done with that sector, I'm not getting any further, let's try a different sector and repeat the whole process. And then finally you can do the going generic approach, so I'm kinda now at the stage where I've built my profile enough that is that I've got the sectors I particularly target.
+you can try a different sector and repeat the whole process.
 
-But I do allow people to sign up to my newsletter just Willy Nally not through a specific landing page or from a specific sector. So a lot of my growth now actually just comes from people stumbling across me through various means and not through a specific campaign. But I would leave you with this when it comes to growing your list, don't abandon a sector too soon.
+And then finally you can do the going generic approach
 
-I see a lot of people kinda giving up before just before they're about to make it, and it's frustrating to watch, and really it comes down to monitoring what works and what doesn't. So, for example, I'll be honest with you guys that like I said at the end, you will go to a landing page to get the slides from today and you can see an example of the landing page.
+a lot of Paul's growth now actually just comes from people stumbling across through various means and not through a specific campaign. as he's now at the stage, where he's built his profile enough.
 
-Landing pages I build on screen now through Convert Kit, and I'll pay attention, right? So I'll look, how many did the finding clients course lead people to sign up for my mailing list? And that wasn't as successful as the design processes course, i'll probably focus on that one a little bit more.
+when it comes to growing your list, don't abandon a sector too soon.
 
-Or hey front end masters is a really good way of reaching people with a that leads to a lot of people signing up for my mailing list. [INAUDIBLE] Grovel to Mark and see if I can persuade him to let me do another course, things like that so really pay attention to what works and what doesn't.
+> [!tip] Monitor what works
+> a lot of people kind of giving up before just before they're about to make it, and it's frustrating to watch, and really it comes down to **monitoring what works and what doesn't**.
 
-So you're not wasting your time on channels that don't really take you anywhere. And I think it's important that we've kind of just before we move on to turning all of this into an actual business, that we just look at remembering that ultimately that ongoing Emails. That you're sending out every two weeks needs to be appropriate to a broader audience than just your initial group that you targeted, so you're gonna need to segment your audience, right?
 
-So what do I mean by that? Well, for example, have separate forms, so if you've got a landing page for charities, you'll have a separate landing page for higher education, a separate landing page for whatever else. Heritage, whatever sectors, and so each one is gonna have its own different landing page and you can tag people based on which landing pages you know which sector they're from.
+***pay attention***\
+look, how many did the finding clients, course, lead people to sign up for my mailing list? 
 
-So that allows you to kind of segment your audience, the other ways you can just ask people. As I said earlier, on my own signup form, I actually have a drop down list that says, do you work in house? Do you work as part of an agency or are you a freelancer?
+maybe that wasn't as successful as the design processes course, then you probably focus on that one a little bit more.
 
-Because I tend to customize my content a little bit around those different audiences. And the final thing I do is I actually watch people not in a creepy stalkiry way, but I will know what they've clicked on, for example in an email. So what I can do is based on what they click on, I will tag them with different subjects.
+Or, hey front end masters is a really good way of reaching people with a that leads to a lot of people signing up for my mailing list.\
+see if I can persuade him to let me do another course, things like that so really pay attention to what works and what doesn't.
 
-So if they're always looking at design content, then I tagged them as probably being designers and they might get some customized content more specific to them. In terms of how you actually then customize their experience, how is it different? Well, it's a couple of different ways, one is they get different on boarding.
+So you're not wasting your time on channels that, don't really take you anywhere.
 
-So for example, that the email course that somebody from charities receives will be different from the email course, that somebody from higher education receives. But also I will vary my emails every once in a while as well, so basically that the emails might get tailored based on their different interests or segmentations.
 
-You could do that really easily with an if statement [LAUGH] basically in Convert Kit, so this statement says if you know a designer then write this, if it's anyone else they get this. So it's a really kind of easy way of just being able to tailor those emails just a little bit, normally it's only one or two paragraphs is different and they're basically the same other than that.
+## Making your list appropriate to a wider audience
 
-So that's it really, that's how you grow your list, if you're feeling super enthusiastic, you could take your marketing to the next level. But this is for further down the line, but I'll just throw it in here anyway to give you something to aim towards in the future.
+remember that ongoing Emails.\
+That you're sending out every two weeks needs to be appropriate to a broader audience than just your initial group that you targeted, so you're gonna need to segment your audience.
 
-First thing I would say is get organized, dedicate regular time to marketing and get better at tracking what works and what doesn't. Start using a B testing, which I think you mentioned at one point, an experiment to monitor the results and things like that, in terms of dedicated time.
 
-I'm now at the position, you can get yourself into a virtuous cycle if you get it right, so the more time you spend marketing the more people you attract the higher your rates you can charge. Because you only need to convert a small percentage of them, which means the higher your rates are, the less hours you have to do with chargeable clients.
+**How to segment your audience**
+- ***have separate forms***\
+	you will prolly want separate landing pages if you are targeting different sectors, That means you can tag people depending on which form they used.\
+	and so each one is gonna have its own different landing page and you can tag people based on which landing pages you know which sector they're from.
 
-Which allows more time for marketing and you go round and round in circles, so my for example, I'm in a situation now where my business is based on me charging out phony 50% of my time. So that means the other 50% time, I can either use for doing boring admin stuff, for marketing, or sitting around on the beach if I really want to, but I tend to just pump it more into marketing.
+- ***Ask them***\
+	you can just ask people. have a drop down list that says, do you work in house? Do you work as part of an agency or are you a freelancer?
+	add additional fields ask for more info when they signup or send them a survey later. you can tag them based on their responses.
 
-Be more ambitious work on bigger projects, eventually if you can churn out a few of these reports and you're feeling more confident in your writing, you might wanna look at books. You might wanna look at video courses or workshops, these are really good at raising your profile because they've got higher barrier to entry, right?
 
-They're harder to do, fewer people do them, therefore they're considered more valuable, and then price higher, right? As you see more work don't necessarily just start hiring more people, which is what everybody instinctively wants to do. Instead raise your prices instead, that allows more time for marketing and leads to that virtuous cycle I was talking about.
+- ***watch them***\
+	you can tag people based on their behavior.\
+	For ex: what web pages they look at, whether they come from, what link they click in your email.
+	know what they've clicked on, for example in an email. So what I can do is based on what they click on, I will tag them with different subjects.
+
+>[!tldr] tend to customize your content a little bit around those different audiences. 
+>
+So if they're always looking at design content, then I tagged them as probably being designers and they might get some customized content more specific to them. 
+
+**How to customize based on segmentation**
+- ***different boarding***\
+	you have email course for first sector, other sectors have a variation of this onboarding course. Alternatively, you can create a generic onboarding series **based on the issues relating to the services you offer.**
+	
+	So for example, that the email course that somebody from charities receives will be different from the email course, that somebody from higher education receives. 
+
+- ***Email variations***\
+	once people are beyond the onboarding series, we will want all segments to join a single list (to save us work). However we can tailor our emails based on the segments, that can either be separate emails or just different wording.
+	
+	vary emails every once in a while as well, so basically that the emails might get tailored based on their different interests or segmentations.
+	
+	ex: if you know a designer then write this, if it's anyone else they get this. 
+
+
+## take your marketing to the next level
+
+- ***Get organized***\
+	dedicate regular time to marketing and get better at tracking what works and what doesn't. Experiment & monitor the results\
+	Start using A/B testing, an experiment to monitor the results and things like that, in terms of dedicated time.
+
+> [!tip] more time on marketing > more attraction > charge higher > only work with higher paying client > more time for marketing
+> the more time you spend marketing, the more people you attract,
+the higher your rates you can charge.
+>
+>Because, you only need to convert a small percentage of them, which means **the higher your rates are, the less hours you have to do with chargeable clients.**
+>
+> Which allows more time for marketing and you go round and round in circles 
+
+- ***Be ambitious***\
+	work on bigger projects.\
+	eventually, if you can churn out a few of these reports and you're feeling more confident in your writing, you might wanna write a books video courses or workshops.
+
+	these are really good at raising your profile, because they've got higher barrier to entry. They're harder to do, fewer people do them, therefore they're considered more valuable.
+
+- ***Price higher***\
+	As you see more work, don't necessarily just start hiring more people, which is what everybody instinctively wants to do.
+
+	Instead raise your prices instead, that allows more time for marketing and leads to that virtuous cycle I was talking about.
+
 
 So let's do a quick summary of that and then we'll take our last break before we are done. So growing your audience, your checklist for this, includes setting aside regular time to focus on marketing, so you're putting out your marketing material regularly, Friday afternoons. Let's go to one with me, keep a list of possible topics that you can write about, so that you're not starting from a blank sheet every time.
 

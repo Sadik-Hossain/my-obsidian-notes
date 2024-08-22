@@ -82,7 +82,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "YT Learning/How to write copy that sells.md"
+                "file": "Courses/FEM/Find Client/Index.md"
               }
             }
           },
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "YT Learning/How to write copy that sells.md"
+                "file": "Courses/FEM/Find Client/Index.md"
               }
             }
           }
@@ -139,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "YT Learning/How to write copy that sells.md",
+                "file": "Courses/FEM/Find Client/Index.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "YT Learning/How to write copy that sells.md",
+                "file": "Courses/FEM/Find Client/Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -256,10 +256,10 @@
       }
     ]
   },
-  "active": "201aa81a68078113",
+  "active": "8b3501a1703f7510",
   "lastOpenFiles": [
-    "YT channels/ecom soup.md",
     "YT Learning/How to write copy that sells.md",
+    "YT channels/ecom soup.md",
     "Courses/FEM/Find Client/maintain and growing your audience.md",
     "Courses/FEM/Find Client/Index.md",
     "Courses/FEM/Find Client/get permission for ongoing contact.md",

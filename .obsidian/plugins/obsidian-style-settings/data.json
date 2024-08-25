@@ -68,7 +68,7 @@
   "anuppuccin-theme-settings@@anp-table-auto": true,
   "anuppuccin-theme-settings@@anp-table-th-highlight": true,
   "anuppuccin-theme-settings@@anp-td-highlight": "anp-table-row-alt",
-  "anuppuccin-theme-settings@@anp-highlight-custom": "anp-highlight-blue",
+  "anuppuccin-theme-settings@@anp-highlight-custom": "anp-highlight-teal",
   "anuppuccin-theme-settings@@anp-card-layout-filebrowser": true,
   "anuppuccin-theme-settings@@anp-card-layout-actions": true,
   "anuppuccin-theme-settings@@anp-card-radius": 18,

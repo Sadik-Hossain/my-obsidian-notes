@@ -297,7 +297,7 @@ Most of them haven't even worked with Paul, but they still recommend me to other
 
 so anything you can do to encourage your users to start spreading the word about you, you should absolutely do.
 
-## How do you turn your users Into advocates, your readers into advocates?
+## How do you turn your users & readers into advocates?
 
 - [[#^99ace3|connect with them]]
 - [[#^79cce0|show appreciation]]
@@ -473,7 +473,6 @@ That you're sending out every two weeks needs to be appropriate to a broader aud
 	you can just ask people. have a drop down list that says, do you work in house? Do you work as part of an agency or are you a freelancer?
 	add additional fields ask for more info when they signup or send them a survey later. you can tag them based on their responses.
 
-
 - ***watch them***\
 	you can tag people based on their behavior.\
 	For ex: what web pages they look at, whether they come from, what link they click in your email.
@@ -522,12 +521,20 @@ the higher your rates you can charge.
 
 	Instead raise your prices instead, that allows more time for marketing and leads to that virtuous cycle I was talking about.
 
+## growing your audience checklist
 
-So let's do a quick summary of that and then we'll take our last break before we are done. So growing your audience, your checklist for this, includes setting aside regular time to focus on marketing, so you're putting out your marketing material regularly, Friday afternoons. Let's go to one with me, keep a list of possible topics that you can write about, so that you're not starting from a blank sheet every time.
+- [ ] set aside regular time to focus on your marketing
+- [ ] keep a list of possible topic to write about
+- [ ] don't be afraid to be yourself in your email
+- [ ] experiment to find the best way of adding more people to your list
+- [ ] create a way for your audience to start talking to one another and sharing
+- [ ] consider alternatives (books, videos, podcast, workshop etc) and be more ambitious in your marketing approach as you gain more confidence.
 
-Don't be afraid to be yourself in your emails, you are an amazing precious snowflake that's got something unique to bring to the world. And I say that dripping with irony but at the same time I do totally mean it from a marketing point of view. Experiment to find the best way of adding more people to your list some things will work better than others and don't be afraid to dump something if it doesn't work.
+set aside regular time to focus on marketing, so you're putting out your marketing material regularly, Friday afternoons is paul's routine. 
 
-I'd podcast for 16 years and then went, no, this isn't working anymore and stopped, right? Create a way for your audience to start talking to one another and sharing, and consider alternatives and be more ambitious in your marketing approach as you gain more confidence.
+keep a list of possible topics that you can write about, so that you're not starting from a blank sheet every time.
+
+
 
 
 

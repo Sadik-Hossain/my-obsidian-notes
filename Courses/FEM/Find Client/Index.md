@@ -8,7 +8,7 @@
 - [[get the attention of your audience]]
 - [[get permission for ongoing contact]]
 - [[maintain and growing your audience]]
-- Turn leads into projects
+- [[Turn leads into projects]]
 
 
 #### Getting in Contact

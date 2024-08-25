@@ -129,12 +129,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 235,
-    "collapsed": true
+    "width": 235
   },
   "right": {
     "id": "b55a02fc4480b8fb",
@@ -283,7 +283,7 @@
       }
     ]
   },
-  "active": "793b79b8eed6f51d",
+  "active": "128adf6bfeba6bce",
   "lastOpenFiles": [
     "attachments/Pasted image 20240825145054.png",
     "attachments/Pasted image 20240825144804.png",

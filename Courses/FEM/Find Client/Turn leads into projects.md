@@ -86,57 +86,39 @@ because a lead is gonna come to you earlier in the process. It may take a lot lo
 
 7:16
 
-[00:07:05]  
 If I don't hear back from them, in two weeks, I'll drop them another email and go, I've just realized I never heard back from you, is everything all  Are there any questions I can answer? I'm here to help. If I still don't hear back from them after four weeks, I'll drop them another email going, whatever happened to that conversation we were having, 
 
-[00:07:28]  
 If I don't hear from them after 4 weeks, they'll get an email after 8, and then 16, and so on, forever and ever and ever and ever, right, until they say no. And you might think, wow, Paul, that's a bit hardcore. But it's paid off, because I've got a reason to keep going back to them.
 
-[00:07:55]  
 Now, oftentimes, they come back to me, obviously. Very rarely do I get beyond about eight weeks before somebody drops me a line. And then they'll say something like, we're not quite there yet, or this has got delayed to the next quarter, or whatever. And I say absolutely fine, completely understand, these things take time.
 
-[00:08:14]  
 I'll drop you an email next quarter, and so I add a reminder in to do that. So every email has to be carefully followed up. And you might think, well, are you banging against a closed door? Are you wasting your time? No, so often, these emails turn into something eventually, so often.
 
-[00:08:37]  
 And I often get emails back going you know what, Paul, I'm really grateful you kept pursuing this. It kept getting pushed down my list, and I never got around to it, but your emails reminded me,  So don't be afraid, very rarely do you annoy people. And I often adopt a very apologetic tone in them as well.
 
-[00:08:58]  
 I'll say look, I don't wanna annoy you, but I don't wanna seem disinterested either. And it is about showing genuine interest in their project and what they're trying to do. Give them permission to tell you to stop. Say look, if I'm annoying you, just drop me an email, let me know.
 
-[00:09:20]  
 I don't wanna annoy you. But I don't wanna give up, because this looks like a really interesting project, and show an interest. Okay, so there's a bit about how I use my CRM. Let's talk a little bit about how to engage with a new lead when they first contact you.
 
-[00:09:41]  
 So somebody dropped you an email says I got this project that we're thinking about doing. Is this the kind of thing that you might be able to help with? I often get emails like, do you do this kind of thing? Because I've never come out explicitly and said these are the services I offer, but they still contact me anyway.
 
-[00:10:03]  
 So first of all, I'll arrange a call as soon as possible. Speaking to somebody over Zoom instantly builds a relationship that you just cannot build in the same way via email. So get them on a Zoom call, get them talking. I use a tool called Calendarly to let them book a meeting in themselves without that endless backwards and forwards over trying to arrange your time.
 
-[00:10:26]  
 Second, I try and understand their challenge. And on that call, I will help them in any way I can,  So I'll let them pick my brain, I'll give them all the advice I can. I don't hold back anything. And some people do abuse that. Occasionally I get people that will basically ask for a call, have a load of advice, getting hours free consultancy from me, and I never hear from them again, 
 
-[00:10:53]  
 But they're the minority, most people are pretty good. They don't like to abuse your time, and so I will give them as much advice as I can. I'm there to help. If they hire me, that's a bonus. They almost always do. Then I will actually on that call discuss budget, 
 
-[00:11:12]  
 And the reason I discuss that is because I can very much tailor what I provide based on the budget they've got available. So I ask the client if they've got any budgetary constraints. If they say they don't, that's normally a lie. Not necessarily a conscious lie, it's just it's their way of saying I haven't thought about budget.
 
-[00:11:34]  
 But in truth, they've got constraints. So what I do is I start throwing around some numbers and gauge their reaction. So they'll say, we don't have a budget. And I say, so if I came back with a million and a half project, you're happy with that? No [SOUND], 50,000?
 
-[00:11:52]  
 No, we could probably do 50,000. What about 100,000? [SOUND] And so you're beginning to kinda narrow it down and just have a frank conversation about it. And the way I do is I say it's a bit like buying a house,  The first thing an estate agent is gonna ask you, or real estate, or whatever you call them, is how much can you afford to spend?
 
-[00:12:14]  
 Because even if you say you want a three bedroom house that's detached in a nice area, well, okay, then. But the price could still will vary wildly depending on what other facilities it's got, what condition it's in, etc. So without a budget, you've got no framework within which to work to suggest a good solution.
 
-[00:12:38]  
 So I always discuss budget up front. The other thing I'd say is don't be afraid to challenge in these conversations. If a client comes to you saying they want a mobile app, and you think that's a terrible idea, tell them it's. Well, don't tell them it's a terrible idea.
 
-[00:12:52]  
 But say, well, have you considered doing this instead? If you disagree with their suggestions, it's okay to say so. Be a peer and an advisor, not a supplier,  And the reason you can get away with that is because you've been their peer and advisor for weeks, or months, or years, as they've read your stuff, all 
 
-[00:13:15]  
 They want you to come up with ideas. They're expecting the same from you that they've been reading. So that's how I go about engaging with leads as they come in.
 

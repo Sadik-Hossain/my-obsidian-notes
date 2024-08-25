@@ -46,11 +46,25 @@
 >[!tldr] Complexity
 >Handling the intricate details and interdepencies in a system can be complex.
 
+tldr
+> [!tldr] Adaptibility
+> Designing systems that can adapt to changing business needs is challenging.
+
+
+>[!tldr] Security
+> Ensuring the security of data & processes with the system is a constant concern.
+
+> [!tldr] Technology
+> Choosing the right technology stack for the system is crucial & can be difficult
+
+
+> [!tldr] Resources
+> allocating the right resources for the system's development & maintenances can be a challenge
 
 
 
-
-
+> [!tldr] Stakeholder alignment
+> Getting all stakeholders to agree on the system's design can sometimes be a difficult task.
 
 
 

@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/FEM/FE sys design/core fundamental.md",
+                "file": "Courses/FEM/FEM.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -109,7 +109,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Courses/FEM/FE sys design/core fundamental.md"
+                "file": "Courses/FEM/FEM.md"
               }
             }
           },
@@ -133,7 +133,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 235
+    "width": 235,
+    "collapsed": true
   },
   "right": {
     "id": "b55a02fc4480b8fb",
@@ -149,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Courses/FEM/FE sys design/core fundamental.md"
+                "file": "Courses/FEM/FEM.md"
               }
             }
           }
@@ -165,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Courses/FEM/FE sys design/core fundamental.md",
+                "file": "Courses/FEM/FEM.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Courses/FEM/FE sys design/core fundamental.md",
+                "file": "Courses/FEM/FEM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -244,10 +245,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9808f7f66cb415da",
+  "active": "793b79b8eed6f51d",
   "lastOpenFiles": [
-    "Courses/FEM/Find Client/Index.md",
     "Courses/FEM/FE sys design/core fundamental.md",
+    "Courses/FEM/FEM.md",
+    "Courses/FEM/Find Client/Index.md",
     "attachments/Pasted image 20240825145054.png",
     "attachments/Pasted image 20240825144804.png",
     "attachments/Pasted image 20240825144208.png",

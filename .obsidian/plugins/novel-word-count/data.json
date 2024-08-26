@@ -1700,15 +1700,15 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.11333333333333333,
-      "characterCount": 267,
-      "nonWhitespaceCharacterCount": 212,
+      "characterCount": 398,
+      "nonWhitespaceCharacterCount": 343,
       "readingTimeInMinutes": 0.12830188679245283,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1724676298327,
-      "modifiedDate": 1724677677299,
-      "sizeInBytes": 267
+      "modifiedDate": 1724680189115,
+      "sizeInBytes": 398
     }
   }
 }

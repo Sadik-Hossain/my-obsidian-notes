@@ -1,9 +1,9 @@
 ### Teachers
 
-- ThePrimeagen
-- Mike North
-- Anjana Vakil
-- Jason Lengstorf
+- [ThePrimeagen](https://downloadly.ir/tag/theprimeagen/)
+- [Mike North](https://downloadly.ir/tag/mike-north/)
+- [Anjana Vakil](https://downloadly.ir/tag/anjana-vakil/)
+- [Jason Lengstorf]()
 - Erik Reinhart
 - Jem Young
 

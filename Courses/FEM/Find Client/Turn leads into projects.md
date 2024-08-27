@@ -318,7 +318,6 @@ And then actually, because I use this app called Quiller, allows me to create an
 So for example,\
 I often do usability testing, and they can change the number of people I do testing with to adjust the price. They get it all right as they want it, they click the Accept button, and then they can actually sign there and then within the app.
 
-I don't always do it that way. Because for example, when I'm working with very large organizations, they all have their own T's and C's. They have their own procurement policies and all the rest of that, and so my T's and C's almost always get rejected in that situation.
 
 
 **I don't pitch**\
@@ -328,23 +327,28 @@ And I think if you can build the process that I've talked about here, and if you
 
 And occasionally, there was a period of time when I would do the occasional pitch because the company had said so, we've got to procurement and yeah, I'm sorry we have to do a pitch. I mean, I'd only ever do them if they basically turned around and said yeah, we are gonna go with you but we have to jump through the hoops.
 
-These days I'm very fortunate, and I'm actually at the point where I say, look, if you're going out to tender, I'm not taking part in this. Even if you turn around to me and say we want you, cuz I think that's unfair to the other people that have been played along, right?
 
-So I don't play in that game at all now but I fully recognize that's only because I'm now in a privileged position. But what you will find is that the amount of pitching you have to do considerably drops off, because people are coming to work with you, you're not just another supplier.
+## Turning leads into projects checklist
 
-So really that's all I wanted to say on that. I do wanna leave you with that checklist. I'm doing a checklist at the end of each of the sections. So most of my checklist for turning leads into projects. Get yourself a CRM to track every lead that comes in, you won't regret it.
+- [ ] Get yourself a CRM to track every lead that comes in.
+- [ ] Pursue every lead to destruction
+- [ ] Arrange a call with a lead as soon as possible.
+- [ ] when talking to clients act like an advisor, not a supplier.
+- [ ] Ensure your proposals demonstrate value & offer options.
 
-It's a little bit money but it's a business expense well-worth paying. Pursue every lead to destruction, don't give up people, keep going. Arrange a call with any lead as soon as possible, get them on the phone, get them on Zoom. It makes a huge difference to building the relationship.
 
-When talking to a client act like an advisor not as a supplier. They've been used to you being advising them and giving them advice, they want you to carry on doing that. They don't want you to suddenly turn into, I don't know, one of the servants in Downton Abbey going yes sir, no sir, whatever you want sir.
+## Next steps checklist
 
-Be that advisor they've come to expect. Ensure your proposals demonstrate value, the value that you're going to bring. And offered lots of different options, at least when three is about right actually, never offer a single option because there's always opportunities to upsell. So I've hit you with a lot of stuff in this workshop, and there are a lot of steps involved and it's gonna take you time to process all of that.
+- [ ] Decide who it is you want to work with
+- [ ] create a survey to better understand them & make contact
+- [ ] Build a compelling landing page with associated email course to encourage signups
+- [ ] nurture those relationships over time via email
+- [ ] get organized in how you deal with incoming leads
 
-But just as you go away from today, I wanna try and leave you with just the basic next steps, right? You can come back and go over this material as many times as you need to. I suggest you come back to it as you're going through it. So watch each section as you're implementing it, but just to give you the next steps to get you going.
 
-Step one, decide on who you wanna work with, that's all you got to do to begin with. Step two, work on that survey so that you can better understand those people and what they need, the problems that they're facing, etc. And make contact with them by doing that.
 
-Then you wanna build that landing page with the associated email course and you'll report to encourage more sign ups. And then you wanna nurture the relationships over time via email. And get organized with how you deal with those incoming leads.
+
+
 
 
 

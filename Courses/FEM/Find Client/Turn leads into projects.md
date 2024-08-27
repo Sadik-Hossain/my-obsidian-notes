@@ -221,24 +221,51 @@ one objective might be to increase the number of leads.
 
 So that really focuses people on the benefits that working with me will provide, because those are the objectives they're trying to reach.
 
-Then we've got measures of success. 
+==*By the way, these blue bits in between their testimonials from various clients*==. They're always good to put in, especially if they're big names, it always helps.
 
-By the way, these blue bits in between their testimonials from various clients. They're always good to put in, especially if they're big names, it always helps.
+So for each of my objectives, we need a way of knowing whether those objectives have been achieved or not.
 
-So for each of my objectives, we need a way of knowing whether those objectives have been achieved or not.\
+Then we've got **measures of success.**\
+The metric by which we will measure our success in achieving the above objectives are.
+
+write down some how we're gonna measure success, and that reassures the client and sets you up for more work when you can actually demonstrate success.
+
 
 ![[Pasted image 20240827114913.png]]
-So I write down some how we're gonna measure success, and that reassures the client and sets you up for more work when you can actually demonstrate success.
+
 
 When you go back at the end of the project, and go look, we agreed with these, I've delivered all of these, then they're more likely to hire you again. 
 
-So I include that in there. Next section is the value. Now a lot of people skip over this, the value to the company.
+So I include that in there.
 
-For each of my objectives, I attempt to tie it to a tangible, ideally monetary return, right? Doing this makes your price look a lot more reasonable. Now we go into a conversation about pricing over lunch, and the subject value brace pricing came up. This idea of your fee is related to the benefit that it provides.
+
+Next section is the **value.** 
+
+> For each objective, attempt to tie it to a tangible (ideally monetary) return. Doing so will make your price look much more reasonable.
+
+
+![[Pasted image 20240827122319.png]]
+
+The anticipated value of achieving the above objective for {org} will be:
+
+> Aim to have at least to value statements for each objective, with at least half of these having a monetary value.
+
+Now a lot of people skip over this, the value to the company.
+
+For each of my objectives, I attempt to tie it to a tangible, ideally monetary return.\
+Doing this makes your price look a lot more reasonable. Now we go into a conversation about pricing over lunch, and the subject value brace pricing came up. \
+This idea of your fee is related to the benefit that it provides.
 
 It's a really tricky one to do. And in most cases, for the type of work I do at least, I haven't been able to make it work. But what I have taken away from value-based pricing is this idea of showing the value that you are going to be providing ideally in monetary terms, so I do that.
 
-Then we get into the methodology. Now, so this is more what I'm gonna do, but I always create options for people, right? I always try and offer a client multiple options, so normally it's three. And basically there's one that is going to come in just under their budget, right, so whatever we agreed the budget should be.
+Then we get into the **methodology**. 
+
+> Always offer 
+
+![[Pasted image 20240827123703.png]]
+
+
+Now, so this is more what I'm gonna do, but I always create options for people, right? I always try and offer a client multiple options, so normally it's three. And basically there's one that is going to come in just under their budget, right, so whatever we agreed the budget should be.
 
 Then we're gonna do a second one that's slightly higher than their budget, with a few extra bells and whistles that are appropriate. And then the third one, I totally ignored their budget and just spec it up as if I was doing it as good as I possibly could, right?
 

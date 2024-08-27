@@ -346,6 +346,19 @@ And occasionally, there was a period of time when I would do the occasional pitc
 - [ ] get organized in how you deal with incoming leads
 
 
+>[!tldr] Pauls last advice
+
+spend a bit of time on agency before jumping into freelancing
+
+> [!warning] dont waste on learning latest tech, framework
+ > tech come & goes really fast. **What doesn't change is People.**\
+ > People are always the same, dont forget to learn soft skill.
+ > - how to deal with clients
+ > - how to build relationships with clients
+ > 
+ >these are the things that lasts, that don't change.
+
+
 
 
 

@@ -11,12 +11,10 @@
             "id": "44b39e26827389b0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "Courses/FEM/Find Client/define the market you wish to target.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "Courses/FEM/Find Client/Turn leads into projects.md",
+                "staged": false
               }
             }
           },
@@ -81,9 +79,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "Courses/FEM/Find Client/define the market you wish to target.md"
-              }
+              "state": {}
             }
           },
           {
@@ -102,12 +98,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 235,
-    "collapsed": true
+    "width": 235
   },
   "right": {
     "id": "b55a02fc4480b8fb",
@@ -122,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Courses/FEM/Find Client/define the market you wish to target.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -139,7 +133,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Courses/FEM/Find Client/define the market you wish to target.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +149,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Courses/FEM/Find Client/define the market you wish to target.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -220,8 +212,9 @@
   },
   "active": "44b39e26827389b0",
   "lastOpenFiles": [
-    "Courses/FEM/Find Client/Index.md",
     "Courses/FEM/Find Client/Turn leads into projects.md",
+    "Courses/FEM/Find Client/Index.md",
+    "Courses/FEM/Find Client/define the market you wish to target.md",
     "attachments/Pasted image 20240827125432.png",
     "attachments/Pasted image 20240827123703.png",
     "attachments/Pasted image 20240827122319.png",

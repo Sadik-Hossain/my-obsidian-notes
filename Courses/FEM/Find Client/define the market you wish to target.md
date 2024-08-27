@@ -16,14 +16,14 @@ who we wanna market to?
 The more specialized you are, the fewer others can offer what you offer. That means, less competition & less pitching for work.
 
 **Seen as an expert**\
-by specializing in your area, you're seen as an expert in your particular field. You become the "goto" person for that work.
+by specializing in your area, you're seen as an expert in your particular field. You become the "go-to" person for that work.
 
  **Higher fees**\
 Because, fewer people can do what you do to the same standard, you can charge more.
 
 
 ==Specialty in terms of the group that we are reaching out to.==\
-we are not talking about specializing in wordpress or tech stack.\
+we are not talking about specializing in WordPress or tech stack.\
 we are talking about the type of audience we wanna serve/help/reach. (ex: charitable website)
 
 >[!tips] Specializing means focusing on specific audience

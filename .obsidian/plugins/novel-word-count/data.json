@@ -778,19 +778,19 @@
       "isCountable": true,
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 3920,
+      "wordCount": 3517,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 13.066666666666666,
-      "characterCount": 21494,
-      "nonWhitespaceCharacterCount": 17311,
-      "readingTimeInMinutes": 14.79245283018868,
+      "pageCount": 11.723333333333333,
+      "characterCount": 19504,
+      "nonWhitespaceCharacterCount": 15701,
+      "readingTimeInMinutes": 13.271698113207547,
       "linkCount": 0,
-      "embedCount": 4,
+      "embedCount": 5,
       "aliases": null,
       "createdDate": 1724314664904,
-      "modifiedDate": 1724740646367,
-      "sizeInBytes": 21494
+      "modifiedDate": 1724742890638,
+      "sizeInBytes": 19504
     },
     "Courses/FEM/Find Client/maintain and growing your audience.md": {
       "isCountable": true,
@@ -1781,6 +1781,24 @@
       "createdDate": 1724740623277,
       "modifiedDate": 1724740623285,
       "sizeInBytes": 263451
+    },
+    "attachments/Pasted image 20240827125432.png": {
+      "isCountable": false,
+      "isDirectory": false,
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1724741672796,
+      "modifiedDate": 1724741672805,
+      "sizeInBytes": 430393
     }
   }
 }

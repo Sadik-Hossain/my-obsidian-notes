@@ -260,47 +260,73 @@ It's a really tricky one to do. And in most cases, for the type of work I do at 
 
 Then we get into the **methodology**. 
 
-> Always offer 
+> Always offer the client multiple options.
+> - one that is slightly within their budget
+> - one is slightly more than their budget
+> - one that ignores their budget but delivers the best value.
+
 
 ![[Pasted image 20240827123703.png]]
 
 
-Now, so this is more what I'm gonna do, but I always create options for people, right? I always try and offer a client multiple options, so normally it's three. And basically there's one that is going to come in just under their budget, right, so whatever we agreed the budget should be.
+And basically there's one that is going to come in just under their budget, right, so whatever we agreed the budget should be.
 
-Then we're gonna do a second one that's slightly higher than their budget, with a few extra bells and whistles that are appropriate. And then the third one, I totally ignored their budget and just spec it up as if I was doing it as good as I possibly could, right?
+Then we're gonna do a second one that's slightly higher than their budget, with a few extra bells and whistles that are appropriate.
 
-Amazing, it's amazing how many times they end up picking the deluxe version, right? If you always stick within their budget that the client has said, you're throwing away good work, basically. And you're not always giving the client the best solution either because you're having to stick within the budget they've given you.
+And then the third one, I totally ignored their budget and just spec it up as if I was doing it as good as I possibly could, right?
 
-Then after that, I get into basically how great I am. So I have a section that outlines the benefits you in particular provide. So define both why you're a right fit, but also why you're not. Now that may seem a strange thing to do. So just to give you a snippet of how I do that, I say at the end, ultimately whether you hire me comes down to your ambitions for digital.
-
-If you consider digital key to your long-term business success, I'm probably the right choice. However, if it is seen as an important but secondary component, there may be better and cheaper suppliers, right? So I'm positioning myself in a very particular place in the market. And I begin that section by saying I'm not the cheapest option there, right?
-
-So don't be afraid to exclude yourself sometimes because actually saying what you're not reinforces what your others aren't. Sounds like that's kicked off something in the chatroom, doesn't surprise me, often creates a reaction. Yeah, what you got Mark?
-
-> > Does the deluxe version cost a lot less or bit less than the value to the company?
+Amazing, it's amazing how many times they end up picking the deluxe version, right? If you always stick within their budget that the client has said, you're throwing away good work, basically.\
+And you're not always giving the client the best solution either because you're having to stick within the budget they've given you.
 
 
-> > The deluxe version, the value to the company, I don't even try and tie it to the value of the company, right? As I'd say over lunch, I think am getting myself in such trouble with the people that promote value-based pricing. And I've got a good friend, Jonathan Stock, who really pushes value based pricing.
+**Section that outlines the benefit**
 
-And to his credit, has made it work really well for himself. So I don't know what he's doing that I'm not. But I haven't managed to get value-based pricing to feel like I'm not just ripping people off. And I understand in principle of tying the value you provide to the value that you, sorry, the value that you charge to the value you create.
+> have a section that outlines the benefits you in particular provide.
+> So define both why you're a right fit and why you might not be.
 
-I do I understand that in principle. But, you can't make the guarantees that you will provide the value that you say you'll provide. I think it's very hard in most situations to do that. So I don't tend to work in that way. So my deluxe version really is just priced at whatever I think the right way of doing this project is.
 
-And I just basically, no budget is a constraint. Now it may work out. I mean, obviously, I don't ever allow that figure to go over the potential value that I think I can bring in, otherwise it's not the right solution, is it? If it's gonna lose the company money, then it can't possibly be the right solution for them.
 
-So it will come under that figure, but it may not come under it by a lot, at least in the first year. It may even make a slight loss in the first year, but then over subsequent years it'll make it up. So yeah, I don't tie it that closely or pay that much attention.
+![[Pasted image 20240827125432.png]]
 
-But that's just me, I mean, there are other ways of doing this stuff. Okay, then I get into logistics, how long is it gonna take? Who's gonna do it? What's the role of both myself and the client? All of that kind of stuff. And then actually, because I use this app called Quiller, allows me to create an interactive pricing table that lets people pick whatever option they want, lets them change certain criteria.
 
-So for example, I often do usability testing, and they can change the number of people I do testing with to adjust the price. They get it all right as they want it, they click the Accept button, and then they can actually sign there and then within the app.
+
+So just to give you a snippet of how I do that, I say at the end,
+
+ultimately whether you hire me comes down to your ambitions for digital.
+
+If you consider digital key to your long-term business success, I'm probably the right choice. However, if it is seen as an important but secondary component, there may be better and cheaper suppliers.
+
+So I'm positioning myself in a very particular place in the market. And I begin that section by saying I'm not the cheapest option there, right?
+
+So don't be afraid to exclude yourself sometimes because actually saying what you're not reinforces what your others aren't. 
+
+
+> [!tip] Value based pricing principle
+> the value that you charge to the value you create. 
+
+
+**Logistics**
+
+> Make sure you also include a section addressing things like timing & the role of both the client & yourself.
+
+how long is it gonna take?
+Who's gonna do it?
+What's the role of both myself and the client? All of that kind of stuff. 
+
+And then actually, because I use this app called Quiller, allows me to create an interactive pricing table that lets people pick whatever option they want, lets them change certain criteria.
+
+So for example,\
+I often do usability testing, and they can change the number of people I do testing with to adjust the price. They get it all right as they want it, they click the Accept button, and then they can actually sign there and then within the app.
 
 I don't always do it that way. Because for example, when I'm working with very large organizations, they all have their own T's and C's. They have their own procurement policies and all the rest of that, and so my T's and C's almost always get rejected in that situation.
 
-But where I can, I do it all within the app. So that's my proposals and kinda gives you a sense of those. Now there's one thing that, I don't know whether you've spotted it, but there's something that's been missing from my process here. Something that is very normal and normally appears but hasn't, and that's pitching.
 
-I don't pitch, okay? And I think if you can build the process that I've talked about here, and if you can get through all of the, if you can build up that audience, if you can nurture that audience, if you can handle them right as they come in, then you're not gonna have to pitch for work, right?
+**I don't pitch**\
+And I think if you can build the process that I've talked about here, and if you can get through all of the, if you can build up that audience, if you can nurture that audience, if you can handle them right as they come in, then you're not gonna have to pitch for work.
 
-Because the client will already know they want to work with you. And occasionally, there was a period of time when I would do the occasional pitch because the company had said so, we've got to procurement and yeah, I'm sorry we have to do a pitch. I mean, I'd only ever do them if they basically turned around and said yeah, we are gonna go with you but we have to jump through the hoops.
+**Because the client will already know they want to work with you.**
+
+And occasionally, there was a period of time when I would do the occasional pitch because the company had said so, we've got to procurement and yeah, I'm sorry we have to do a pitch. I mean, I'd only ever do them if they basically turned around and said yeah, we are gonna go with you but we have to jump through the hoops.
 
 These days I'm very fortunate, and I'm actually at the point where I say, look, if you're going out to tender, I'm not taking part in this. Even if you turn around to me and say we want you, cuz I think that's unfair to the other people that have been played along, right?
 

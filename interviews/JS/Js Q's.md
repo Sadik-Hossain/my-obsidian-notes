@@ -33,7 +33,10 @@ The === strict equality operator only considers values equal that have the same 
 
 
 > [!tldr]- What are Scopes in JavaScript?
-> A scope is a set of variables, objects, and functions that you have access to. There are three types of scopes in JavaScript. 
+>  The scope is a **region of the program where a variable can be accessed.**\
+>   In other words, scope **determines the accessibility/visibility of a variable.**
+> 
+> There are three types of scopes in JavaScript. 
 > Which are:
 > - Global Scope
 > - Function Scope (Local Scope)

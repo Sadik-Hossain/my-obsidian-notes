@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/MOSH/Control Flow.md",
+                "file": "interviews/JS/Js Q's.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -109,7 +109,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Courses/MOSH/Control Flow.md"
+                "file": "interviews/JS/Js Q's.md"
               }
             }
           },
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Courses/MOSH/Control Flow.md"
+                "file": "interviews/JS/Js Q's.md"
               }
             }
           }
@@ -166,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Courses/MOSH/Control Flow.md",
+                "file": "interviews/JS/Js Q's.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Courses/MOSH/Control Flow.md",
+                "file": "interviews/JS/Js Q's.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }

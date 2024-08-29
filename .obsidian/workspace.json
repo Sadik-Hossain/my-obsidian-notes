@@ -8,17 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "44b39e26827389b0",
-            "type": "leaf",
-            "state": {
-              "type": "diff-view",
-              "state": {
-                "file": "Courses/FEM/Find Client/Turn leads into projects.md",
-                "staged": false
-              }
-            }
-          },
-          {
             "id": "d8111f9d42bf12b6",
             "type": "leaf",
             "pinned": true,
@@ -27,8 +16,22 @@
               "state": {},
               "pinned": true
             }
+          },
+          {
+            "id": "969e0e59eb2e116b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "interviews/JS/Js Q's.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -79,7 +82,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "interviews/JS/Js Q's.md"
+              }
             }
           },
           {
@@ -117,7 +122,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "interviews/JS/Js Q's.md"
+              }
             }
           }
         ]
@@ -132,6 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "interviews/JS/Js Q's.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,6 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "interviews/JS/Js Q's.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -211,6 +220,9 @@
   },
   "active": "9808f7f66cb415da",
   "lastOpenFiles": [
+    "interviews/JS/Js Q's.md",
+    "interviews/JS",
+    "interviews",
     "Courses/FEM/Find Client/Turn leads into projects.md",
     "Courses/FEM/Find Client/Index.md",
     "Courses/FEM/Find Client/define the market you wish to target.md",
@@ -249,15 +261,12 @@
     "YT Learning/Patrick Spiegel/How to Land your FIRST Web Design Client as a beginner (no portfolio).md",
     "YT channels/anne hickman.md",
     "YT Learning/QnA - Digital Writing, Ghostwriting, and Self-Publishing.md",
-    "YT Learning/How to sell your copywriting services well.md",
     "Attention.pdf",
     "templates",
     "01-What To Expect In Digital Economics.pdf",
     "test canvas.canvas",
     "yt learning.canvas",
     "attachments",
-    "MyVault/New folder",
-    "MyVault/New folder/desktop.ini",
-    "YT channels"
+    "MyVault/New folder"
   ]
 }

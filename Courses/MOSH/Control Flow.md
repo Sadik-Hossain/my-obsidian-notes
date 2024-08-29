@@ -219,3 +219,121 @@ console.log(col[index]) // 100,122,223
 
 ### For...of
 
+for...of is used to iterate over arrays.\
+with for of loop, we dont have to deal with this index, we dont have to access the element.
+
+```js
+let colors = ["r","g","b"];
+
+// in each iteration, the color variable will hold one of the items in the array
+
+for (let color of colors){
+console.log(color)
+}
+
+```
+
+
+
+### Break & Continue
+
+***break* & *continue* can change how the loop behaves.**
+
+You can use `break` and `continue` in loops to alter the flow of the loop.
+
+`break` will stop the loop from continuing, and `continue` will skip the current iteration and continue the loop.
+
+- `break` is used to jump out of loop
+- The `continue` statement terminates execution of the statements in the current iteration of the current loop, and continues execution of the loop with the next iteration
+
+```js
+
+let i = 0;
+while(i <=10){
+
+  if(i===5){ // if this cond. is true, jump out of the loop
+	break;
+	}
+	console.log(i);
+	i++;
+}
+
+// result: 0,1,2,3,4
+```
+
+```js
+let text = '';
+
+for (let i = 0; i < 10; i++) {
+  if (i === 3) {
+    continue;
+  }
+  text = text + i;
+}
+
+console.log(text);
+// Expected output: "012456789"
+```
+
+## Exercise
+
+write a func. that takes 2 numbers and returns the maximum of the two.
+
+```js
+function max (a,b){
+let c;
+if (a>=b){
+c = a
+}
+if(a<b){
+c = b
+}
+return c;
+}
+
+// mosh
+
+function max(a,b){
+if(a > b) return a;
+// else return b
+return b;
+// return (a > b) ? a : b
+}
+```
+
+Landscape or portrait
+
+```js
+function isLandscape (w,h){
+// return (w > h) ? true : false
+return (w > h )
+}
+```
+
+FizzBuzz - number divisible by 3 => fizz, by 5 => buzz, 3 & 5 => fizzBuzz 
+
+```js
+function fizzBuzz(n){
+
+if( typeof n!== "number"){
+// return "not a number";
+ return NaN; // typeof NaN -> "number"
+}
+
+if (n%3 === 0 && n%5 === 0) {
+return "fizzBuzz";
+};
+
+if (n%3 === 0){
+	return "fizz";
+};
+
+if (n%5 === 0){
+	return "buzz";
+};
+return n;
+}
+```
+
+
+hoisting is the process of moving function declarations to the top of the file. This is done automatically by JS.

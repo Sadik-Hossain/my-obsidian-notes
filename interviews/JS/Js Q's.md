@@ -44,6 +44,10 @@ The === strict equality operator only considers values equal that have the same 
 > 
 
 
+> [!tldr]- what is lexical scope?
+> Lexical scope is the ability of a `function scope` to access variables from the parent scopes.\
+> 
+
 
 > [!tldr]- What is a closure in JavaScript?
 > A closure is a function that has access to its outer function scope even after the outer function has returned.

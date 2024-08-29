@@ -227,10 +227,370 @@ colors.length // 3 (returns the length of an array)
 ## Functions
 
 def1:\
-**A functions is basically a set of statements, that performs a task or calculates a value.**
+**A functions is a set of statements, that performs a task or calculates a value.**
 
 def2:\
 **A function is a block of code designed to perform a particular task.** function is executed when "something" invokes it (calls it).
 
 key terms:\
 reusable block of code, set of instructions, chunk of codes 
+
+```js
+function greet(){
+// body of fn
+console.log("hello!");
+}
+
+greet();
+```
+
+
+our function can have inputs (parameters) & this input can change how the function behaves, instead of displaying "hello world", we display "hello jhon"
+
+```js
+            //parameter -> placeholder
+function greet(name){
+// name is accessible in the function, not outside the fn
+console.log("hello " + name);
+}
+
+greet("jhon"); // jhon here is an argument -> value
+```
+
+the function can have multiple parameters, if we don't pass all the parameter, we will get undefined. as we know, by default all the variable is initialized with the value undefined.
+
+```js
+function greet(name,lName){
+console.log("hello " + name + lName);
+}
+
+greet("jhon"); // "hello jhon undefined"
+
+```
+
+
+### Types of functions
+
+```js
+//performing a task
+function greet(a,b){
+console.log(a,b)
+}
+
+//calculate a value
+function square(num){
+return num*num; // return the value to whoever is calling the function
+}
+
+square(2); // returns a value, we can use this value to initialize a variable
+
+let res = square(2);
+console.log(res); // 4
+//or,
+
+console.log(square(2));
+```
+
+
+
+## Operators
+
+In js, we have different kinds of operators, we use this operator along with our variables & constants to create expression.
+
+> [!tldr]- Statement vs expression
+> **Statement**:\
+> A statement is a complete instruction or command that does something. *It performs an action or operation in a program.* Statements *do not produce a value* on their own.
+> 
+> **Expression**:\
+> An expression is a combination of values, variables, operators, and function calls that produce a new value. 
+> *Expressions evaluate to a result or value.*
+> 
+> The key difference is:
+> - Statements perform actions or operations. 
+> - Expressions produce values or results.
+> 
+> Statements can contain expressions, but expressions alone do not perform any action. For example, `let x = 5 + 3;` is a statement that contains the expression `5 + 3 `, which evaluates to `8` and assigns that value to the `variable x` . 
+> 
+> In summary, statements do things, while expressions produce values.
+
+different kinds of operators:
+- arithmetic
+- assignment
+- comparison
+- logical
+- bitwise
+
+### arithmetic 
+
+used for performing calculation.
+
+```js
+(x + y)
+(x - y)
+(x * y)
+(x / y)
+(x % y)
+(x ** y) // exponential x to the power of y
+```
+
+```js
+let x = 10;
+
+// increment (++)
+console.log(++x); // 11, before x, the value will be incremented by 1 first, then we will see that console.
+
+console.log(x++); // 10, after x, we will x on the console first, and then the value will be incremented
+
+console.log(x); // 11
+
+
+// decrement (--)
+--x // decrement first then display
+x-- // display first then decrement
+```
+
+
+### Assignment 
+
+used to assign a value.
+
+```js
+let x = 10;
+x++; // equivalent to, x = x + 1;
+x+= 5 // x = x + 5 // adds 5 to x & assign it to x
+x*= 3 // x = x * 3 // multiplies 3 to x & assign it to x
+```
+
+### comparison
+
+used to compare the value of a variable with something else.
+
+```js
+let x = 1;
+
+// relational operator
+x > 0; //true , the result of an expression, that includes a comparison operator is a boolean.
+x>= 0
+x < 0
+x <= 0
+
+// equality operator
+x === 1;
+x !== 1;
+
+// strict equality (ensures both operands have the same type + value)
+'1' === 1; // false, as the type dont match
+
+// loose equality (it converts the data type and then checks the value)
+'1' == 1; // '1' == '1' true, converts what is on left side and converts the right side
+true = 1; // true == true
+```
+
+loose equality operator doesn't care about the types matching, if the types don't match, it will convert the type of what we have on the right side to match what we have on the left side.\
+and will only check if the values are equal.
+
+
+### Ternary / conditional
+
+```js
+let points = 100;
+
+let type = points > 100 ? "gold" : "silver";
+// if the `points > 100` expression produces true, assign value "gold" to the type variable, otherwise, assign "silver"
+```
+
+
+### Logical
+
+used for making decision based on multiple conditions.
+
+3 types of logical operator
+- and
+- or
+- not
+
+```js
+// Logical AND (&&)
+// returns TRUE if both operands are TRUE
+
+true && true; //true, the result of evaluating this expression will be true.
+
+false && true; //false, if either of these is false, it will result false
+
+
+// Logical OR (||)
+// returns TRUE if one of the operands is TRUE
+
+false || true; //true
+true || true; //true
+false || false //false
+
+// NOT (!)
+// returns the opposite boolean value of the operands boolean value
+
+!3 // false
+!true // false
+!"" // true
+```
+
+If a value can be converted to `true`, the value is so-called **truthy**. If a value can be converted to `false`, the value is so-called **falsy**.
+
+Examples of expressions that can be converted to false are:
+- `null`;
+- `NaN`;
+- `0, -0, 0n`;
+- empty string (`""` or `''` or ` `` `);
+- `undefined`;
+
+
+
+### Logical operators with non-Booleans
+
+**The result of a logical expression is not necessarily a true or false. That depends on the value of the operands we have.**
+
+
+```js
+false || true // true;
+
+false || "sadik" // "sadik";
+
+false || 1 // 1
+
+```
+
+
+when our JavaScript engine, tries to evaluate this expression, it looks at each operand.\
+if that operands is not a boolean true or false. It will try to interpret it as truthy or falsy.
+
+
+Falsy values:
+- `undefined`
+- `null `
+- `0`
+- `false`
+- `''`
+- `NaN`
+
+> `NaN` is returned when when a mathematical calculation doesn't produce a valid number.
+
+
+```js
+false || 1 || 2 // 1
+// as soon we find an operand that is truthy, that operand is returned
+// as our second operand is truthy (1), its value is returned & the evaluation stopped.
+// It doesnt matter if we have million operands on the right side, they are completely ignored.
+
+// this is called short-circuiting
+```
+
+real world ex:\
+lets say, we have user choosing the color of their dress.
+
+```js
+// scenario 1: user picked a color
+let userColor = "red";
+let defaultColor = "blue";
+let currentColor = userColor || defaultColor; // "red"
+
+//scenario 2: user didnt pick any color
+let userColor = undefined
+let defaultColor = "blue"
+let currentColor = userColor || defaultColor; // "blue"
+
+```
+
+### Bitwise operator
+
+**similar to logical operators, but they work individual bits of number**
+
+computers stored information on binary format.
+
+```js
+// 1 = 00000001 
+// here we have 8digits/bits,which represents 1byte of info
+
+// 2 = 00000010
+
+//bitwise OR
+console.log(1 | 2); // 3
+
+// if either of this bits is one, the result will be one, otherwise 0
+// 1 = 00000001 
+// 2 = 00000010
+// R = 00000011 (result which in decimal 3)
+
+
+//bitwise AND
+console.log(1 & 2); // 0
+
+// if both numbers are 1, the result will be one, otherwise 0
+// 1 = 00000001 
+// 2 = 00000010
+// R = 00000000 (result which in decimal 0)
+```
+
+
+real-world ex:
+
+imagine an user can have access control\
+read, write, exec permission\
+we can use 1 byte/8bit of info to determine the permission an user can have.
+
+```js
+// read perm
+// 00000100
+
+// write perm
+// 0000010
+
+// exec perm
+// 0000001
+
+// read, write, exec
+// 00000111
+
+
+const readPerm = 4; // dec conversion of bin
+const writePerm = 2
+const execPerm = 1
+
+let myPerm = 0;
+myPerm = myPerm | readPerm | writePerm
+
+console.log(myPerm) // 6 , we dont care
+
+let msg = (myPerm & readPerm) ? "yes" : "no" // "yes"
+
+myPerm = myPerm | writePerm
+ msg = (myPerm & readPerm) ? "yes" : "no" // "no"
+
+
+// with the bitwise OR operator, we can add perm
+// with the bitwise AND operator, we can check to see if we have the given perm
+
+```
+
+
+### operators precedence 
+
+BODMAS
+
+```js
+let x = 2 + 3 * 4 // 14
+
+let x = (2 + 3) * 4 // 20
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+

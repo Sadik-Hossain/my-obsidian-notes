@@ -1817,6 +1817,24 @@
       "createdDate": 1724918179022,
       "modifiedDate": 1724920030705,
       "sizeInBytes": 2491
+    },
+    "Courses/WDS/JS-I/Variable.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 932,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 3.1066666666666665,
+      "characterCount": 6114,
+      "nonWhitespaceCharacterCount": 4989,
+      "readingTimeInMinutes": 3.516981132075472,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1724920755361,
+      "modifiedDate": 1724926139701,
+      "sizeInBytes": 6206
     }
   }
 }

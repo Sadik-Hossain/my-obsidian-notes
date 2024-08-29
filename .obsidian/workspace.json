@@ -29,9 +29,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5f16a42d1715dc0a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Courses/WDS/JS-I/Variable.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -83,7 +96,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "interviews/JS/Js Q's.md"
+                "file": "Courses/WDS/JS-I/Variable.md"
               }
             }
           },
@@ -107,7 +120,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 235
+    "width": 235,
+    "collapsed": true
   },
   "right": {
     "id": "b55a02fc4480b8fb",
@@ -123,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "interviews/JS/Js Q's.md"
+                "file": "Courses/WDS/JS-I/Variable.md"
               }
             }
           }
@@ -139,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "interviews/JS/Js Q's.md",
+                "file": "Courses/WDS/JS-I/Variable.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "interviews/JS/Js Q's.md",
+                "file": "Courses/WDS/JS-I/Variable.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,9 +232,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "969e0e59eb2e116b",
+  "active": "5f16a42d1715dc0a",
   "lastOpenFiles": [
+    "Courses/WDS/JS-I",
     "interviews/JS/Js Q's.md",
+    "Courses/WDS/JS-I/Variable.md",
+    "Courses/WDS",
     "interviews/JS",
     "interviews",
     "Courses/FEM/Find Client/Turn leads into projects.md",
@@ -259,14 +276,11 @@
     "YT channels/patrick spiegel.md",
     "YT Learning/anne hickman/The content strategy that attracts customers in 2024.md",
     "YT Learning/Patrick Spiegel/How to Land your FIRST Web Design Client as a beginner (no portfolio).md",
-    "YT channels/anne hickman.md",
-    "YT Learning/QnA - Digital Writing, Ghostwriting, and Self-Publishing.md",
     "Attention.pdf",
     "templates",
     "01-What To Expect In Digital Economics.pdf",
     "test canvas.canvas",
     "yt learning.canvas",
-    "attachments",
-    "MyVault/New folder"
+    "attachments"
   ]
 }

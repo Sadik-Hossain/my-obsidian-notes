@@ -98,8 +98,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -210,7 +209,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "44b39e26827389b0",
+  "active": "9808f7f66cb415da",
   "lastOpenFiles": [
     "Courses/FEM/Find Client/Turn leads into projects.md",
     "Courses/FEM/Find Client/Index.md",

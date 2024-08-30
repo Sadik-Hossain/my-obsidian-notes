@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "interviews/JS/Js Q's.md",
+                "file": "interviews/react/w3school.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -109,7 +109,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "interviews/JS/Js Q's.md"
+                "file": "interviews/react/w3school.md"
               }
             }
           },
@@ -133,7 +133,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 235
+    "width": 235,
+    "collapsed": true
   },
   "right": {
     "id": "b55a02fc4480b8fb",
@@ -149,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "interviews/JS/Js Q's.md"
+                "file": "interviews/react/w3school.md"
               }
             }
           }
@@ -165,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "interviews/JS/Js Q's.md",
+                "file": "interviews/react/w3school.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "interviews/JS/Js Q's.md",
+                "file": "interviews/react/w3school.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -246,8 +247,10 @@
   },
   "active": "10e02027c69e16e6",
   "lastOpenFiles": [
-    "interviews/JS/Untitled.md",
     "interviews/JS/Js Q's.md",
+    "interviews/react/w3school.md",
+    "interviews/react",
+    "interviews/JS/Untitled.md",
     "Courses/MOSH/Variable & operator.md",
     "Courses/MOSH/Control Flow.md",
     "Courses/MOSH",
@@ -289,9 +292,7 @@
     "tag/client.md",
     "tag/business.md",
     "YT channels/patrick spiegel.md",
-    "YT Learning/anne hickman/The content strategy that attracts customers in 2024.md",
     "Attention.pdf",
-    "templates",
     "test canvas.canvas",
     "yt learning.canvas"
   ]

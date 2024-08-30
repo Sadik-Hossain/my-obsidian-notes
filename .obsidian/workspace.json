@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "interviews/react/w3school.md",
+                "file": "Courses/MOSH/Control Flow.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -109,7 +109,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "interviews/react/w3school.md"
+                "file": "Courses/MOSH/Control Flow.md"
               }
             }
           },
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "interviews/react/w3school.md"
+                "file": "Courses/MOSH/Control Flow.md"
               }
             }
           }
@@ -166,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "interviews/react/w3school.md",
+                "file": "Courses/MOSH/Control Flow.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "interviews/react/w3school.md",
+                "file": "Courses/MOSH/Control Flow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -247,8 +247,8 @@
   },
   "active": "10e02027c69e16e6",
   "lastOpenFiles": [
-    "interviews/JS/Js Q's.md",
     "interviews/react/w3school.md",
+    "interviews/JS/Js Q's.md",
     "interviews/react",
     "interviews/JS/Untitled.md",
     "Courses/MOSH/Variable & operator.md",

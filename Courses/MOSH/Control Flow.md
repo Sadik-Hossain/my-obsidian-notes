@@ -277,6 +277,7 @@ console.log(text);
 
 ## Exercise
 
+**1.**\
 write a func. that takes 2 numbers and returns the maximum of the two.
 
 ```js
@@ -301,6 +302,7 @@ return b;
 }
 ```
 
+**2.**\
 Landscape or portrait
 
 ```js
@@ -310,6 +312,7 @@ return (w > h )
 }
 ```
 
+**3.**\
 FizzBuzz - number divisible by 3 => fizz, by 5 => buzz, 3 & 5 => fizzBuzz 
 
 ```js
@@ -336,4 +339,26 @@ return n;
 ```
 
 
-hoisting is the process of moving function declarations to the top of the file. This is done automatically by JS.
+%% hoisting is the process of moving function declarations to the top of the file. This is done automatically by JS. %%
+
+**4.**\
+lets say, we have a speed limit of 70kmph, if a car driving under or equal to the speed limit, we get "ok" in the console.\
+now every 5 km above the speed limit will get 1 point, if you drive 75kmph, you get `point: 1` in the console.
+
+case:\
+now if u drive 72kmph, ur still get "ok", so every 5km above the speed limit, u will get 1point. 
+
+==hint:==\
+u will have to use `Math.floor()` fn, it converts floating point number to the greatest integer. ex: `Math.floor(1.3) // 1 `
+
+if u drive 80kmph, u will get  `point: 2`. if u drive 180kmph, u get `license is suspended` as u get more than `point: 12` u get this message.
+
+```js
+function chkspd(n){
+
+if(n<=70){
+return "ok"
+}
+n%5
+}
+```

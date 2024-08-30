@@ -79,3 +79,28 @@ In the above example, the `inner` function has access to the `name` variable
 
 
 
+> [!tldr] Statement vs Expression
+> An expression is like expressing / producing a value / asking for a value.
+> 
+>   an expression 'asks' JS for a value.\
+>   for ex:
+>   ```js
+>   myVariable // evalute / whats the value of this variable?
+>   6 + 4 
+>   document.getElemendById("board")
+>   ```
+>   A statement "tells" js to do something.\
+>   (ex: declare / assign a variable)
+>   ```js
+>   
+>   let ten = 6 + 4; // assign the value to this variable
+>   myVar = "new";
+>   let board =  document.getElemendById("board")
+>   
+>   function add(x , y){
+>   console.log(x) // print this value to the console
+>   // give me back this value from this function
+>   return x + y
+>   }
+>    ```
+>   

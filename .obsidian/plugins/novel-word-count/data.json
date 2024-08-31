@@ -836,15 +836,15 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 5.1433333333333335,
-      "characterCount": 11152,
+      "characterCount": 11155,
       "nonWhitespaceCharacterCount": 8852,
       "readingTimeInMinutes": 5.8226415094339625,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1725090130669,
-      "modifiedDate": 1725126769016,
-      "sizeInBytes": 11292
+      "modifiedDate": 1725128005190,
+      "sizeInBytes": 11295
     },
     "Courses/MOSH/2. Control Flow.md": {
       "isCountable": true,

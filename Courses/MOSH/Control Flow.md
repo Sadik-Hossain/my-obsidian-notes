@@ -411,6 +411,46 @@ console.log(i,oddEvenchecker)
 **6.**\
 write a function that takes an array and returns a number of truthy elements in this array.
 
+
 ```js
+// undefined, null, '', false, 0, NaN
+function countTruthy(arr){
+
+let count = 0;
+for (e of arr){
+e && count++;
+}
+return count;
+}
+
+//mosh
+function countTruthy(arr){
+
+let count = 0;
+for (e of arr){
+if(e) count++; //js engine will interpret as boolean
+}
+return count;
+}
+
+```
+
+**7.**\
+write a function that takes an object and dispalys only the property with type string value
+```js
+const movie= {name: "a", year: 2011, rating: 4, director: 'sd'}
+
+function showProp(obj){
+for (keys in obj){
+typeof (obj[keys]) === 'string' && console.log(keys, " ", obj[keys])
+}
+}
+```
+
+**8.**\
+write a function that takes a number as an input, and returns sum of all the multiple of 3, 5 up until the number.
+
+```js
+
 
 ```

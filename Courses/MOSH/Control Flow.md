@@ -308,7 +308,7 @@ Landscape or portrait
 ```js
 function isLandscape (w,h){
 // return (w > h) ? true : false
-return (w > h )
+return w > h 
 }
 ```
 
@@ -343,7 +343,7 @@ return n;
 
 **4.**\
 lets say, we have a speed limit of 70kmph, if a car driving under or equal to the speed limit, we get "ok" in the console.\
-now every 5 km above the speed limit will get 1 point, if you drive 75kmph, you get `point: 1` in the console.
+now for every 5 km above the speed limit will get 1 point, if you drive 75kmph, you get `point: 1` in the console.
 
 case:\
 now if u drive 72kmph, ur still get "ok", so every 5km above the speed limit, u will get 1point. 
@@ -354,11 +354,63 @@ u will have to use `Math.floor()` fn, it converts floating point number to the g
 if u drive 80kmph, u will get  `point: 2`. if u drive 180kmph, u get `license is suspended` as u get more than `point: 12` u get this message.
 
 ```js
-function chkspd(n){
+function chkspd(speed){
+// defined a const spdlimit, so in future if we have to have, theres only a single place to change
+const speedLimit = 70;
 
-if(n<=70){
+
+if(speed<=speedLimit){
 return "ok"
 }
-n%5
+const point = Math.floor((speed-speedLimit)/5);
+if (point === 0){
+return "ok"
 }
+if (point >= 12){
+return "suspended"
+}
+return `points: ${point}`
+
+}
+
+// mosh
+function chkspd(spd){
+const speedLimit = 70;
+const kmPerPoint = 5;
+
+if(spd < speedLimit + kmPerPoint){
+console.log("ok");
+return;
+}
+
+const points = Math.floor((spd-speedLimit)/kmPerPoint);
+points >=12 ? console.log('license suspended'): console.log('points',points)
+
+}
+ 
+```
+
+**5.**\
+write a function, that takes a parameter called limit which takes a number, so when we call this fn we get from 0 to the number we supplied as a limit in the console, and then next to that limit we also get "ODD", "EVEN" print out based on the number
+
+```js
+
+function showNum(limit){
+
+for(let i = 0; i<=limit; i++){
+
+const oddEvenchecker = (i%2 === 0) ? "EVEN" : "ODD";
+
+console.log(i,oddEvenchecker)
+}
+
+}
+// mosh is exactly same
+```
+
+**6.**\
+write a function that takes an array and returns a number of truthy elements in this array.
+
+```js
+
 ```
